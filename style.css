@@ -1,0 +1,93 @@
+body {
+  font-family: 'Monoid', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-image: url('img/map.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: #333333;
+}
+
+#main {
+  width: 90%;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#fw-container {
+  margin-bottom: 20px;
+}
+
+#fw {
+  font-size: 24px;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+.btn-grid {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  gap: 10px;
+}
+
+.button {
+  padding: 10px 15px;
+  background-color: #00aaaa;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #0055aa;
+}
+
+#controls {
+  justify-content: center;
+  margin-top: 20px;
+}
+
+#controls.show {
+  display: flex;
+}
+
+#4-btn, #3-btn, #2-btn, #1-btn, #0-btn {
+  padding: 10px 20px;
+  background-color: #00aa00;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#4-btn:hover, #3-btn:hover, #2-btn:hover, #1-btn:hover, #0-btn:hover {
+  background-color: #00dd00;
+}
+
+.hide {
+  display: none;
+}
+
+.correct {
+  background-color: #00aa00;
+  color: white;
+}
+
+.incorrect {
+  background-color: #aa0000;
+  color: white;
+}
+.fw-image {
+  object-fit: contain;
+}
