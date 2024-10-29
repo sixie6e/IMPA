@@ -102,7 +102,6 @@ Alaska
 	Aaron Pettus(police) - assault of bicyclist
 	Matthew Owens(police) - murder
 	Anthony Rollins(police) - rape
-	Patrick J OKane(corrections) - agg assault, dv
 	Peter Schneider(police) - solicitation of a minor
 	Casey Richardson(police) - poisoned wolves
 	Ron Hobson(police) - agg assault
@@ -118,12 +117,15 @@ Alaska
 	Steven Manuel(corrections) - smuggling
 	Stewart Blakeslee(corrections) - child pornography
 
-
 Arizona
 	Richard Chrisman(police) - murder
 	Jill Houchens(police) - animal cruelty
-		
-	
+	Jesse Wilburn Sr(corrections) - assault family
+	Alaa Robert Bartley(police) - child pornography
+	Ayden Escarrega(corrections) - beat inmate
+	Zachary Hyde(police) - dui, MADD honoree
+	Ramon Godoy(corrections) - sexual assault
+			
 Arkansas
 	Coleman Brackney(police) - murder
 	Larry P. Norman(state police) - negligent homicide
@@ -145,7 +147,6 @@ California
 	Benito Soto(police) - vehicular homicide
 	Benjamin Jillson(police) - vehicular homicide
 
-	
 Colorado
 	James Ashby(police) - stalking, murder
 	Adam Lunn(sheriff) - murder
@@ -159,8 +160,7 @@ Connecticut
 	Scott Byron Smith(police) - murder
 	William Scribner(police) - murder
 	Brendan Borer(police) - removed tents of homeless
-	
-	
+		
 Delaware
 	Dempsey Walters(state police) - assaulted teens
 	Samuel Walters(police) - agg assault
@@ -193,12 +193,14 @@ Georgia
 	Marcus Eberhart(police) - manslaughter
 	Jason Kenny(sheriff) - torture, murder
 	Robert Olsen(police) - murder
+
 Hawaii
 	Mark Kealoha Kaili Jr(police) - assault, burglary
 	William Gary(dle) - racial harassment
 	William K Keahi(sheriff) - harassment, endangerment
 	Eric Mitamura(ccd) - racial harassment
 	Alvin Turla(ccd) - racial harassment
+
 Idaho
 	Gordon Shaw(police) - human trafficking
 	Bradley Chambers(police) - excessive force
@@ -295,6 +297,15 @@ Minnesota
 	
 Mississippi
 	Anthony Fox(police) - murder
+	Christian Dedmon(sheriff) - torture
+	Brett McAlpin(sheriff) - torture
+	Hunter Elward(sheriff) - torture
+	Jeffrey Middleton(sheriff) - torture
+	Daniel Opdyke(sheriff) - torture
+	Joshua Hartfield(police) - torture
+	Michael Christian Green(police) - forced inmate to drink urine(filmed it)
+	Adrian Durr(sheriff) - beat handcuffed person
+	Hosie Porter(police) - rape, sexual assault
 	
 Missouri
 	Anthony Piercy(mhp) - negligent homicide
@@ -307,16 +318,48 @@ Missouri
 	Eric DeValkenaere(police) - murder, planting evidence
 	
 Montana
-
+	Jefferey Allen Gregorie(sheriff) - abuse of inmates, prostitution, evidence tampering
+	Justin Christopher Andrews(corrections) - sex with inmate
+	Matthew Timm(police) - child sex crimes
+	Frank Dahlquist(chief) - Jan 6_
+	Hossein Cristiano Luigi Borhan(police) - child sex crimes
+	Scott Patrick Elliott(corrections) - money laundering, drug dist
+	
 Nebraska
-
+	Bruce Neal(sheriff) - sexual assault
+	Christopher Groth(police) - child pornography
+	Abbey Fielder(corrections) - sex with inmate
+	Laura Schluckbier(corrections) - sex with inmate
+	Nicole Carter(corrections) - sex with inmate
+	Anthony Chisano(police) - stalking, intrusion
+	Casey Hurlburt(sheriff) - ins fraud
+	
 Nevada
 	Joshua Corcran(state police) - murder
+	Harvey Velazquez(police) - child sex crimes
+	Jacob Fisher(state police) - dui, reckless speeds
+	Kevin Menon(police) - fake arrests, ordered officers to lie
+	LaWayne Hardiman(corrections) - smuggling
+	Caleb Mitchell Rogers(police) - robbery
+	Kevin Bonilla(gov sec) - dui
 	
 New Hampshire
-
+	Matthew Millar(corrections) - murder
+	Michael MacNeilly(police) - assault, dv, stalking
+	Benjamin Sargent(chief) - official oppression
+	Bryan Croft(police) - assault, witness tampering
+	Anna Doherty(police) - dui
+	Penny McIntyre(corrections) - sex with inmate
+	
 New Jersey
 	Jovanny Crespo(police) - murder
+	Kevin Ruditsky(police) - stalking teenage girls
+	Patrick J OKane(corrections) - agg assault, dv
+	Jeury DeJesus-Rodriguez(police) - shoplifting
+	John DeSalvo(corrections) - wire fraud
+	Eudy Ramos(police) - robbery, falsifying evidence
+	Jonathan Bustios(police) - robbery, falsifying evidence
+	Matthew Torres(police) - robbery, falsifying evidence
 	
 New Mexico
 	Billy Anders(sheriff) - manslaughter
@@ -329,13 +372,20 @@ New York
 	Paolo Colecchia(police) - murder
 	Peter Liang(police) - murder	
 	Rebecca Hillman(corrections) - negligent homicide
+	Hugh Tran(police) - attempted murder, agg assault
 	
 North Carolina
 	Phillip Barker(police) - manslaughter
 	Jesse Santifort (police) - murder
+	Dylen Lineberger(police) - harassment
+	Rayshawn Taylor(police) - kidnapping, sex crimes
+	Brian Gerber(police) - fraud
 	
 North Dakota
-
+	Jonas Duncan(police) - racial profiling
+	Paul Bradley Meagher(police) - child pornography
+	George Huff(police) - agg assault
+	Lindrith Tsoodle(police) - beat handcuffed person
 Ohio
 	Adam Coy(police) - murder
 	Jeffrey Hodge(police) - murder
@@ -352,6 +402,11 @@ Oklahoma
 	Joshua Taylor(police) - murder
 	
 Oregon
+	Joshua West(police) - dv strangulation
+	Walter Leroy Harper III(police) - sex crimes
+	Scott Groshong(police) - assault
+	Darke Hull(police) - sex abuse, harassment
+	Andrew Johnson(police) - intimidation with gun
 
 Pennsylvania
 	Steven Homanko(police) - vehicular homicide
@@ -369,6 +424,10 @@ Pennsylvania
 	
 Rhode Island
 	Joseph Warzycha(police) - manslaughter
+	Alexander Caraballo(police) - obstruction
+	Seth Crosby(corrections) - child pornography
+	Shane Lynch(police) - urinated on woman
+	Britton Kelly(police) - assault
 	
 South Carolina
 	Justin Craven(police) - murder
@@ -377,7 +436,11 @@ South Carolina
 	Stephen Flood(sheriff) - vehicular homicide
 	
 South Dakota
-
+	Jay Edward Ostrem(sheriff) - murder
+	Jeremiah Erickson(police) - dui
+	Luke John Schauer(police) - child pornography
+	Matthew Alan Jock(police) - child pornography
+	
 Tennessee
 	Paul Carrier(police) - reckless homicide
 	Desmond Mills(police) - murder, kidnapping
@@ -404,8 +467,16 @@ Texas
 	
 Utah
 	Joseph Corbett(police) - manslaughter
-	
+	Colton Johansen(police) - sexual exploitation of minors
+	Cody Alan Rutledge(corrections) - forced sodomy
+	Seth Hendrickson(chief) - heroin possession 
+		
 Vermont
+	George Johnson(police) - agg assault
+	Jakob Oliver(police) - dv
+	David Orvis(corrections) - smuggling
+	Ryan Wood(state police) - assault
+	Zachary trocki(state police) - assault
 
 Virginia
 	Adam D. Torres(police) - murder
@@ -427,6 +498,12 @@ Washington
 West Virginia
 	Brandon Tagayun(police) - murder
 	Travis Snuffer(chief) - animal cruelty
+	James Bennett(corrections) - sexual abuse
+	Patrick J Hoder(sheriff) - child pornography
+	David W Cole(corrections) - arson
+	William Townsend(police) - stalking
+	Chris Kendall(police) - dv
+	Christopher Erickson(corrections) - child pornography
 	
 Wisconsin
 	Thomas Grady(police) - murder
@@ -434,3 +511,7 @@ Wisconsin
 	Joel Streicher(sheriff) - vehicular homicide
 	
 Wyoming
+	Michael Hughes(police) - agg assault
+	Gabriel Testerman(state police) - sexual assault
+	Michael Matheson(police) - intimidation, obstruction
+	
