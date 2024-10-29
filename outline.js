@@ -176,6 +176,8 @@ Louisiana
 	Melvin Williams(police) - murder
 	David Warren(police) - murder
 Maine
+	Addison Cox(police) - beat porcupines to death for snapchat
+	Michael Rolerson(police) - beat porcupines to death for snapchat
 Maryland
 	Robert Warrington(police) - attempted murder
 	David Acosta(police) - animal cruelty(his k9)
