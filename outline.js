@@ -1,8 +1,9 @@
 // This will be continually updated as the project progresses.
 // State -> Society/Facility -> Violent/Non -> Death/Injury -> Financial
 // sixie6e@distherapy 2024
+
 Alabama:
-	Society:
+	In Society:
 		Cameroun Tremble(police) - animal cruelty
 		Dana Elmore(police) - tased handcuffed man
 		Justin Bisharat(police) - domestic strangulation
@@ -60,8 +61,10 @@ Alabama:
 		James Fowler(ahp)- manslaughter
 		Charles Forbes(police) - murder
 		Brandon Shane Mundy(police) - negligent homicide
+		Andrew Bass(police) - negligent homicide
+		William Darby(police) - murder
 		
-	Facility:
+	In Facility:
 		William Todd(corrections) - stole from inmate
 		Jesse Cobb(corrections) - beat inmate
 		Ryan Phillips(police) - beat inmate
@@ -97,6 +100,7 @@ Arkansas
 	Coleman Brackney(police) - murder
 	Larry P. Norman(state police) - negligent homicide
 	Jerri Beyard(police) - animal cruelty
+	Michael Davis(sheriff) - negligent homimcide
 California
 	John Swearengin(sheriff) - vehicular homicide
 	Johannes Mehserle(police) - murder
@@ -105,7 +109,19 @@ California
 	George Gwaltney(chp) - rape, murder
 	Robert Armstrong(sheriff) - murdered pregnant woman
 	Craig Peyer(chp) - murder
+	Patrick Feaster(police) - murder
+	Andrew Hall(police) - manslaughter
+	Andrew Lyons(sheriff) - murder
+	Aaron Russell(sheriff) - murder
+	Benito Soto(police) - vehicular homicide
+	Benjamin Jillson(police) - vehicular homicide
 Colorado
+	James Ashby(police) - stalking, murder
+	Adam Lunn(sheriff) - murder
+	James OBrien(sheriff) - murder
+	Randy Roedema(police) - murder
+	Kyle Alan Gould(sheriff) - manslaughter
+	Andrew Buen(sheriff) - manslaughter
 Connecticut
 	Jason Anderson(police) - negligent homicide
 	Scott Byron Smith(police) - murder
@@ -114,21 +130,31 @@ Connecticut
 Delaware
 DC
 	Reginald Jones(police) - robbery, murder
+	Andrew Zabavsky(polcie) - manslaughter
+	Terence Sutton(police) - manslaughter
+	Enis Jevric(police) - murder
 Florida
 	John Rutherford(corrections) - animal cruelty
 	Robert Koenig(police) - manslaughter
 	James Duckett(police) - rape, murder
 	William Lozano(police) - manslaughter
+	Nouman K. Raja(police) - murder
+	Lee Coel(police) - manslaughter
 	 
 Georgia
+	Jason Smith(police) - murder, planting drugs
+	Greg Junnier(police) - murder, planting drugs
 	Kristina Hambie(police) - vehicular homicide
 	Antonio Taharka(police) - manslaughter
 	Arthur Telser(police) - murder, planting drugs
-	Jason Smith(police) - murder, planting drugs
-	Greg Junnier(police) - murder, planting drugs
+	Howard Weems(police) - manslaughter
+	Marcus Eberhart(police) - manslaughter
+	Jason Kenny(sheriff) - torture, murder
+	Robert Olsen(police) - murder
 Hawaii
 Idaho
 Illinois
+	Jason Van Dyke(police) - manslaughter
 	William McKinney(police) - manslaughter
 	Matt Mitchell(state police) - manslaugher
 	John McDonald(police) - murder
@@ -137,7 +163,10 @@ Indiana
 Iowa
 Kansas
 Kentucky
+	Bobby Joe Smith(constable) - murder
 Louisiana
+	Norris Greenhouse Jr(police) - killed 6 year old
+	Derrick Stafford(police) - killed 6 year old
 	Joshua Colclough(police) - murder
 	Steven Merchant(police) - murder
 	Kenneth Bowen(police) - murder
@@ -157,49 +186,82 @@ Michigan
 	Kenneth Bluew(police) - murdered pregnant woman
 	Larry Nevers(police) - murder
 	Walter Budzyn(police) - murder
+	Mark Bessner(state police) - manslaughter
 Minnesota
 	Robert leroy Nelson(state police) - rape, torture, murder
+	Mohamed Noor(police) -  murder
+	Derek Chauvin(police) - murder
+	Thomas Lane(police) - murder
+	J. Alexander Kueng(police) - murder
+	Tou Thao(police) - murder
+	Kim Potter(police) - murder
+	Brian Cummings(police) - vehicular homicide
 Mississippi
+	Anthony Fox(police) - murder
 Missouri
+	Anthony Piercy(mhp) - negligent homicide
 	Brian Massa(police) - manslaughter
 	Andrew Ringeisen(police) - manslaughter
 	Daniel Zeigler(police) - animal cruelty
 	Myron Woodson(police) - animal cruelty
+	Andria Heese(police) - vehicular manslaughter
+	Nathaniel Hendren(police) - murder
+	Eric DeValkenaere(police) - murder, planting evidence
 Montana
 Nebraska
 Nevada
 	Joshua Corcran(state police) - murder
 New Hampshire
 New Jersey
+	Jovanny Crespo(police) - murder
 New Mexico
 	Billy Anders(sheriff) - manslaughter
 	Joseph Mantelli(police) - murder
 New York
-	Brian Conroy(police) - murder
-	Thomas Ryan(police) - murder
-	Jonas Bright(police) - murder
-	Paolo Colecchia(police) - murder 
+	In Society:
+		Brian Conroy(police) - murder
+		Thomas Ryan(police) - murder
+		Jonas Bright(police) - murder
+		Paolo Colecchia(police) - murder
+		Peter Liang(police) - murder	
+	In Facility:
+		Rebecca Hillman(corrections) - negligent homicide
 North Carolina
+	Phillip Barker(police) - manslaughter
+	Jesse Santifort (police) - murder
 North Dakota
 Ohio
 	Jeffrey Hodge(police) - murder
+	Cecil Morrison(police) - negligent homicide
 Oklahoma
+	Keith Sweeney(police) - murder
 	Randy Trent Harrison(police) - murder
 	Paul Bradley Rogers(police) - killed 5 year old
 	William Golden(police) - animal cruelty
+	Robert Charles Bates(sheriff) - murder
+	Brandon Dingman(police) - murder
+	Joshua Taylor(police) - murder
 Oregon
 Pennsylvania
+	Steven Homanko(police) - vehicular homicide
 	Matthew J. Hinkel(police) - manslaughter
 	Scott Charles Cameron(police) - murder
 	John Whiteside(police) - murder
 	Marcus Giardino(police) - murder
 	John Charmo(police) - murder
 	Jonathan DePrenda(police) - vehicular manslaughter
+	Eric Ruch(police) - manslaughter
+	Brian Devaney(police) - manslaughter
+	Sean Dolan(police) - manslaughter
+	Devon Smith(police) - manslaughter
+	Edsaul Mendoza(police) - murder
 Rhode Island
 	Joseph Warzycha(police) - manslaughter
 South Carolina
 	Justin Craven(police) - murder
 	Richard Combs(police) - murder
+	Michael Slager(police) - murder
+	Stephen Flood(sheriff) - vehicular homicide
 South Dakota
 Tennessee
 	Paul Carrier(police) - reckless homicide
@@ -208,6 +270,8 @@ Tennessee
 	Tadarrius Bean(police) - murder, kidnapping
 	Demetrius Hale(police) - murder, kidnapping
 	Justin Smith(police) - murder, kidnapping
+	Mike Holmes(sheriff) - manslaughter
+	Andrew Delke(police) - murder
 Texas
 	Jason Blackwelder(police) - manslaughter
 	Teddie Whitefield(police) - dui, homicide
@@ -216,6 +280,10 @@ Texas
 	Stephen Orlando(police) - murder
 	Terry Danson(police) - murder
 	Joseph Kent McGowen(sheriff) - fake warrant, murder
+	Roy Oliver(police) - murder
+	Bau Tran(police) - murder
+	Gerald Goines(police) - fake warrant, murder
+	Aaron Dean(police) - murder
 Utah
 	Joseph Corbett(police) - manslaughter
 Vermont
@@ -224,16 +292,21 @@ Virginia
 	Daniel Harmon Wright(police) - murder
 	Derek Folston(police) - manslaughter
 	Richard Chinappi III(police) - animal cruelty
+	Stephen Rankin(police) - murder
+	Albin Pearson(police) - murder
+	Richard Daniel Johnson(police) - vehicular homicide
 Washington
 	Karl Thompson(police) - murder
 	Mathias Bachmeier(sheriff) - murder
 	Pat Whalen(police) - manslaughter
 	W.F. Stephenson(police) - manslaughter
 	Fred Paschal(police) - manslaughter
+	Jeffrey Nelson(police) - murder
 West Virginia
 	Brandon Tagayun(police) - murder
 	Travis Snuffer(chief) - animal cruelty
 Wisconsin
 	Thomas Grady(police) - murder
 	John Mueller(police) - murder
+	Joel Streicher(sheriff) - vehicular homicide
 Wyoming
