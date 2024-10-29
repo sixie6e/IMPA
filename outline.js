@@ -1,3 +1,6 @@
+// This will be continually updated as the project progresses.
+// State -> Society/Facility -> Violent/Non -> Death/Injury -> Financial
+// sixie6e@distherapy 2024
 Alabama:
 	Society:
 		Cameroun Tremble(police) - animal cruelty
