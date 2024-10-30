@@ -270,20 +270,79 @@ Maine
 	Stephen Easley Jr(police) - dv
 	Jeffrey Bishop(police) - drug trafficking
 	Robert Ireland(corrections) - sexual assault, smuggling
+	Jeffrey Linscott(state police) - fentanyl trafficking
+	Andre Paradis,(state police) - gf dui crash, let her go
+	Glenn Lang(sa) - beat handcuffed man
+	Tyler Maloon(state police) - covered for Glenn Lang
+	Daniel Murray(state police) - impaired w/ minor driving
+	David Coflesky(state police) - car theft, dui
+	Bryan Creamer(state police) - does not properly investigate
+	Robin Parker(stater police) - dui
+	Daniel Ross(sheriff) - sexual assault, dv
+	Brian Smith(sheriff) - dv	
 	
 Maryland
 	Robert Warrington(police) - attempted murder
 	David Acosta(police) - animal cruelty(his k9)
+	Ryan Christopher Hall(detective) - child sex crimes
+	Nicholas Blendy(sheriff) - dui
+	Ronald S Bateman(sheriff) - dv
+	Larry Tucker(police) - child sex crimes 16 counts
+	Chuck Jenkins(sheriff) - falsifying paperwork
+	Kyle Thomas(sheriff) - harassment, sexts, intimidation
+	Ehren Fluellyn(special police) - assault
+	Anthony Westerman(police) - rape
+	Robert Warrington(police) - attempted murder
+	Sierra Alston(police) - car thefts
+	Eli Winston(police) - assault
+	Justin Lee(police) - smoke bomb Jan 6
+	Philip Dupree(police) - assault, dep civil rights
+	Charles Williams Jr(police) - assault
+	Duaner Hill(state police) - dui
+	Jason Dyott(police) - sexual misconduct
+	Andrew Salenieks(police) - assault
+	Steven Abreu(sheriff) - rape
+	Ryan Macklin(police) - rape
+	Stephen Downey(police) - beat handcuffed man
+	Danny Rauschkolb(police) - dv
+	Bey Dominick(police) - drug trafficking
+	Michael Owen Jr(police) - murder
 	
 Massachusetts
 	Stuart Merry(police) - negligent homicide
 	James Hall(police) - manslaughter 
+	Nick Cocchi(sheriff) - dui
+	Matthew B Marshall(police) - child pornography
+	Matthew Farwell(police) - murder pregnant woman
+	James Doran(state police) - dui
+	Richard Evans(police) - fraud
+	Dylan Knox(state police) - dv
+	Jennifer de los Santos(police) - assault
+	Richard Whelan(state police) - dv
+	Sean Flaherty(police) - assault
+	Marc Correia(police) - dv
+	Duane Danforth(police) - assault
+	Miranda Caldwell(police) - drugs, guns
+	Gary Cederquist(state police) - bribery, conspiracy
+	Joel Rogers(state police) - bribery, conspiracy
+	Calvin Butner(state police) - bribery, conspiracy
+	Perry Mendes(state police) - bribery, conspiracy
+	Matthew Morrissey(police) - witness intimidation, harassment
 	
 Michigan
 	Kenneth Bluew(police) - murdered pregnant woman
 	Larry Nevers(police) - murder
 	Walter Budzyn(police) - murder
 	Mark Bessner(state police) - manslaughter
+	Jonathan Debczak(police) - assault w/ weapon, dui, dv
+	James Sribniak(police) - used k9 to maul
+	Jack Currie(police) - used k9 to maul
+	Matthew Rodriguez(police) - beat inmate
+	Brian Keely(state police) - murder
+	Jeffrey Morningstar(police) - child sex crimes
+	Amanda Szymanski(police) - covered up traffic crash
+	Christopher Schurr(police) - murder
+	Ryan Dornbos(police) - child sex crimes
 	
 Minnesota
 	Robert leroy Nelson(state police) - rape, torture, murder
@@ -391,6 +450,13 @@ Ohio
 	Jeffrey Hodge(police) - murder
 	Cecil Morrison(police) - negligent homicide
 	Adrian Wilson(police) - let k9 maul
+	Connor Grubb(police) - murder pregnant woman
+	Nicholas Duty(police) - turned off bwc w/ women
+	Shawn Willard(police) - assault
+	Geoffrey Parker(police) - child pornography
+	John Castillo(police) - drug trafficking
+	Joel Mefford(police) - drug trafficking
+	David Pearson(police) - negligent homicide
 	
 Oklahoma
 	Keith Sweeney(police) - murder
@@ -514,4 +580,5 @@ Wyoming
 	Michael Hughes(police) - agg assault
 	Gabriel Testerman(state police) - sexual assault
 	Michael Matheson(police) - intimidation, obstruction
-	
+	Benjamin Jacquot(sheriff) - child assault
+	Zachary Miller(police) - animal cruelty
