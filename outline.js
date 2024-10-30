@@ -125,12 +125,36 @@ Arizona
 	Ayden Escarrega(corrections) - beat inmate
 	Zachary Hyde(police) - dui, MADD honoree
 	Ramon Godoy(corrections) - sexual assault
+	David Ellison(police) - dv
+	Todd Stevens(police) - manslaughter
+	Roszell Mosley(police) - manslaughter
+	Andrew Williams(police) - manslaughter
+	Anthony Armour(police) - sexual assault
+	Sean Pena(police) - sexual assault
+	Ben Harris(police) - agg assault deaf black guy w/ cereb palsy
+	Kyle Sue(police) - agg assault deaf black guy w/ cereb palsy
 			
 Arkansas
 	Coleman Brackney(police) - murder
 	Larry P. Norman(state police) - negligent homicide
 	Jerri Beyard(police) - animal cruelty
 	Michael Davis(sheriff) - negligent homimcide
+	Joseph Harris(police) - agg assault
+	Zachary King(sheriff) - agg assault
+	Levi White(sheriff) - agg assault
+	Thell Riddle(police) - agg assault
+	Wayne Sandusky(police) - harboring fugitive
+	Jacob Teel(sheriff) - sex crimes
+	Colton Crabb(sheriff) - child pornography, sex crimes
+	David Cross(sheriff) - child pornography
+	Myles Huff(police) - assault, endangering minor
+	Joshua Barber(police) - drug distribution
+	Jacob Gammel(chief) - theft, perjury
+	Elizabeth Roberson(police) - unauthorized access
+	Stevon Grindstaff(sheriff) - murder
+	Telvin Wilson(police) - child sex trafficking
+	Justin Davis(police) - sexual assault
+	Roy Mitchell(police) - child sex crimes
 	
 California
 	John Swearengin(sheriff) - vehicular homicide
@@ -345,7 +369,7 @@ Michigan
 	Ryan Dornbos(police) - child sex crimes
 	
 Minnesota
-	Robert leroy Nelson(state police) - rape, torture, murder
+	Robert Leroy Nelson(state police) - rape, torture, murder
 	Mohamed Noor(police) -  murder
 	Derek Chauvin(police) - murder
 	Thomas Lane(police) - murder
@@ -423,6 +447,16 @@ New Jersey
 New Mexico
 	Billy Anders(sheriff) - manslaughter
 	Joseph Mantelli(police) - murder
+	Jordan Hernandez(police) - dui
+	Kevin Keiner(state police) - rape
+	Sammy Clouthier(state police) - child pornography
+	David Neal(state police) - fraud
+	Corey Saffell(police) - bodily inj w/ weapon
+	Ceasar Mendoza(police) - bodily inj w/ weapon
+	Robert Embly(police) - bodily inj w/ weapon
+	Jeremy Navarez(police) - animal cruelty, assault
+	Ronald Jackson(state police) - rape of a minor
+	Angelo Vega(chief) - trafficking firearms
 	
 New York
 	Brian Conroy(police) - murder
@@ -459,13 +493,27 @@ Ohio
 	David Pearson(police) - negligent homicide
 	
 Oklahoma
+	Steven Cugini(police) - raped 13 month old
+	Jeffrey Frisbie(police) - child sex crimes
+	Ryan Stark(police) - rape, kidnapping, strangulation
 	Keith Sweeney(police) - murder
+	Dshaunn Dixon(corrections) - rape
 	Randy Trent Harrison(police) - murder
 	Paul Bradley Rogers(police) - killed 5 year old
 	William Golden(police) - animal cruelty
 	Robert Charles Bates(sheriff) - murder
 	Brandon Dingman(police) - murder
+	Timothy Peek(police) - animal cruelty
 	Joshua Taylor(police) - murder
+	Daniel Holtzclaw(police) - rape
+	Jeffrey Smith(police) - sexual assault
+	Cody Fitzgerald(police) - animal cruelty
+	Kayla Barnes(police) - animal cruelty
+	James Matthew Waltman(police) - rape by instrumentation
+	Bryant Holloway(police) - fraud
+	Joel median(police) - extortion
+	Bob Colbert(sheriff) - extortion
+	Jeffrey Gragg(sheriff) - extortion
 	
 Oregon
 	Joshua West(police) - dv strangulation
@@ -582,3 +630,4 @@ Wyoming
 	Michael Matheson(police) - intimidation, obstruction
 	Benjamin Jacquot(sheriff) - child assault
 	Zachary Miller(police) - animal cruelty
+	
