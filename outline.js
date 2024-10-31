@@ -173,31 +173,87 @@ California
 
 Colorado
 	James Ashby(police) - stalking, murder
+	Sean Tatro(police) - rape using stun gun
 	Adam Lunn(sheriff) - murder
+	Daniel Huff(police) - incest
 	James OBrien(sheriff) - murder
 	Randy Roedema(police) - murder
+	Michael Hawkins(police) - child sex crimes, incest
 	Kyle Alan Gould(sheriff) - manslaughter
 	Andrew Buen(sheriff) - manslaughter
+	Ryan Bennie(state police) - failure to intervene
+	Brittany Morrow(police) - failure to intervene
+	Timothy Collins(police) - failure to intervene
+	Christa Lloyd(game warden) - failure to intervene
+	Mary Harris(game warden) - failure to intervene
+	Kyle Gould(police) - escalated standoff. negligent homicide
+	Randy Williams(marshal) - assault
+	Levi Braun(police) - unauthorized access
+	Richard Norton(police) - child abuse
+	Matthew Moore(police) - dv
+	Vladimir Zhizhin(police) - stalking, burglary
+	Emily Bailey(police) - evidence/paperwork tampering
+	Trevor McCourt(police) - pistol whipped suspect
+	Jonathan Yelvington(police) - child abuse
+	Austin Hopp(police) - elderly abuse
+	Daria Jalali(police) - elderly abuse
+	Dylan Miller(police) - child sex crimes, kidnapping
 	
 Connecticut
 	Jason Anderson(police) - negligent homicide
 	Scott Byron Smith(police) - murder
+	David Rivera(police) - animal cruelty, explosives
 	William Scribner(police) - murder
+	Hector Delgado(police) - sexual assault, stalking
 	Brendan Borer(police) - removed tents of homeless
-		
+	Peter Zavickas(police) - stalking
+	Marcello Confeiteiro(police) - slapped secured person
+	Dani Soto(police) - stalking, harassment
+	Allen Ganter(police) - assault
+	Patrick Hemingway(police) - burglaries
+	Brian North(state police) - manslaughter
+	Mitchell Paz(state police) - unauthorized access
+	Betsy Segui(police) - randy cox paralyzation
+	Luis Rivera(police) - randy cox paralyzation
+	Jocelyn Lavandier(police) - randy cox paralyzation
+	Oscar Diaz(police) - randy cox paralyzation
+	Ronald Pressley(police) - randy cox paralyzation
+	Christine Burns(police) - covered up hit and run
+	Catherine Koeppel(police) - hit and run
+	Emmanuel Cordero(police) - risk injury to a minor
+	Jonathan Martin(police) - dv
+	Christopher Troche(police) - sex crimes
+			
 Delaware
 	Dempsey Walters(state police) - assaulted teens
-	Samuel Walters(police) - agg assault
+	Samuel Waters(police) - agg assault
 	Jahee White(corrections) - smuggling
 	Kyle Linville(police) - intimidation with gun
 	Angela Dildy(corrections) -  smuggling
 	Michael Coleman(police) - PPP fraud
+	William Paskey(police) - interfered w/ alcohol check minors
+	Anthony DiGati(state police) - dv
+	Joseph Dominic(ate) - smuggling
+	Jeffrey Bessinger(sheriff) - theft
+	Tyler McAteer(sheriff) - sexual assault
+	Jerry Parks(sheriff) - drug distribution
+	Anthony Shields(sheriff) - dui
 
 DC
 	Reginald Jones(police) - robbery, murder
-	Andrew Zabavsky(polcie) - manslaughter
-	Terence Sutton(police) - manslaughter
+	Andrew Zabavsky(police) - manslaughter
+	Terence Sutton(police) - murder
 	Enis Jevric(police) - murder
+	Marc Davis(police) - fraud
+	Marc Washintgon(polic) - production of child pornography
+	Shane Lamond(police) - obstruction
+	Peter McCauley(police) - eluding, reckless driving, accident w/ injury
+	John Bewley(police) - dui
+	Brett Parson(police) - child sex crimes
+	Curtis Holloway(police) - assault w/ weapon, deprivation of rights
+	Andrew Philip Creveling(police) - public urination, assault
+	Tyson Rushing(police) - school voyeurism
+	Arthur Thompson(police) - drunk on duty
 	
 Florida
 	John Rutherford(corrections) - animal cruelty
@@ -369,7 +425,7 @@ Michigan
 	Ryan Dornbos(police) - child sex crimes
 	
 Minnesota
-	Robert Leroy Nelson(state police) - rape, torture, murder
+	Robert leroy Nelson(state police) - rape, torture, murder
 	Mohamed Noor(police) -  murder
 	Derek Chauvin(police) - murder
 	Thomas Lane(police) - murder
@@ -514,6 +570,7 @@ Oklahoma
 	Joel median(police) - extortion
 	Bob Colbert(sheriff) - extortion
 	Jeffrey Gragg(sheriff) - extortion
+	Nicholas ONeal(sheriff) - dui
 	
 Oregon
 	Joshua West(police) - dv strangulation
