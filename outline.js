@@ -245,7 +245,7 @@ DC
 	Terence Sutton(police) - murder
 	Enis Jevric(police) - murder
 	Marc Davis(police) - fraud
-	Marc Washintgon(polic) - production of child pornography
+	Marc Washintgon(police) - production of child pornography
 	Shane Lamond(police) - obstruction
 	Peter McCauley(police) - eluding, reckless driving, accident w/ injury
 	John Bewley(police) - dui
@@ -262,8 +262,51 @@ Florida
 	William Lozano(police) - manslaughter
 	Nouman K. Raja(police) - murder
 	Lee Coel(police) - manslaughter
-	 
+	Dariel Javier Quiles-Davila(police) - child pornography
+	Roland Clarke(corrections) - murder
+	Michael Riley Jr(corrections) - murder
+	William Jerrels(corrections) - murder
+	John Nettles(corrections) - murder
+	Jacob Anderson(corrections) - failure to intervene/protect
+	Jason Livingston(corrections) - failure to intervene/protect
+	John Nyitray(corrections) - failure to intervene/protect
+	Aaron Lewis(corrections) - failure to intervene/protect
+	John Eberlein(corrections) - failure to intervene/protect
+	Richard Flynn(corrections) - failure to intervene/protect
+	Steven Potosky(corrections) - failure to intervene/protect
+	Daniel Greene(corrections) - failure to intervene/protect
+	Royce Givens(corrections) - failure to intervene/protect
+	Eddie Duran(sheriff) - manslaughter
+	Danny Torres(police) - excessive force
+	Peter Delio(police) - beat handcuffed person
+	Frederick Lise(detective) - aiding drug trafficking
+	Jennifer Ketcham(police) - unauthorized access
+	Brian Housend(police) - armed kidnapping, stalking
+	Markanthony Fernandez(police) - sex with minors
+	John Burgos(sheriff) - sexual assault, false imprisonment
+	Alejandro Carmona(sheriff) - solicitation of minors
+	Josue Garriga III(sheriff) - sexual exploitation of a minor
+	Reginald McKinney(sheriff) - assault, false imprisonment
+	Christian Butterfield(police) - destruction of evidence
+	Richard Santiesteban(police) - manslaughter
+	Rodolfo Miraba(police) - manslaughter
+	Jose Mateo(police) - manslaughter
+	Leslie Lee(police) - manslaughter
+	James Montiel(police) - child pornography
+	Stephen Corbin(sheriff) - false imprisonment, prostitution, assault, bribery
+	Oxilese Jeannot(sheriff) - fraud
+	Jonathan Harding(corrections) - sex w/ inmate, smuggling
+	Christopher Pullease(police) - strangulation
+	Danny Moore(police) - sex with drunk minor in his home
+	Kai Cromer(sheriff) - child pornography
+	Andrea Smith(police) - dui
+	Zachary Wester(police) - planting evidence, racketeering, false imprisonment
+	Andrew Graham(police) - perjury
+	Jason Casteel(police) - perjury
+	
 Georgia
+	290 police arrested for dui in the last 5 years
+	Matthew Ainsworth(sheriff) - beat his k9, animal cruelty
 	Jason Smith(police) - murder, planting drugs
 	Greg Junnier(police) - murder, planting drugs
 	Kristina Hambie(police) - vehicular homicide
@@ -273,6 +316,14 @@ Georgia
 	Marcus Eberhart(police) - manslaughter
 	Jason Kenny(sheriff) - torture, murder
 	Robert Olsen(police) - murder
+	Kenneth Bishop(police) - agg assault, terrorist threats
+	Joshua Wilson(police) - home invasion
+	Zachary Wilkerson(police) - dv
+	Ray Dexter Ewings(police) - sexual assault
+	Miles Bryant(police) - concealing death, falsely reporting crime
+	Jordan Sidney(police) - theft
+	Carlos Petiote(sheriff) - obstruction
+	Shevoy Brown(police) - excessive force
 
 Hawaii
 	Mark Kealoha Kaili Jr(police) - assault, burglary
