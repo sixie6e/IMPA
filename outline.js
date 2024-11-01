@@ -159,6 +159,7 @@ Arkansas
 California
 	John Swearengin(sheriff) - vehicular homicide
 	Johannes Mehserle(police) - murder
+	James Best Jr(police) - child sex crimes
 	James Council(sheriff) - manslaughter
 	Dan Riter(da) - manslaughter
 	George Gwaltney(chp) - rape, murder
@@ -487,6 +488,16 @@ Louisiana
 	Chris Hollingsworth(police) - murder
 	John Clary(police) - murder
 	Dakota DeMoss(police) - murder
+	Isaiah Gilbert(state police) - dui
+	Nicholas LoCicero(sheriff) - rape
+	Artellus Bellard(state police) - assault
+	Huey Galmiche(state police) - shoplifting
+	Brett Dupre(state police) - falsifying paperwork
+	Brent Ridder(sheriff) - child pornography
+	Michael Satcher II(state police) - home invasion, kidnapping
+	Javontrics Murphy(sheriff) - rape
+	Kelvin Higginbotham(sheriff) - dv
+	Andrew Wheeler(sheriff) - smuggling
 	
 Maine
 	Addison Cox(police) - beat porcupines to death for snapchat
@@ -503,11 +514,17 @@ Maine
 	Glenn Lang(sa) - beat handcuffed man
 	Tyler Maloon(state police) - covered for Glenn Lang
 	Daniel Murray(state police) - impaired w/ minor driving
+	Jeff Boudreau(sheriff) - tried to convince pretrial person to skip bail
 	David Coflesky(state police) - car theft, dui
 	Bryan Creamer(state police) - does not properly investigate
 	Robin Parker(stater police) - dui
 	Daniel Ross(sheriff) - sexual assault, dv
-	Brian Smith(sheriff) - dv	
+	Brian Smith(sheriff) - dv
+	Marcel Drouin(state police) - stole gasoline
+	Taylor Reynolds(police) - assault
+	Grace Pearson(corrections) - medical abuse
+	Gregory Vrooman(state police) - child sex charges
+	Andrew Demers(chief of state police) - child sex crimes
 	
 Maryland
 	Robert Warrington(police) - attempted murder
@@ -535,7 +552,7 @@ Maryland
 	Danny Rauschkolb(police) - dv
 	Bey Dominick(police) - drug trafficking
 	Michael Owen Jr(police) - murder
-	
+
 Massachusetts
 	Stuart Merry(police) - negligent homicide
 	James Hall(police) - manslaughter 
@@ -556,6 +573,7 @@ Massachusetts
 	Calvin Butner(state police) - bribery, conspiracy
 	Perry Mendes(state police) - bribery, conspiracy
 	Matthew Morrissey(police) - witness intimidation, harassment
+	Joseph Silva(state police) - sexual assault
 	
 Michigan
 	Kenneth Bluew(police) - murdered pregnant woman
