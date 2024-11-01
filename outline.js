@@ -13,7 +13,7 @@ Alabama
 	Noel Wood(marine officer) - misuse of confidential data
 	Johnny Brown(officer) - assault
 	Cornelius Robinson - negligent homicide		
-	Jerry Cannon(police) - misuse conifidential data, drugs
+	Jerry Cannon(police) - misuse confidential data, drugs
 	Justin Barley(chief) - permit drunk driving police to go home
 	Kelsey Quesenberry(police) - dv, endangering a child
 	Ronald Monroe Jr(police) - agg dv
@@ -402,24 +402,75 @@ Indiana
 
 Iowa
 	Mike Tobin(police) - sexual exploitation/sol of minor
+	Benjamin Scheveel(police) - assault, stalking, perjury, tax evasion, theft, unauthorized access
 	Tyler Breitbach(police) - dv
 	Mario Antonio Rocha(corrections) - smuggling
 	Juan D Lopez(police) - poss w/ intent
 	Payton L Boston(police) - dui
-
-
+	Walter Pacheco(police) - stalking, turns off bwc
+	Benjamin Mehman(police) - intimidation w/ weapon
+	Ryan Steinkamp(police) - false arrest, assault
+	Brian Minnehan(police) - false arrest, assault
+	Bradley Wendt(chief) - fraud, firearms
+	Alec Veatch(poliec) - child sex crimes
+	Steve Sanchez(police) - dv
+	Emilio Puente(police) - beat handcuffed person
+	Charles Dailey(police) - dv
+	Andrew Denoyer(police) - sexual abuse of a minor
+	Colin Boone(police) - excessive force
+	Jay Rankin(police) - sexual assault, racial garbage
+	Galen Hindt(police) - sexual abuse, extortion, assault
+	Jason Eaton(police) - dui, eluding
+	Janay Pritchett(police) - dv
+	
 Kansas
-	Gideon Cody(police) - obstruction, witness tampering
+	Gideon Cody(chief) - obstruction, witness tampering
 	Adam Vendetti(police) - assault of child
 	Russell Patterson Jr(police) - human trafficking, rape
 	David Justice(police) - child sex crimes
+	Aaron McKie(police) - wire fraud, stole $300000 in donations from anticrime group
+	Catherine Dutcher(corrections) - child sex crimes
+	Tomad Co(corrections) - sex with inmates
+	Logan Runnion(corrections) - child sex trafficking, sexual assault
+	Todd W Allen(police) - serial rape
+	Grant Cook(police) - child sex crimes, kidnapping
+	Victor Heiar(police) - stalking, unauthorized access
+	Mark Scheetz(police) - child sex crimes 
+	Christopher Rowland(police) - took cash/drugs from evidence locker
+	Omar Diosdado(police) - rape
+	Roger Golubski(detective) - agg sex abuse, kidnapping
+	Christopher Corbit(police) - shoplifting
+	Matthew Vander Linden(sheriff) - child sex crimes
+	August P Gildehaus(police) - child sex crimes
+	Jamel Bradley(sheriff) - sexually assaulted students
+	Brock England(police) - child sex crimes
 
 Kentucky
+	Joshua Jaynes(police) - false warrant, murder
+	Kelly Goodlett(detective) - conspired w/ Jaynes
+	Kyle Meany(police) - false warrant, murder
+	Brett Hankison(detective) - murder
 	Bobby Joe Smith(constable) - murder
 	Javar Downs(police) - theft
 	Mickey Shawn Stines(sheriff) - murder
 	Rachael Curnutte(police) - dui
+	*Cameron Wright(state police) - agg assault, perjury
+	*Thomas Czartorski(state police) - agg assault w/ weapon, perjury
 	Tanner M Abbott(sheriff) - abuse of detainees, forged paperwork
+	Shawn Curry(police) - excessive force
+	Chad Chiaro(corrections) - smuggling
+	Neil Moorman(juvenile corrections) - sex abuse
+	Brian Gillis(detective) - did not use bwc
+	Shawn Davis(police) - dui
+	Jeremy Wright(police) - rape, sexual abuse
+	Joseph Ramey(police) - wanton endangerment
+	Luis Rodriguez(police) - dui
+	Benjamin Walden(police) - rape, sodomy, retaliation, witness tampering
+	Jose Soto(juvenile corrections) - smuggling
+	Ty Whitaker(police) - terrorist threats
+	
+	* The state police said its investigation found their officers did not violate standards of conduct.
+	
 	
 Louisiana
 	Norris Greenhouse Jr(police) - killed 6 year old
@@ -552,6 +603,7 @@ Missouri
 	Andria Heese(police) - vehicular manslaughter
 	Nathaniel Hendren(police) - murder
 	Eric DeValkenaere(police) - murder, planting evidence
+	Tequiza V Johnson(police) - murder
 	
 Montana
 	Jefferey Allen Gregorie(sheriff) - abuse of inmates, prostitution, evidence tampering
