@@ -331,20 +331,60 @@ Hawaii
 	William K Keahi(sheriff) - harassment, endangerment
 	Eric Mitamura(ccd) - racial harassment
 	Alvin Turla(ccd) - racial harassment
-
+	Maria Ah Tou(police) - dui
+	Patrick Akana-Klein(police) - dv
+	Ming Wang(police) - dv
+	Michael Rourke(police) - dv
+	Diana Lugo(police) - dv
+	Lianne Wolfram(police) - destruction of property
+	Derek Hahn(police) - obstruction, conspiracy
+	Zachary Pang(police) - theft
+	Grandon Costa(police) - falsified paperwork
+	Yvette Miura(police) - falsified paperwork
+	Eric Hokama(police) - falsified paperwork
+	Reynwood Makishi(police) - stalking, unauthorized access
+	Blake Oshita(police) - dui
+	Imanueli Kotobalavu(police) - evidence tampering
+	Sheldon Watts(police) - evidence tampering
+	Charles Nakagawa(police) - sexual misconduct, public intox
+	Mark Villegas(police) - excessive force
+	William Brown(police) - evidence tampering, perjury
+	
 Idaho
 	Gordon Shaw(police) - human trafficking
+	Derek Stettler(corrections) - rape of inmate
+	Jessica Urban(corrections) - failed to report Stettler
 	Bradley Chambers(police) - excessive force
 	Ryan Bendawald(police) - sexual assault using authority
 	Daniel Howard(state police) - murder
 	Saif Sabah Hasan Al Anbagi (parole) - sexual extortion of parolee
 	Donald Heida(officer) - agg assault
+	Trevor Ranere(sheriff) - child sex crimes
+	Matthew Moore(police) - assault, dv
+	Casey Hancuff(police) - dui
+	Nicholas Hanning(police) - assaults during arrests
+	Nick Harris(sheriff) - child sex crimes
+	Jarad Webb(police) - prescription fraud
 
 Illinois
+	Sean Grayson(sheriff) - murder, told partner not to render aid
 	Jason Van Dyke(police) - manslaughter
 	William McKinney(police) - manslaughter
 	Matt Mitchell(state police) - manslaugher
 	John McDonald(police) - murder
+	Lewis Lacey(police) - fraud, perjury
+	Mark Paglini(police) - child pornography
+	Roberto Nieves(chief) - slashed tires of Puerto Ricans
+	Jacob Gies(police) - slashed tires of Puerto Ricans
+	William Griswold(police) - distribution of child pornography
+	Thomas Hatley(state trooper) - child abuse, corporal punishment, dv
+	Justin Gaither(police) - beat handcuffed person
+	Jerald Sandage(police) - stalking, unauthorized access
+	Kyjaun Tate(police) - attempted murder
+	DAngelo Silvar(police) - assault
+	Korey Giles(police) - home invasion, assault
+	Michael Egan(police) - agg dui
+	Craig Lancaster(police) - randomly punched 8th grader in the throat
 	
 Indiana
 	Kyle James Vincent(police) - animal cruelty
@@ -353,7 +393,13 @@ Indiana
 	Ryan Kijurna(police) - dv
 	Javed Richards(police) - child exploitation
 	Kamal Bola(police) - child molestation
-	
+	Curtis Doughty(corrections) - beat inmate
+	Sinmi Asomuyide(police) - child sex crimes
+	Valentin Khazin(police) - false accusations of child abuse
+	Derek Bogenschutz(sheriff) - used child crimes profile to stalk
+	Chad Armenta(police) - stalking, harassment
+	Harlis Hoover(chief) - fraud
+
 Iowa
 	Mike Tobin(police) - sexual exploitation/sol of minor
 	Tyler Breitbach(police) - dv
