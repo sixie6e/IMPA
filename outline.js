@@ -174,7 +174,6 @@ California
 
 Colorado
 	James Ashby(police) - stalking, murder
-	Sean Tatro(police) - rape using stun gun
 	Adam Lunn(sheriff) - murder
 	Daniel Huff(police) - incest
 	James OBrien(sheriff) - murder
@@ -255,6 +254,7 @@ DC
 	Andrew Philip Creveling(police) - public urination, assault
 	Tyson Rushing(police) - school voyeurism
 	Arthur Thompson(police) - drunk on duty
+	
 	
 Florida
 	John Rutherford(corrections) - animal cruelty
@@ -520,7 +520,6 @@ Maine
 	Robin Parker(stater police) - dui
 	Daniel Ross(sheriff) - sexual assault, dv
 	Brian Smith(sheriff) - dv
-	Marcel Drouin(state police) - stole gasoline
 	Taylor Reynolds(police) - assault
 	Grace Pearson(corrections) - medical abuse
 	Gregory Vrooman(state police) - child sex charges
@@ -552,7 +551,8 @@ Maryland
 	Danny Rauschkolb(police) - dv
 	Bey Dominick(police) - drug trafficking
 	Michael Owen Jr(police) - murder
-
+	Marcel Drouin(state police) - stole gasoline
+	
 Massachusetts
 	Stuart Merry(police) - negligent homicide
 	James Hall(police) - manslaughter 
@@ -774,7 +774,6 @@ South Carolina
 	Stephen Flood(sheriff) - vehicular homicide
 	
 South Dakota
-	Jay Edward Ostrem(sheriff) - murder
 	Jeremiah Erickson(police) - dui
 	Luke John Schauer(police) - child pornography
 	Matthew Alan Jock(police) - child pornography
@@ -846,12 +845,42 @@ West Virginia
 Wisconsin
 	Thomas Grady(police) - murder
 	John Mueller(police) - murder
+	Steven Rosales(high school police) - bestiality, child sex crimes
 	Joel Streicher(sheriff) - vehicular homicide
+	Randy Hepp(warden) - inmate deaths
+	Makayla Mitchell(corrections) - sex w/ inmate
+	Timothy Buckley(corrections) - sex w/ inmate
+	Evan White(youth corrections) - assaulted female inmate
+	Weston Rolbiecki(corrections) - assaulted inmate
+	William Homan(corrections) - bribery
+	Dominique Heaggan-Brown(police) - sexual assault, homicide
+	Dimitri A. Kamolov(high school police) - filming student changing clothes
+	Frank Williams(police) - choked, beat 7 yo girl
+	Mark Wagner(dci) - shot unarmed man in the back
+	Nathan Peskie(dci) - shot unarmed man in the back
+	Kyle Strands(police) - dui w/ child injury
+	Greg Swanson(police) - dui w death of infant
 	
 Wyoming
 	Michael Hughes(police) - agg assault
 	Gabriel Testerman(state police) - sexual assault
+	Sean Tatro(police) - sexual torture, rape using stun gun, strangulation
 	Michael Matheson(police) - intimidation, obstruction
 	Benjamin Jacquot(sheriff) - child assault
 	Zachary Miller(police) - animal cruelty
-	
+	Christopher Petty(corrections) - child sex crimes
+	Ryan Lowry(police) - excessive force
+	Michael Quirin(police) - excessive force
+	Jay Edward Ostrem(sheriff) - murder
+	Stephen Haskell(sheriff) - fraud
+	Frank Noeson(corrections) - distribution of child pornography
+	Logan Alley(police) - posession of controlled substance
+	Jon Ramsay(police) - excessive force, unlawful entry
+	Craig Burns(polic) - excessive force, unlawful entry
+	Samuel keller(chief) - dv
+	Robert Garry(corrections) - possession w/ intent
+	Jason Gillott(sheriff) - excessive force
+	Ryan Lee(sheriff) - excessive force
+	Clint Shepherd(corrections) - sex w/ inmate
+	James Sutton(corrections) - distribution of child pornography
+	Steven Kaczmarek(corrections) - weapons
