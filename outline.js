@@ -86,6 +86,20 @@ Alabama
 	Centauria Olds(corrections) - bribery
 	Vicky White(corrections) - inmate escape
 	William Clemons(corrections) - smuggling
+	01744N00153(sheriff) - agg assault
+	04139N03559(police) - agg assault
+	05381N04553(sheriff) - agg assault
+	06058N05152(police) - agg assault
+	07102N06042(police) - agg assault
+	08251N04643(police) - agg assault
+	09792N08090(police) - agg sex assault
+	12043N10019(police) - agg assault
+	12235N10179(police) - agg assault
+	13302N11094(sheriff) - agg assault
+	15620N13011(police) - agg assault
+	16560N13673(police) - agg assault
+	16715N13797(police) - agg assault
+	21220N17228(police) - agg assault	
 
 Alaska
 	Joseph Miller(state police) - assault, let dog bite for more than a minute
@@ -116,7 +130,10 @@ Alaska
 	Bryson Hayes(corrections) - assault
 	Steven Manuel(corrections) - smuggling
 	Stewart Blakeslee(corrections) - child pornography
-
+	11938N09930(police) - agg assault
+	16060N13330(police) - agg assault
+	17568N14431(police) - agg assault
+	
 Arizona
 	Richard Chrisman(police) - murder
 	Jill Houchens(police) - animal cruelty
@@ -133,6 +150,29 @@ Arizona
 	Sean Pena(police) - sexual assault
 	Ben Harris(police) - agg assault deaf black guy w/ cereb palsy
 	Kyle Sue(police) - agg assault deaf black guy w/ cereb palsy
+	00455N01588(police) - agg assault
+	00500N02023(sheriff) - agg assault
+	00537N00867(police) - agg assault on 11 yo f
+	01007N01618(police) - agg assault on 14 yo f
+	01447N01166(police) - agg assault
+	01850N00019(police) - agg assault
+	03366N02827(police) - agg assault
+	03876N03257(police) - agg assault
+	03990N03365(police) - agg assault
+	06116N05191(police) - agg assault
+	06526N05543(police) - agg assault
+	06563N05572(police) - agg assault, agg assault on 14 yo m
+	06868N05835(police) - agg assault
+	07884N06647(sheriff) - agg assault
+	08413N06950(police) - agg assault
+	10076N08316(police) - agg assault
+	12899N10763(police) - agg assault
+	13446N11233(police) - agg assault
+	13811N07451(police) - agg assault
+	14936N12416(police) - agg assault on child
+	15110N12566(police) - agg assault
+	15869N13197(police) - agg assault
+	15982N13269(police) - agg assault on a minor
 			
 Arkansas
 	Coleman Brackney(police) - murder
@@ -155,7 +195,25 @@ Arkansas
 	Telvin Wilson(police) - child sex trafficking
 	Justin Davis(police) - sexual assault
 	Roy Mitchell(police) - child sex crimes
-	
+	Brad Stewart(police) - agg assault
+	Ayrialle Donson(sheriff) - intimidation w/ weapon, agg assault
+	Steven Montgomery(police) - agg assault
+	03480N02924(sheriff) - agg assault
+	03856N03238(police) - agg assault
+	04622N03927(state police) - agg assault
+	04659N03969(police) - agg assault
+	08193N06845(police) - agg assault
+	09319N07675(police) - agg assault
+	09510N07836(police) - agg assault on 5 yo m
+	10210N08428(police) - agg assault
+	10961N09088(police) - agg assault
+	10979N09106(sheriff) - agg assault on 13 yo m
+	10980N09107(police) - agg assault  on 13 yo m
+	13578N11351(sheriff) - agg assault
+	14322N11948(police) - agg assault
+	14683N08428(police) - agg assault
+	14797N12303(police) - agg assault
+		
 California
 	John Swearengin(sheriff) - vehicular homicide
 	Johannes Mehserle(police) - murder
@@ -166,12 +224,51 @@ California
 	Robert Armstrong(sheriff) - murdered pregnant woman
 	Craig Peyer(chp) - murder
 	Patrick Feaster(police) - murder
+	Benny Caluya(sheriff) - sexual assault 14 yo f
+	James Roberts III(police) - rape, agg assault
 	Andrew Hall(police) - manslaughter
 	Andrew Lyons(sheriff) - murder
 	Aaron Russell(sheriff) - murder
 	Benito Soto(police) - vehicular homicide
 	Benjamin Jillson(police) - vehicular homicide
-
+	Juan Reyes(police) - rape, numerous agg assaults
+	Michael Robinson(police) - intimidation w/ weapon, child endangerment
+	Bryan Cardoso(sheriff) - sexual assault 13 yo f
+	David Reeves(police) - robbery, kidnapping, agg assault
+	00118N02015(police) - agg assault
+	00180N02101(sheriff) - agg assault
+	00190N01460(police) - agg assault
+	00731N00645(police) - agg assault
+	00748N01460(police) - agg sex assault on 5 yo f
+	00820N00320(police) - agg assault
+	00826N00361(police) - agg assault
+	00857N00589(police) - agg assault
+	00962N01292(police) - agg assault on 16 yo m
+	01423N01044(chp) - agg assault
+	01425N01053(school) - agg assault
+	01608N01824(police) - agg assault
+	02043N01737(sheriff) - agg assault on 8 yo m
+	03286N02748(sheriff) - agg assault
+	03566N03004(police) - agg assault
+	04125N03494(police) - agg assault
+	04337N03690(police) - agg assault
+	04513N03847(sheriff) - agg assault
+	04763N04058(sheriff) - agg assault
+	04816N04095(police) - agg assault
+	04847N04133(police) - agg assault
+	05070N04305(sheriff) - rape, agg assault
+	05162N04381(police) - agg assault
+	05203N04418(police) - agg assault
+	05346N04525(sheriff) - rape, agg assault
+	05376N04558(police) - agg assault
+	05442N04596(police) - agg assault on 7 yo m
+	05739N04857(sheriff) - agg assault
+	06273N05315(sheriff) - agg assault
+	06338N05382(police) - agg assault
+	06630N05630(sheriff) - agg assault
+	06692N05688(police) - agg assault
+	06755N05742(police) - agg assault
+	
 Colorado
 	James Ashby(police) - stalking, murder
 	Adam Lunn(sheriff) - murder
@@ -304,6 +401,7 @@ Florida
 	Zachary Wester(police) - planting evidence, racketeering, false imprisonment
 	Andrew Graham(police) - perjury
 	Jason Casteel(police) - perjury
+	00072N01652(police) - agg assault
 	
 Georgia
 	290 police arrested for dui in the last 5 years
@@ -400,6 +498,7 @@ Indiana
 	Derek Bogenschutz(sheriff) - used child crimes profile to stalk
 	Chad Armenta(police) - stalking, harassment
 	Harlis Hoover(chief) - fraud
+	00032N01565(sheriff) - agg assault on 11yo girl
 
 Iowa
 	Mike Tobin(police) - sexual exploitation/sol of minor
@@ -469,6 +568,7 @@ Kentucky
 	Benjamin Walden(police) - rape, sodomy, retaliation, witness tampering
 	Jose Soto(juvenile corrections) - smuggling
 	Ty Whitaker(police) - terrorist threats
+	00019N00435 (police) - agg assault
 	
 	* The state police said its investigation found their officers did not violate standards of conduct.
 	
@@ -498,6 +598,7 @@ Louisiana
 	Javontrics Murphy(sheriff) - rape
 	Kelvin Higginbotham(sheriff) - dv
 	Andrew Wheeler(sheriff) - smuggling
+	Rodney Vicknair(police) - sexual assault of rape victim
 	
 Maine
 	Addison Cox(police) - beat porcupines to death for snapchat
@@ -589,6 +690,8 @@ Michigan
 	Amanda Szymanski(police) - covered up traffic crash
 	Christopher Schurr(police) - murder
 	Ryan Dornbos(police) - child sex crimes
+	Jamonte Horton(sheriff) - failure to investigate sex crimes, homemade pornography 
+	Joseph Ashley(police) - sexting after traffic stop
 	
 Minnesota
 	Robert leroy Nelson(state police) - rape, torture, murder
@@ -714,6 +817,7 @@ Ohio
 	John Castillo(police) - drug trafficking
 	Joel Mefford(police) - drug trafficking
 	David Pearson(police) - negligent homicide
+	00034N00585(police) - agg assault
 	
 Oklahoma
 	Steven Cugini(police) - raped 13 month old
@@ -772,6 +876,7 @@ South Carolina
 	Richard Combs(police) - murder
 	Michael Slager(police) - murder
 	Stephen Flood(sheriff) - vehicular homicide
+	Jamel Bradley(high school officer) - sexual predator
 	
 South Dakota
 	Jeremiah Erickson(police) - dui
@@ -790,6 +895,7 @@ Tennessee
 	Sean Herman(police) - onlyfans
 	
 Texas
+	Matthew Luckhurst(police) - gave homeless person feces sandwich
 	Jason Blackwelder(police) - manslaughter
 	Teddie Whitefield(police) - dui, homicide
 	Arthur Carbonneau(police) - negligent homicide
@@ -801,6 +907,8 @@ Texas
 	Bau Tran(police) - murder
 	Gerald Goines(police) - fake warrant, murder
 	Aaron Dean(police) - murder
+	00040N00961(police) - agg assault
+	00057N01985(sheriff) - agg assault on 8 yo girl
 	
 Utah
 	Joseph Corbett(police) - manslaughter
@@ -823,6 +931,7 @@ Virginia
 	Stephen Rankin(police) - murder
 	Albin Pearson(police) - murder
 	Richard Daniel Johnson(police) - vehicular homicide
+	Darren H Roberts(state police) - kidnapping, sexual assault, dv
 	
 Washington
 	Karl Thompson(police) - murder
@@ -831,16 +940,40 @@ Washington
 	W.F. Stephenson(police) - manslaughter
 	Fred Paschal(police) - manslaughter
 	Jeffrey Nelson(police) - murder
+	Marcus Laytham(chief) - intimidation of 10 yo autistic child
+	Daniel Auderer(police) - joked about Kandula
+	Burton Hill(police) - sexist and racial slurs
+	Robert Anderson(police) - beat handcuffed person
+	
 	
 West Virginia
 	Brandon Tagayun(police) - murder
 	Travis Snuffer(chief) - animal cruelty
+	Marcus Dudley(police) - abused, killed k9 partner
 	James Bennett(corrections) - sexual abuse
 	Patrick J Hoder(sheriff) - child pornography
 	David W Cole(corrections) - arson
+	Seth Cook(state police) - tried to kill harmless dog, arrested woman that protected it
+	CR Smithers(state police) - failure to intervene
 	William Townsend(police) - stalking
+	Jospeh Comer(police) - strangulation
 	Chris Kendall(police) - dv
+	Jason M McCune(sheriff) - child sex crimes
 	Christopher Erickson(corrections) - child pornography
+	Cody Mayle(police) - false arrest and imprisonment
+	Nathan Lanham(police) - agg assault, intimidation w/ weapon
+	Everett Maynard(police) - excessive force
+	Daniel Higgenbotham(police) - perjury, false arrest and imprisonment
+	Kaja Tenney(state police) - agg dui
+	Marshall OConnor(police) - dui
+	Michael Kennedy(state police) - agg assault of teenager
+	Derek Walker(state police) - agg assault of teenager
+	Austin Ennis(sheriff) - failure to intervene
+	Chris Merson(sheriff) - failure to intervene
+	RA Evick(state police) - distribution of child pornography
+	Chase Waugh(police) - destruction of property
+	Todd Hannah(police) - agg assault, false arrest, turned off bwc
+	
 	
 Wisconsin
 	Thomas Grady(police) - murder
