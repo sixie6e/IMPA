@@ -8,7 +8,7 @@ Sources and methodology:
 
 	What it doesn't say in the headline, but much further into the article, is that it was sexual assault(does not say what type) on a 5 year old girl. So I put "sexual assault on 5 yo f". 
 	
-	Police officer arrested for assault"
+	"Police officer arrested for assault"
 	
 	When it was actually: 8 counts of false imprisonment by violence or deceit, 3 counts of criminal threats, 2 counts of domestic battery with corporal injury, 2 counts of aggravated assault, 1 count of dissuading a witness by force or threat and 1 count of vandalism.
 	
