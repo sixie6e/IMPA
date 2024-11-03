@@ -99,7 +99,16 @@ Alabama
 	15620N13011(police) - agg assault
 	16560N13673(police) - agg assault
 	16715N13797(police) - agg assault
-	21220N17228(police) - agg assault	
+	21220N17228(police) - agg assault
+	01171N00802(chief) - intimidation
+	07755N06564(police) - intimidation
+	09675N07990(police) - intimidation
+	10994N09121(police) - intimidation
+	11726N09779(police) - hit and run
+	01471N01276(police) - hit and run
+	05764N04881(police) - sexual assault
+	09219N07583(police) - sexual assault
+	13740N11490(police) - sexual violence against unrelated child
 
 Alaska
 	Joseph Miller(state police) - assault, let dog bite for more than a minute
@@ -173,6 +182,7 @@ Arizona
 	15110N12566(police) - agg assault
 	15869N13197(police) - agg assault
 	15982N13269(police) - agg assault on a minor
+	11180N09295(police) - hit and run
 			
 Arkansas
 	Coleman Brackney(police) - murder
@@ -213,6 +223,8 @@ Arkansas
 	14322N11948(police) - agg assault
 	14683N08428(police) - agg assault
 	14797N12303(police) - agg assault
+	01523N01488(ahp) - hit and run, dui
+	08781N07209(sheriff) - hit and run, dui
 		
 California
 	John Swearengin(sheriff) - vehicular homicide
@@ -235,7 +247,10 @@ California
 	Michael Robinson(police) - intimidation w/ weapon, child endangerment
 	Bryan Cardoso(sheriff) - sexual assault 13 yo f
 	David Reeves(police) - robbery, kidnapping, agg assault
-	00118N02015(police) - agg assault
+	Manuel Ramos(police) - beat homeless man to death, walked free
+	Jay Cicinelli(police) - beat homeless man to death, walked free
+	Joseph Wolfe(police) - beat homeless man to death, walked free
+	00118N02015(police) - rape, agg assault
 	00180N02101(sheriff) - agg assault
 	00190N01460(police) - agg assault
 	00731N00645(police) - agg assault
@@ -268,6 +283,17 @@ California
 	06630N05630(sheriff) - agg assault
 	06692N05688(police) - agg assault
 	06755N05742(police) - agg assault
+	06815N05793(police) - agg assault
+	06819N05794(police) - agg assault
+	07469N06304(police) - agg assault
+	07538N06358(sheriff) - agg assault
+	07776N06242(sheriff) - agg assault
+	08197N06841(police) - agg assault
+	08448N02389(police) - agg sexual assault
+	08822N07245(police) - manslaughter, agg assault
+	08882N07293(sheriff) - agg assault
+	09107N07488(sheriff) - agg assault ui meth
+	09146N07524(police) - rape, agg assault
 	
 Colorado
 	James Ashby(police) - stalking, murder
