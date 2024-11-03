@@ -26,9 +26,9 @@ Sources and methodology:
 
 	Courtney G. Lee, More than Just Collateral Damage: Pet Shootings by Police, 17 U.N.H. L. Rev. 171 (2018) Abstract excerpt: "The Department of Justice estimates that American police officers shoot 10,000 pet dogs in the line of duty each year. It is impossible to ascertain a reliable number, however, because most law enforcement agencies do not maintain accurate records of animal killings."
 	
-		I cannot put 10,000 lines of DOMESTIC animal cruelty/killing unless I have the names or officer numbers. Just know that many of the blue stripe bandits you love and revere have used the "I was afraid for my life" excuse to harm another being. See: Enzo the dog in Lodi, CA.
+	I cannot put 10,000 lines of DOMESTIC animal cruelty/killing unless I have the names or officer numbers. Just know that many of the blue stripe bandits you love and revere have used the "I was afraid for my life" excuse to harm another being. See: Enzo the dog in Lodi, CA.
 		
-		I also do not have data of the blue stripe bandits that torture, maim, and/or kill wildlife. Only the most egregious and with video evidence usually get attention. You know how police love saying, "Crime is actually higher than it appears because of the things that don't get reported/charged"? Same applies. See: Maine police beat porcupines to death for snapchat.
+	I also do not have data of the blue stripe bandits that torture, maim, and/or kill wildlife. Only the most egregious and with video evidence usually get attention. You know how police love saying, "Crime is actually higher than it appears because of the things that don't get reported/charged"? Same applies. See: Maine police beat porcupines to death for snapchat.
 	
 4. Other OSINT such as court documents(the ones I don't have to pay the already luxurious living state employees to read), disciplinary reports such as (https://www.honolulupd.org/wp-content/uploads/2023/01/HPD-2022-Legislative-Report.pdf), social media videos that get no mainstream media attention, and DOJ press releases.
 
