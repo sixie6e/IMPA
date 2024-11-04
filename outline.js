@@ -1,6 +1,7 @@
 // This will be continually updated as the project progresses.
 // State -> Society/Facility -> Violent/Non -> Death/Injury -> Financial
 // sixie6e@distherapy 2024
+// The state with the most is not the worst. I am populating this list alphabetically by state and then by crime.
 
 Alabama
 	Cameroun Tremble(police) - animal cruelty
@@ -86,6 +87,8 @@ Alabama
 	Centauria Olds(corrections) - bribery
 	Vicky White(corrections) - inmate escape
 	William Clemons(corrections) - smuggling
+	Jonathan Perry Works(police) - rape, sodomy
+	Brian Edward Walker(police) - rape, sodomy
 	01744N00153(sheriff) - agg assault
 	04139N03559(police) - agg assault
 	05381N04553(sheriff) - agg assault
@@ -109,6 +112,58 @@ Alabama
 	05764N04881(police) - sexual assault
 	09219N07583(police) - sexual assault
 	13740N11490(police) - sexual violence against unrelated child
+	00798N00144(sheriff) - narcotics violations
+	00547N02192(police) - planting evidence, trafficking
+	13141N10954(police) - narcotics violations
+	04245N03608(police) - forged prescriptions
+	19813N16143(police) - planting evidence
+	01383N00814(police) - narcotics violations
+	01100N02144(police) - rape, narcotics violations
+	09825N08118(police) - narcotics violations
+	01424N01045(police) - forged prescriptions
+	04326N03679(police) - shakedowns
+	04327N03680(police) - shakedowns
+	14384N11997(police) - shakedowns
+	05047N04272(police) - narcotics violations
+	09463N07790(sheriff) - trafficking
+	04109N03479(police) - narcotics violations
+	07377N06222(chief) - narcotics violations, theft from evidence room
+	11577N09658(sheriff) - sexual violence, narcotics violations
+	08668N07132(police) - narcotics violations
+	08515N07031(police) - trafficking
+	07546N06363(sheriff) - trafficking
+	12753N07380(police) - narcotics violations, agg assault
+	10162N08384(sheriff) - trafficking
+	11487N09573(police) - narcotics violations, theft from evidence room
+	13793N11523(police) - narcotics violations
+	14781N12293(chief) - narcotics violations, theft from evidence room
+	20051N16336(sheriff) - trafficking weapons/narcotics
+	20058N16343(police) - trafficking
+	01240N00055(police) - rape
+	00465N01881(police) - rape of 16 yo m
+	11345N09448(dps) - rape
+	00918N00950(police) - rape of 10 yo f
+	04927N04194(police) - rape
+	10039N08251(police) - rape
+	14588N12150(police) - rape of 14 yo f
+	07514N06335(police) - rape of 14 yo f & unknown age f
+	02696N02241(police) - rape of 15 yo f
+	02934N02437(police) - rape
+	12629N10531(sheriff) - rape of 16 yo f
+	04527N03859(police) - rape of 15 yo f
+	07108N06048(police) - child sex crimes
+	05178N04404(campus) - rape of 14 yo f
+	07060N06005(police) - rape of 11 yo f
+	16174N07223(police) - rape
+	11420N09514(police) - rape of 6 yo f
+	14046N11728(police) - rape
+	15445N12293(police) - child sex crimes
+	15712N13079(police) - rape
+	15872N13200(police) - rape
+	15873N13201(police) - rape
+	16111N13368(police) - rape of 15 yo f
+	19476N15883(police) - child sex crimes
+	20606N16793(police) - rape of 9 yo f
 
 Alaska
 	Joseph Miller(state police) - assault, let dog bite for more than a minute
@@ -142,6 +197,9 @@ Alaska
 	11938N09930(police) - agg assault
 	16060N13330(police) - agg assault
 	17568N14431(police) - agg assault
+	
+	
+	
 	
 Arizona
 	Richard Chrisman(police) - murder
