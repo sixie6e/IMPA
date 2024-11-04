@@ -197,9 +197,26 @@ Alaska
 	11938N09930(police) - agg assault
 	16060N13330(police) - agg assault
 	17568N14431(police) - agg assault
-	
-	
-	
+	00290N00357(police) - rape of 12 yo f
+	00016N00873(police) - rape of 16 yo f
+	02999N02495(police) - impersonation
+	04889N04166(police) - rape
+	16449N13611(police) - rape of 14 yo f
+	16592N13699(police) - dui
+	16809N13875(police) - assault
+	08200N06838(police) - oppression
+	19245N15691(state police) - dui
+	06746N05733(polcie) - prostitution
+	08477N07000(police) - alcohol related weapons charges
+	11239N09350(police) - oppression, sexual assault
+	11604N09679(police) - assault
+	13984N11677(police) - assault
+	08913N07319(police) - rape of 16 yo f
+	20073N16356(state police) - rape of 16 yo f
+	20074N16357(state police) - forged prescriptions
+	15253N12695(police) - larceny
+	20075N16358(police) - obstruction
+	06165N05242(police) - rape of 10 yo f
 	
 Arizona
 	Richard Chrisman(police) - murder
@@ -654,8 +671,7 @@ Kentucky
 	Ty Whitaker(police) - terrorist threats
 	00019N00435 (police) - agg assault
 	
-	* The state police said its investigation found their officers did not violate standards of conduct.
-	
+	* The state police said its investigation found their officers did not violate standards of conduct
 	
 Louisiana
 	Norris Greenhouse Jr(police) - killed 6 year old
@@ -695,7 +711,7 @@ Maine
 	Jeffrey Bishop(police) - drug trafficking
 	Robert Ireland(corrections) - sexual assault, smuggling
 	Jeffrey Linscott(state police) - fentanyl trafficking
-	Andre Paradis,(state police) - gf dui crash, let her go
+	Andre Paradis(state police) - gf dui crash, let her go
 	Glenn Lang(sa) - beat handcuffed man
 	Tyler Maloon(state police) - covered for Glenn Lang
 	Daniel Murray(state police) - impaired w/ minor driving
@@ -709,7 +725,42 @@ Maine
 	Grace Pearson(corrections) - medical abuse
 	Gregory Vrooman(state police) - child sex charges
 	Andrew Demers(chief of state police) - child sex crimes
-	Tom McKenney(game warden) - let man go that intentionally went off road to run over nesting turtles
+	Tom McKenney(game warden) - let man go that intentionally went off road to hit nesting turtles
+	Joseph Barnes(chief) - theft
+	02293N01945(police) - dui
+	06593N05595(police) - assault
+	01766N00522(police) - dui
+	00436N01408(police) - assault
+	04186N03385(police) - assault, public intox
+	05374N04539(police) - assault
+	14004N11692(police) - assault
+	10747N08896(sheriff) - assault
+	12050N10026(police) - sexual violence 14 yo f
+	09004N07397(police) - assault
+	13655N11417(police) - dui
+	15736N13101(police) - assault
+	07660N06472(police) - assault
+	16065N13335(state police) - assault on 12 yo f
+	07934N06686(police) - assault on 16 yo f
+	07935N06687(police) - assault on 15 yo f
+	10909N09041(police) - dui
+	11885N09884(police) - destroying evidence
+	13264N11057(marine patrol) - dui, assault
+	12439N10363(sheriff) - rape of 15, 14, and 6 yo f
+	05949N05046(police) - intimidation of spouse
+	00986N01462(police) - destruction of property
+	07285N06165(police) - dui
+	08582N07085(police) - dui
+	12974N10819(police) - evidence theft
+	16306N13495(sheriff) - agg assault
+	14941N12421(police) - assault
+	01889N00362(state police) - weapons charges
+	21488N17461(chief) - wildlife crime
+	02276N01699(police) - dui
+	03477N02921(police) - assault
+	04841N04131(police) - intimidation of spouse
+	09571N07873(police) - assault
+	11078N09220(police) - dui	
 	
 Maryland
 	Robert Warrington(police) - attempted murder
