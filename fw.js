@@ -11,8 +11,8 @@ oneButton.addEventListener('click', f);
 twoButton.addEventListener('click', f);
 threeButton.addEventListener('click', f);
 fourButton.addEventListener('click', f);
-const mediaDoubleF = new Image(200,200);
-mediaDoubleF.src = 'img/mediadbl.png';	
+const mdf = new Image(200,200);
+mdf.src = 'img/mediadbl.png';	
 let x;
 let y;
 let num = 0;
@@ -27,6 +27,20 @@ function f() {
   y = 0;
   fwContainer.classList.remove('hide');
 }
+
+$("path, circle").hover(function(e) {
+  $('#popup').css('display','block');
+  $('#popup').html($(this).data('info'));
+});
+
+$("path, circle").mouseleave(function(e) {
+  $('#popup').css('display','none');
+});
+
+$(document).mousemove(function(e) {
+  $('#popup').css('top',e.pageY-$('#popup').height()-30);
+  $('#popup').css('left',e.pageX-($('#popup').width())/2);
+}).mouseover();
 
 //function showFramework(fw) {
   //fw.innerHTML = "<img src=" + bgimage.src + " />";
