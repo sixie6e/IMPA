@@ -709,6 +709,7 @@ Maine
 	Grace Pearson(corrections) - medical abuse
 	Gregory Vrooman(state police) - child sex charges
 	Andrew Demers(chief of state police) - child sex crimes
+	Tom McKenney(game warden) - let man go that intentionally went off road to run over nesting turtles
 	
 Maryland
 	Robert Warrington(police) - attempted murder
