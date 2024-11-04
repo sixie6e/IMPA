@@ -28,7 +28,7 @@ Alabama
 	Eric Parker(police) - assault
 	Joshua Matthew Davidson(police) - kidnapping, sex trafficking
 	Ryan Snow(police) - posted protesters in rifle scope
-	Josh Hardy(police) - stole Pokemon cards
+	Josh Hardy(corrections) - stole Pokemon cards
 	Horton Owens(police) - child abuse
 	Aaron AC Smith(police) - murder
 	Christopher Looser(police) - agg assault disfigurement
@@ -194,6 +194,7 @@ Alaska
 	Bryson Hayes(corrections) - assault
 	Steven Manuel(corrections) - smuggling
 	Stewart Blakeslee(corrections) - child pornography
+	Daryl D Rice(police) - poaching
 	11938N09930(police) - agg assault
 	16060N13330(police) - agg assault
 	17568N14431(police) - agg assault
@@ -208,6 +209,7 @@ Alaska
 	19245N15691(state police) - dui
 	06746N05733(polcie) - prostitution
 	08477N07000(police) - alcohol related weapons charges
+	02389N01158(state police) - alcohol related weapons charges
 	11239N09350(police) - oppression, sexual assault
 	11604N09679(police) - assault
 	13984N11677(police) - assault
@@ -217,9 +219,14 @@ Alaska
 	15253N12695(police) - larceny
 	20075N16358(police) - obstruction
 	06165N05242(police) - rape of 10 yo f
-	
+	14407N12015(state police) - rape of 16 yo f, pornography
+	15429N12849(state police) - dv
+	05887N05000(police) - assault on 2 yo f
+	09091N07469(police) - online solicitation of 12 yo f
+		
 Arizona
 	Richard Chrisman(police) - murder
+	Germayne Cunningham(detective) - murdered 7 yo f
 	Jill Houchens(police) - animal cruelty
 	Jesse Wilburn Sr(corrections) - assault family
 	Alaa Robert Bartley(police) - child pornography
@@ -234,6 +241,17 @@ Arizona
 	Sean Pena(police) - sexual assault
 	Ben Harris(police) - agg assault deaf black guy w/ cereb palsy
 	Kyle Sue(police) - agg assault deaf black guy w/ cereb palsy
+	Josh Anderson(police) - fatal hit and run, fleeing the scene
+	Tremaine Jackson(dps) - 61 counts sexual violence, kidnapping charges
+	Justin Cherry(police) - child sex crimes
+	James M Wren(police) - armed robbery, robbery
+	Chad Goulding(police) - bank robberies
+	Tom Lovejoy(police) - killed k9 partner
+	Joe Arpaio(sheriff) - inmate abuse, racial profiling, contempt
+	Daniel Albert Coronado(police) - computer tampering
+	Amaury Fernandez(police) - unauthorized access
+	Jeffrey Streeter(police) sex crimes
+	William Ryberg Jr(police) - fraud
 	00455N01588(police) - agg assault
 	00500N02023(sheriff) - agg assault
 	00537N00867(police) - agg assault on 11 yo f
@@ -258,10 +276,117 @@ Arizona
 	15869N13197(police) - agg assault
 	15982N13269(police) - agg assault on a minor
 	11180N09295(police) - hit and run
-			
+	00895N00837(police) - dui
+	13608N11375(police) - alcohol related death
+	16730N13810(dps) - false reports
+	03328N02781(dps) - alcohol related sexual violence
+	06189N05263(police) - assault
+	09479N07806(dps) - assault
+	11187N09301(dps) - sex assault on 14 yo f
+	13904N11604(dps) - evidence theft
+	16283N13474(dps) - larceny
+	16419N13586(dps) - intimidation of another officer
+	02479N00303(police) - assault
+	00410N01205(police) - evidence theft
+	02870N02386(police) - evidence theft
+	02938N02441(police) - dui
+	02939N02442(police) - dui
+	16091N13352(police) - rape of 5 yo f
+	19497N15899(police) - drug related dv
+	15967N13256(police) - robbery
+	15975N13264(police) - false reports, intimidation
+	11225N09337(police) - assault of minor male
+	11295N09401(police) - assault
+	11314N09420(police) - online solicitation of a child, assault
+	14801N12307(police) - evidence theft
+	09903N08180(police) - child sex crimes
+	10305N08505(police) - dui
+	10915N09046(police) - sexual violence
+	11224N09337(police) - assault
+	07094N06035(detective) - rape of 15, and 17 yo m
+	07467N06302(police) - intimidation
+	08762N07191(police) - assault
+	09134N07513(police) - rape of 17 yo f
+	09604N07923(police) - sexual violence
+	06450N05480(police) - assault
+	06775N05754(police) - larceny
+	06776N05755(police) - larceny
+	06777N05756(police) - larceny
+	06778N05757(police) - larceny
+	03387N02848(police) - prostitution
+	05254N04451(detective) - child pornography
+	05358N04512(police) - dui
+	09582N07901(police) - dui
+	13579N11352(police) - dui
+	00484N01886(sheriff) - rape of 15, and 14 yo f
+	03115N02592(sheriff) - trafficking, laundering
+	10104N08340(sheriff) - trafficking, shakedowns, evidence theft
+	10651N08806(sheriff) - trafficking
+	11617N09686(sheriff) - rape of 14 yo f
+	15265N12705(sheriff) - burglary
+	02963N02465(police) - dui
+	03020N02512(police) - profit motivated violence f child
+	09710N08021(police) - child sex crimes
+	11637N09703(police) - murder
+	16299N13489(police) - rape of 10 yo m & 9 yo f
+	03580N03024(police) - assault
+	04223N03586(police) - sexual assault
+	07023N05975(police) - burglary
+	09061N07445(detective) - sex crimes
+	09068N07451(police) - dui
+	13809N07451(police) - intimidation
+	06408N05444(police) - assault
+	06747N05723(police) - intimidation
+	15496N12907(police) - larceny
+	07232N06125(police) - dui
+	10307N08507(detective) - rape of 12 yo f
+	11977N09960(police) - rape
+	16078N13341(police) - sexual violence against 8 yo f
+	10091N08329(police) - rape
+	00932N01030(police) - nonviolent family offense
+	02017N01600(police) - dui
+	00377N01025(sheriff) - dui
+	13072N10893(sheriff) - embezzlement
+	16868N13915(sheriff) - shoplifting
+	19510N15907(sheriff) - dui
+	00951N01216(police) - narcotics violations
+	02420N01678(police) - dui
+	03736N03151(police) - dui
+	15354N12785(police) - rape
+	19612N15977(police) - assault
+	19762N16096(police) - dui
+	06640N05598(police) - dui
+	08771N07199(police) - rape
+	11707N09761(police) - NO INFORMATION
+	12176N10134(police) - dui
+	01833N02047(police) - destruction of property
+	07675N06487(police) - evidence theft
+	03890N03271(police) - dui
+	05937N05029(police) - embezzlement
+	09144N07522(police) - destruction of property
+	04317N03673(police) - child pornography
+	04736N04032(sheriff) - burglary
+	08415N06952(police) - larceny
+	05033N04269(police) - rape of 16 yo f
+	05350N04433(police) - rape of 17 yo f
+	11931N09925(police) - narcotics violations
+	12868N10745(police) - rape
+	12869N10745(police) - rape of 16 and 19 yo f, burglary
+	13374N11166(police) - dui
+	16567N13680(da) - obstruction
+	01659N02189(dps) - rape
+	10567N08729(police) - narcotics violations
+	19719N16061(sheriff) - narcotics, weapons violations
+	03688N03098(police) - sex crimes, bribery
+	04749N04045(police) - evidence theft
+	08773N07201(police) - online solicitation of a child
+	13572N11345(police) - rape
+	22411N18199(police) - rape of 17 yo f
+	03866N03248(police) - larceny
+	
 Arkansas
 	Coleman Brackney(police) - murder
-	Larry P. Norman(state police) - negligent homicide
+	Larry P Norman(state police) - negligent homicide
 	Jerri Beyard(police) - animal cruelty
 	Michael Davis(sheriff) - negligent homimcide
 	Joseph Harris(police) - agg assault
@@ -834,7 +959,7 @@ Minnesota
 	Mohamed Noor(police) -  murder
 	Derek Chauvin(police) - murder
 	Thomas Lane(police) - murder
-	J. Alexander Kueng(police) - murder
+	J Alexander Kueng(police) - murder
 	Tou Thao(police) - murder
 	Kim Potter(police) - murder
 	Brian Cummings(police) - vehicular homicide
@@ -988,7 +1113,7 @@ Oregon
 
 Pennsylvania
 	Steven Homanko(police) - vehicular homicide
-	Matthew J. Hinkel(police) - manslaughter
+	Matthew J Hinkel(police) - manslaughter
 	Scott Charles Cameron(police) - murder
 	John Whiteside(police) - murder
 	Marcus Giardino(police) - murder
@@ -1060,7 +1185,7 @@ Vermont
 	Zachary trocki(state police) - assault
 
 Virginia
-	Adam D. Torres(police) - murder
+	Adam D Torres(police) - murder
 	Daniel Harmon Wright(police) - murder
 	Derek Folston(police) - manslaughter
 	Richard Chinappi III(police) - animal cruelty
@@ -1073,7 +1198,7 @@ Washington
 	Karl Thompson(police) - murder
 	Mathias Bachmeier(sheriff) - murder
 	Pat Whalen(police) - manslaughter
-	W.F. Stephenson(police) - manslaughter
+	WF Stephenson(police) - manslaughter
 	Fred Paschal(police) - manslaughter
 	Jeffrey Nelson(police) - murder
 	Marcus Laytham(chief) - intimidation of 10 yo autistic child
@@ -1123,7 +1248,7 @@ Wisconsin
 	Weston Rolbiecki(corrections) - assaulted inmate
 	William Homan(corrections) - bribery
 	Dominique Heaggan-Brown(police) - sexual assault, homicide
-	Dimitri A. Kamolov(high school police) - filming student changing clothes
+	Dimitri A Kamolov(high school police) - filming student changing clothes
 	Frank Williams(police) - choked, beat 7 yo girl
 	Mark Wagner(dci) - shot unarmed man in the back
 	Nathan Peskie(dci) - shot unarmed man in the back
@@ -1145,7 +1270,7 @@ Wyoming
 	Frank Noeson(corrections) - distribution of child pornography
 	Logan Alley(police) - posession of controlled substance
 	Jon Ramsay(police) - excessive force, unlawful entry
-	Craig Burns(polic) - excessive force, unlawful entry
+	Craig Burns(police) - excessive force, unlawful entry
 	Samuel keller(chief) - dv
 	Robert Garry(corrections) - possession w/ intent
 	Jason Gillott(sheriff) - excessive force
