@@ -250,7 +250,7 @@ Arizona
 	Joe Arpaio(sheriff) - inmate abuse, racial profiling, contempt
 	Daniel Albert Coronado(police) - computer tampering
 	Amaury Fernandez(police) - unauthorized access
-	Jeffrey Streeter(police) sex crimes
+	Jeffrey Streeter(police) - sex crimes
 	William Ryberg Jr(police) - fraud
 	00455N01588(chandler police) - agg assault
 	00500N02023(graham sheriff) - agg assault
@@ -346,6 +346,7 @@ Arizona
 	02017N01600(tohono police) - dui
 	00377N01025(pima sheriff) - dui
 	13072N10893(pima sheriff) - embezzlement
+	04922N04190(tucson police) - embezzlement
 	16868N13915(pima sheriff) - shoplifting
 	19510N15907(pima sheriff) - dui
 	00951N01216(tucson police) - narcotics violations
@@ -381,6 +382,7 @@ Arizona
 	13572N11345(dps) - rape
 	22411N18199(yuma police) - rape of 17 yo f
 	03866N03248(somerton police) - larceny
+	
 	
 Arkansas
 	Coleman Brackney(police) - murder
@@ -629,6 +631,102 @@ California
 	08882N07293(los angeles sheriff) - agg assault
 	09107N07488(santa clara sheriff) - agg assault ui meth
 	09146N07524(los angeles police) - rape, agg assault
+	00026N01816(tulare sheriff) - child pornography, sexual assault on 2 yo f
+	00044N02145(san jose police) - child pornography, sexual assault on 16 yo f
+	00067N01501(contra costa sheriff) - child pornography, sexual assault on 3 yo f
+	00070N02070(anaheim police) - rape
+	00098N00046(oceanside police) - dui
+	00102N01211(sacramento police) - murder of 13 yo m
+	00191N01969(el cajon police) - sexual intimidation
+	00194N00620(los angeles police) - robberies, shakedowns
+	00195N00619(long beach police) - robberies, shakedowns
+	00196N00550(los angeles sheriff) - robberies, shakedowns
+	00209N00690(san jose police) - rape of 1 yo f
+	00284N00312(walnut creek detective) - assault w/ weapon x3
+	00311N00473(chp) - online solicitaion of 13 yo f
+	00336N00645(bakersfield police) - rape of 13 yo f
+	00343N00696(chp) - dui
+	00351N00798(los angeles police) - dui
+	00386N01969(el cajon police) - sexual violence with objects, bribery
+	00400N01118(cathedral city police) - rape, rape
+	00402N01128(riverside sheriff) - rape by instrumentation, burglary
+	00427N01366(oakland police) - assault
+	00457N01609(seaside police) - evidence theft
+	00467N01936(los angeles sheriff) - murder
+	00472N01723(fresno police) - murder
+	00481N01833(sutter sheriff) - assault
+	00502N02031(oakland police) - kidnapping, rape of 16 yo f
+	00536N00774(san diego police) - rape of 17 yo f
+	00635N00473(chp) - rape of 10 yo f
+	00673N01533(tulare sheriff) - fraud
+	00761N02015(san francisco police) - bought liquor for 16 yo f
+	00762N02211(san francisco police) - bought liquor for 17 yo f
+	00766N02070(anaheim police) - rape, kidnapping
+	00781N00015(ventura college police) - dui
+	00807N00227(san diego sheriff) - murder
+	00811N00269(san leandro police) - sexual assault
+	00831N00393(san diego sheriff) - dui
+	00838N00474(desert hot springs police) - rape of 7, 13 yo f
+	00841N00492(berkeley police) - weapons violations
+	00843N00501(riverside police) - fraud
+	00854N00567(modesto police) - bought liquor for 17 yo f
+	00856N00584(lakeport police) - intimidation
+	00862N00634(alhambra police) - rape of 14 yo m
+	00865N00656(san francisco police) - sexual oppression
+	00906N00904(santa barbara sheriff) - rape of 15 yo f
+	00931N01021(riverside sheriff) - dui
+	00945N01161(shafter police) - assault on 16 yo m
+	00950N01209(chp chief) - dui
+	01022N01665(kern sheriff) - oppression
+	01106N02204(los angeles police) - planting evidence
+	01238N00039(tulare sheriff) - rape
+	01253N00114(los angeles police) - fraud
+	01285N00338(riverside sheriff) - ;arceny
+	01302N00418(hayward police) - sexual violence against 17, 16 yo m
+	01349N00661(san francisco police) - child prostitution
+	01376N00769(riverside sheriff) - assault w/ weapon
+	01410N00936(oakland police) - fraud
+	01445N01143(santa clara police) - assault
+	01500N01399(lake sheriff) - rape of 14, 15 yo f
+	01532N01512(visalia dps) - rape
+	01537N01556(santa ana school police) - child pornography
+	01585N01681(san jose police) - bought liquor for 18 yo m
+	01592N01734(los angeles police) - rape of 17 yo f
+	01597N01761(riverside sheriff) - bribery
+	01600N01776(kern sheriff) - meth charges
+	01637N01999(alameda sheriff) - evidence theft
+	01655N02140(orange county sheriff) - burglary, forged prescriptions
+	01741N00088(salinas police) - larceny
+	01743N00119(pheasanton police) - intimidation
+	01757N00301(anaheim police) - assault
+	01834N02058(los angeles police) - rape
+	01864N00163(chp) - burglary, evidence theft
+	01880N00278(los angeles sheriff) - online solicitation of 13 yo f
+	01882N00281(orange county sheriff) - intimidation
+	01941N00790(sacramento sheriff) - dui
+	01957N00978(los angeles police) - larceny
+	01960N00990(placer sheriff) - rape of 16, 17 yo f
+	01965N01048(narcotics bureau) - narcotics violations
+	01974N01140(san bernardino sheriff) - rape x4
+	02026N01667(orange county sheriff) - sexual violence x5
+	02184N00292(oceanside police) - dui
+	02256N01356(los angeles sheriff) - dui
+	02275N01688(sacramento sheriff) - dui
+	02287N01875(riverside sheriff) - dui
+	02289N01877(san bernardino sheriff) - dui
+	02313N02194(ucla police) - dui
+	02314N01963(sacramento sheriff) - dui
+	02315N00252(sacramento sheriff) - dui
+	02319N00037(kern sheriff) - dui
+	02348N00606(folsom police) - assault
+	02370N00820(clearlake police) - weapons
+	02372N00889(fresno sheriff) - dui
+	02388N01129(san luis obispo sheriff) - dui
+	02630N02093(orange county sheriff) - theft of prescriptions
+	02706N02251(chp) - murder
+	02798N02792(bakersfield police) - prostitution x3
+	02873N02389(seaside police) - rape of 17 yo f
+	02874N02390(woodland police) - dui	
 	
 Colorado
 	James Ashby(police) - stalking, murder
@@ -1448,3 +1546,7 @@ Wyoming
 	Clint Shepherd(corrections) - sex w/ inmate
 	James Sutton(corrections) - distribution of child pornography
 	Steven Kaczmarek(corrections) - weapons
+	
+	
+	
+	
