@@ -493,8 +493,74 @@ Arkansas
 	09459N07786(bull shoals chief) - assault, false reports
 	09747N08050(washington sheriff) - rape
 	10329N08527(rogers police) - nonviolent family offense
+	10522N08688(lake city police) - shoplifting
+	11083N09203(dumas police) - trafficking, weapons violations
+	11105N09207(haskell police) - child pornography
+	11136N09255(lonoke sheriff) - dui
+	11172N09288(fort smith police) - prostitution
+	11219N09332(conway police) - child pornography
+	11226N09338(england police) - assault, false reports
+	11302N09408(jefferson sheriff) - false reports
+	11452N09540(benton sheriff) - destroying evidence
+	11557N09639(little rock police) - assault
+	11573N09654(prairie grove police) - dui
+	11737N09789(saline sheriff) - dui
+	11805N09851(benton sheriff) - child pornography, sexual assault on 16 yo f
+	11973N09957(paris police) - child pornography, sexual assault on 11 yo f
+	12047N10023(union county sheriff) - child pornography, sexual assault on 9 yo f
+	12077N10048(hot springs police) - dui
+	12160N10119(pulaski sheriff) - rape
+	12302N10242(state police) - sex crimes
+	12433N10357(bradford police) - drug equipment violation
+	12625N10527(johnson sheriff) - rape
+	12795N10682(helena police) - kidnapping
+	12808N10690(dallas sheriff) - public intoxication
+	12991N07250(tuckerman police) - rape
+	13117N10934(hot springs police) - rape of 9 yo f
+	13341N11134(drew sheriff) - planting evidence
+	13617N11382(marion police) - intimidation
+	13687N11444(sebastian sheriff) - trafficking methamphetamine
+	13763N11505(white sheriff) - dui
+	13815N11536(flippen police) - embezzlement
+	13919N11618(arkansas sheriff) - extortion
+	13945N11642(benton sheriff) - dui
+	13986N11679(bella vista police) - narcotics violations
+	13994N11505(white sheriff) - assault, assault
+	14010N11698(little rock police) - weapons violations
+	14235N11874(garland sheriff) - embezzlement
+	14612N12165(faulkner sheriff) - rape
+	14784N12296(england police) - rape of a minor f
+	14956N12434(little rock police) - assault
+	15012N12485(elkins police) - counterfeit
+	15102N12558(little rock police) - rape
+	15266N12706(state police) - evidence theft
+	15280N12719(crawford sheriff) - dui
+	15290N12728(farmington police) - assault
+	15435N12853(marion police) - theft, destruction of evidence
+	15774N13124(little rock police) - intimidation
+	15834N13167(newton sheriff) - dui
+	16105N13364(washington sheriff)- rape of 10 yo f
+	16125N13380(little rock police) - assault
+	16144N13390(bono police) - rape of 14 yo f
+	16145N13391(bono police) - rape minor m
+	16146N13392(bono police) - rape of 16 yo f
+	16262N13453(plainview police) - rape of 13 yo f
+	16427N13593(baxter sheriff) - rape of 16 yo f
+	16622N13727(bentonville police) - assault
+	17049N14049(camden police) - dui
+	17093N14077(state police) - sexual intimidation
+	17099N14082(franklin sheriff) - abuse of prisoners
+	17149N14113(little rock police) - assault
+	19248N15694(state police) - manslaughter, dui
+	19267N15709(jacksonville police) - shakedowns, evidence theft
+	19443N15859(faulkner sheriff) - rape of 14 yo f
+	19505N15904(fayetteville police) - rapes, burglaries
+	19541N15924(marianna police) - rape of 14 yo f by instrumentation
+	19856N16181(keiser police) - burglary, narcotics violations
+	19997N13124(little rock police) - sexual intimidation
+	20088N16367(sebastian constable) - weapons, drugs
+	21839N11948(west memphis police) - assault
 	
-		
 California
 	John Swearengin(sheriff) - vehicular homicide
 	Johannes Mehserle(police) - murder
@@ -1246,8 +1312,41 @@ Utah
 	Joseph Corbett(police) - manslaughter
 	Colton Johansen(police) - sexual exploitation of minors
 	Cody Alan Rutledge(corrections) - forced sodomy
-	Seth Hendrickson(chief) - heroin possession 
-		
+	Seth Hendrickson(chief) - heroin possession
+	00140N01411(odem dps) - rape
+	00470N01708(dps) - embezzlement
+	00795N00111(salt lake city police) - assault
+	01297N00388(taylorsville police) - manslaughter
+	01615N01880(centerville police) - agg assault on 5 yo f
+	02377N00948(ogden police) - dui
+	02658N01324(syracuse police) - dui
+	02793N02788(emery sheriff) - rape
+	02881N02397(south ogden police) - rape of 14 yo f
+	02904N02414(salt lake sheriff) - atm/credit card fraud
+	03228N02694(unified police) - atm/credit card fraud
+	03372N02833(draper police) - narcotics violations
+	03474N02918(west valley police) - online solicitation of a child
+	03611N03046(perry police) - bribery
+	04177N03534(hurricane police) - rape
+	04718N04002(ogden police) - rape of minor f
+	05107N04335(emery sheriff) - burglary, narcotics
+	05450N04614(west valley police) - assault
+	05451N04615(dps) - agg assault
+	05646N04773(west jordan police) - rape by instrumentation
+	06065N05148(vernal police) - assault
+	06133N05206(sandy police) - larceny
+	06208N05279(moab police) - burglary
+	06226N05291(west jordan police) - heroin/cocaine trafficking
+	06550N05561(provo police) - agg assault
+	06606N05620(provo police) - rape
+	06614N05628(farmington police) - prostitution
+	06772N05760(provo police) - shakedowns, narcotics
+	07717N06527(unified police) - intimidation
+	08210N06830(park city police) - evidence theft
+	08421N06958(west valley police) - shakedowns, narcotics
+	08432N06968(grand sheriff) - agg assault
+	08547N07054(unified police) - shakedowns
+	
 Vermont
 	George Johnson(police) - agg assault
 	Jakob Oliver(police) - dv
