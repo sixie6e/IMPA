@@ -126,7 +126,7 @@ Alabama
 	14384N11997(dothan police) - shakedowns
 	05047N04272(russellville police) - narcotics violations
 	09463N07790(russell sheriff) - trafficking
-	04109N03479(police) - narcotics violations
+	04109N03479(prattville police) - narcotics violations
 	07377N06222(flomaton chief) - narcotics violations, theft from evidence room
 	11577N09658(bibb sheriff) - sexual violence, narcotics violations
 	08668N07132(decatur police) - narcotics violations
@@ -135,9 +135,9 @@ Alabama
 	12753N07380(tallassee police) - narcotics violations, agg assault
 	10162N08384(winston sheriff) - trafficking
 	11487N09573(cherokee police) - narcotics violations, theft from evidence room
-	13793N11523(police) - narcotics violations
-	14781N12293(chief) - narcotics violations, theft from evidence room
-	20051N16336(sheriff) - trafficking weapons/narcotics
+	13793N11523(eufala police) - narcotics violations
+	14781N12293(lipscomb chief) - narcotics violations, theft from evidence room
+	20051N16336(wilcox sheriff) - trafficking weapons/narcotics
 	20058N16343(eufala police) - trafficking
 	01240N00055(millbrook police) - rape
 	00465N01881(montgomery police) - rape of 16 yo m
@@ -252,137 +252,135 @@ Arizona
 	Amaury Fernandez(police) - unauthorized access
 	Jeffrey Streeter(police) sex crimes
 	William Ryberg Jr(police) - fraud
-	00455N01588(police) - agg assault
-	00500N02023(sheriff) - agg assault
-	00537N00867(police) - agg assault on 11 yo f
-	01007N01618(police) - agg assault on 14 yo f
-	01447N01166(police) - agg assault
-	01850N00019(police) - agg assault
-	03366N02827(police) - agg assault
-	03876N03257(police) - agg assault
-	03990N03365(police) - agg assault
-	06116N05191(police) - agg assault
-	06526N05543(police) - agg assault
-	06563N05572(police) - agg assault, agg assault on 14 yo m
-	06868N05835(police) - agg assault
-	07884N06647(sheriff) - agg assault
-	08413N06950(police) - agg assault
-	10076N08316(police) - agg assault
-	12899N10763(police) - agg assault
-	13446N11233(police) - agg assault
-	13811N07451(police) - agg assault
-	14936N12416(police) - agg assault on child
-	15110N12566(police) - agg assault
-	15869N13197(police) - agg assault
-	15982N13269(police) - agg assault on a minor
-	11180N09295(police) - hit and run
-	00895N00837(police) - dui
-	13608N11375(police) - alcohol related death
+	00455N01588(chandler police) - agg assault
+	00500N02023(graham sheriff) - agg assault
+	00537N00867(tohono police) - agg assault on 11 yo f
+	01007N01618(phoenix police) - agg assault on 14 yo f
+	01447N01166(scottsdale police) - agg assault
+	01850N00019(dps) - agg assault
+	03366N02827(tucson police) - agg assault
+	03876N03257(phoenix police) - agg assault
+	03990N03365(phoenix police) - agg assault
+	06116N05191(phoenix police) - agg assault
+	06526N05543(navajo nation) - agg assault
+	06563N05572(tucson police) - agg assault, agg assault on 14 yo m
+	06868N05835(phoenix police) - agg assault
+	07884N06647(maricopa sheriff) - agg assault
+	08413N06950(tucson police) - agg assault
+	10076N08316(phoenix police) - agg assault
+	12899N10763(flagstaff police) - agg assault
+	13446N11233(tucson police) - agg assault
+	13811N07451(tempe police) - agg assault
+	14936N12416(tohono police) - agg assault on child
+	15110N12566(cottonwood police) - agg assault
+	15869N13197(phoenix police) - agg assault
+	15982N13269(phoenix police) - agg assault on a minor
+	11180N09295(phoenix police) - hit and run
+	00895N00837(navajo nation police) - dui
+	13608N11375(navajo nation police) - alcohol related death
 	16730N13810(dps) - false reports
 	03328N02781(dps) - alcohol related sexual violence
-	06189N05263(police) - assault
+	06189N05263(flagstaff police) - assault
 	09479N07806(dps) - assault
 	11187N09301(dps) - sex assault on 14 yo f
 	13904N11604(dps) - evidence theft
 	16283N13474(dps) - larceny
 	16419N13586(dps) - intimidation of another officer
-	02479N00303(police) - assault
-	00410N01205(police) - evidence theft
-	02870N02386(police) - evidence theft
-	02938N02441(police) - dui
-	02939N02442(police) - dui
-	16091N13352(police) - rape of 5 yo f
-	19497N15899(police) - drug related dv
-	15967N13256(police) - robbery
-	15975N13264(police) - false reports, intimidation
-	11225N09337(police) - assault of minor male
-	11295N09401(police) - assault
-	11314N09420(police) - online solicitation of a child, assault
-	14801N12307(police) - evidence theft
-	09903N08180(police) - child sex crimes
-	10305N08505(police) - dui
-	10915N09046(police) - sexual violence
-	11224N09337(police) - assault
-	07094N06035(detective) - rape of 15, and 17 yo m
-	07467N06302(police) - intimidation
-	08762N07191(police) - assault
-	09134N07513(police) - rape of 17 yo f
-	09604N07923(police) - sexual violence
-	06450N05480(police) - assault
-	06775N05754(police) - larceny
-	06776N05755(police) - larceny
-	06777N05756(police) - larceny
-	06778N05757(police) - larceny
-	03387N02848(police) - prostitution
-	05254N04451(detective) - child pornography
-	05358N04512(police) - dui
-	09582N07901(police) - dui
-	13579N11352(police) - dui
-	00484N01886(sheriff) - rape of 15, and 14 yo f
-	03115N02592(sheriff) - trafficking, laundering
-	10104N08340(sheriff) - trafficking, shakedowns, evidence theft
-	10651N08806(sheriff) - trafficking
-	11617N09686(sheriff) - rape of 14 yo f
-	15265N12705(sheriff) - burglary
-	02963N02465(police) - dui
-	03020N02512(police) - profit motivated violence f child
-	09710N08021(police) - child sex crimes
-	11637N09703(police) - murder
-	16299N13489(police) - rape of 10 yo m & 9 yo f
-	03580N03024(police) - assault
-	04223N03586(police) - sexual assault
-	07023N05975(police) - burglary
-	09061N07445(detective) - sex crimes
-	09068N07451(police) - dui
-	13809N07451(police) - intimidation
-	06408N05444(police) - assault
-	06747N05723(police) - intimidation
-	15496N12907(police) - larceny
-	07232N06125(police) - dui
-	10307N08507(detective) - rape of 12 yo f
-	11977N09960(police) - rape
-	16078N13341(police) - sexual violence against 8 yo f
-	10091N08329(police) - rape
-	00932N01030(police) - nonviolent family offense
-	02017N01600(police) - dui
-	00377N01025(sheriff) - dui
-	13072N10893(sheriff) - embezzlement
-	16868N13915(sheriff) - shoplifting
-	19510N15907(sheriff) - dui
-	00951N01216(police) - narcotics violations
-	02420N01678(police) - dui
-	03736N03151(police) - dui
-	15354N12785(police) - rape
-	19612N15977(police) - assault
-	19762N16096(police) - dui
-	06640N05598(police) - dui
-	08771N07199(police) - rape
-	11707N09761(police) - NO INFORMATION
-	12176N10134(police) - dui
-	01833N02047(police) - destruction of property
-	07675N06487(police) - evidence theft
-	03890N03271(police) - dui
-	05937N05029(police) - embezzlement
-	09144N07522(police) - destruction of property
-	04317N03673(police) - child pornography
-	04736N04032(sheriff) - burglary
-	08415N06952(police) - larceny
-	05033N04269(police) - rape of 16 yo f
-	05350N04433(police) - rape of 17 yo f
-	11931N09925(police) - narcotics violations
-	12868N10745(police) - rape
-	12869N10745(police) - rape of 16 and 19 yo f, burglary
-	13374N11166(police) - dui
-	16567N13680(da) - obstruction
+	02479N00303(phoenix police) - assault
+	00410N01205(phoenix police) - evidence theft
+	02870N02386(phoenix police) - evidence theft
+	02938N02441(phoenix police) - dui
+	02939N02442(phoenix police) - dui
+	16091N13352(phoenix police) - rape of 5 yo f
+	19497N15899(phoenix police) - drug related dv
+	15967N13256(phoenix police) - robbery
+	15975N13264(phoenix detective) - false reports, intimidation
+	11225N09337(phoenix police) - assault of minor male
+	11295N09401(phoenix police) - assault
+	11314N09420(phoenix police) - online solicitation of a child, assault
+	14801N12307(phoenix police) - evidence theft
+	09903N08180(phoenix police) - child sex crimes
+	10305N08505(phoenix police) - dui
+	10915N09046(phoenix police) - sexual violence
+	11224N09337(phoenix police) - assault
+	07094N06035(phoenix detective) - rape of 15, and 17 yo m
+	07467N06302(phoenix police) - intimidation
+	08762N07191(phoenix police) - assault
+	09134N07513(phoenix police) - rape of 17 yo f
+	09604N07923(phoenix police) - sexual violence
+	06450N05480(phoenix police) - assault
+	06775N05754(phoenix police) - larceny
+	06776N05755(phoenix police) - larceny
+	06777N05756(phoenix police) - larceny
+	06778N05757(phoenix police) - larceny
+	03387N02848(phoenix police) - prostitution
+	05254N04451(phoenix detective) - child pornography
+	05358N04512(phoenix police) - dui
+	09582N07901(chandler police) - dui
+	13579N11352(chandler police) - dui
+	00484N01886(maricopa sheriff) - rape of 15, and 14 yo f
+	03115N02592(maricopa sheriff) - trafficking, laundering
+	10104N08340(maricopa sheriff) - trafficking, shakedowns, evidence theft
+	10651N08806(maricopa sheriff) - trafficking
+	11617N09686(maricopa sheriff) - rape of 14 yo f
+	15265N12705(maricopa sheriff) - burglary
+	02963N02465(surprise police) - dui
+	03020N02512(mesa police) - profit motivated violence f child
+	09710N08021(mesa police) - child sex crimes
+	11637N09703(mesa police) - murder
+	16299N13489(mesa police) - rape of 10 yo m & 9 yo f
+	03580N03024(el mirage police) - assault
+	04223N03586(tempe police) - sexual assault
+	07023N05975(tempe police) - burglary
+	09061N07445(tempe detective) - sex crimes
+	13809N07451(tempe police) - agg assault, dui, intimidation
+	06408N05444(tolleson police) - assault
+	06747N05723(peoria police) - intimidation
+	15496N12907(peoriapolice) - larceny
+	07232N06125(glendale police) - dui
+	10307N08507(goodyear detective) - rape of 12 yo f
+	11977N09960(salt river police) - rape
+	16078N13341(buckeye police) - sexual violence against 8 yo f
+	10091N08329(bullhead city police) - rape
+	00932N01030(navajo nation police) - nonviolent family offense
+	02017N01600(tohono police) - dui
+	00377N01025(pima sheriff) - dui
+	13072N10893(pima sheriff) - embezzlement
+	16868N13915(pima sheriff) - shoplifting
+	19510N15907(pima sheriff) - dui
+	00951N01216(tucson police) - narcotics violations
+	02420N01678(tucson police) - dui
+	03736N03151(tucson police) - dui
+	15354N12785(tucson police) - rape
+	19612N15977(tucson police) - assault
+	19762N16096(tucson police) - dui
+	06640N05598(tucson police) - dui
+	08771N07199(tucson police) - rape
+	11707N09761(tucson police) - NO INFORMATION
+	12176N10134(tucson police) - dui
+	01833N02047(oro valley police) - destruction of property
+	07675N06487(oro valley police) - evidence theft
+	03890N03271(marana police) - dui
+	05937N05029(south tucson police) - embezzlement
+	09144N07522(university az police) - destruction of property
+	04317N03673(pinal sheriff) - child pornography
+	04736N04032(pinal sheriff) - burglary
+	08415N06952(maricopa police) - larceny
+	05033N04269(nogales police) - rape of 16 yo f
+	05350N04433(nogales police) - rape of 17 yo f
+	11931N09925(nogales police) - narcotics violations
+	12869N10745(nogales police) - rape of 16 and 19 yo f, burglary
+	13374N11166(nogales police) - dui
+	16567N13680(santa cruz da) - obstruction
 	01659N02189(dps) - rape
-	10567N08729(police) - narcotics violations
-	19719N16061(sheriff) - narcotics, weapons violations
-	03688N03098(police) - sex crimes, bribery
-	04749N04045(police) - evidence theft
-	08773N07201(police) - online solicitation of a child
-	13572N11345(police) - rape
-	22411N18199(police) - rape of 17 yo f
-	03866N03248(police) - larceny
+	10567N08729(prescott police) - narcotics violations
+	19719N16061(yavapai sheriff) - narcotics, weapons violations
+	03688N03098(yuma police) - sex crimes, bribery
+	04749N04045(yuma police) - evidence theft
+	08773N07201(yuma police) - online solicitation of a child
+	13572N11345(dps) - rape
+	22411N18199(yuma police) - rape of 17 yo f
+	03866N03248(somerton police) - larceny
 	
 Arkansas
 	Coleman Brackney(police) - murder
@@ -409,93 +407,92 @@ Arkansas
 	Brad Stewart(police) - agg assault
 	Ayrialle Donson(sheriff) - intimidation w/ weapon, agg assault
 	Steven Montgomery(police) - agg assault
-	03480N02924(sheriff) - agg assault
-	03856N03238(police) - agg assault
+	03480N02924(clay sheriff) - agg assault
+	03856N03238(fayetteville police) - agg assault
 	04622N03927(state police) - agg assault
-	04659N03969(police) - agg assault
-	08193N06845(police) - agg assault
-	09319N07675(police) - agg assault
-	09510N07836(police) - agg assault on 5 yo m
-	10210N08428(police) - agg assault
-	10961N09088(police) - agg assault
-	10979N09106(sheriff) - agg assault on 13 yo m
-	10980N09107(police) - agg assault  on 13 yo m
-	13578N11351(sheriff) - agg assault
-	14322N11948(police) - agg assault
-	14683N08428(police) - agg assault
-	14797N12303(police) - agg assault
+	04659N03969(turrell police) - agg assault
+	08193N06845(rogers police) - agg assault
+	09319N07675(little rock police) - agg assault
+	09510N07836(fort smith police) - agg assault on 5 yo m
+	10210N08428(jacksonvillepolice) - agg assault
+	10961N09088(earle police) - agg assault
+	10979N09106(yell sheriff) - agg assault on 13 yo m
+	10980N09107(danville police) - agg assault  on 13 yo m
+	13578N11351(pulaski sheriff) - agg assault
+	14322N11948(west memphis police) - agg assault
+	14797N12303(cherokee police) - agg assault
 	01523N01488(ahp) - hit and run, dui
-	08781N07209(sheriff) - hit and run, dui
-	00029N00829(police) - rape of 16 yo f
-	00030N00938(police) - child pornography
-	00031N01495(police) - larceny
-	00365N00513(police) - assault
-	00375N01002(police) - rape
+	08781N07209(jackson sheriff) - hit and run, dui
+	00029N00829(gentry police) - rape of 16 yo f
+	00030N00938(benton sheriff) - child pornography
+	00031N01495(elm springs police) - larceny
+	00365N00513(benton police) - assault
+	00375N01002(pine bluff police) - rape
 	00439N01419(state police) - manslaughter
-	00855N00583(police) - assault
+	00855N00583(alexander police) - assault
 	01091N02053(ahp) - dui
-	01242N00075(police) - sexual intimidation
-	01525N01493(sheriff) - intimidation
-	01559N01604(police) - assault
-	02025N01651(police) - dui
-	02684N02234(police) - armed robbery
-	02763N02302(police) - theft
-	03435N02884(police) - child abuse
-	03436N02885(police) - dui
-	03515N02957(police) - rape of 16 yo f
-	03527N02969(police) - disorderly conduct
-	03612N03047(police) - trafficking
-	03613N03048(police) - trafficking
-	03614N03049(police) - trafficking
-	03615N03050(police) - trafficking
-	03616N03051(sheriff) - trafficking
-	03821N03224(police) - assault
-	03933N03313(sheriff) - theft
-	04243N03606(sheriff) - assault
-	04437N03792(police) - drug related weapons violations
-	04449N03800(police) - public intoxication
-	04835N04125(police) - assault
-	04951N04215(police) - rape of 13 yo f
-	05064N04299(sheriff) - rape
-	05102N04330(police) - rape
-	05257N04448(police) - child sex crimes
-	05335N04501(police) - trafficking, counterfeiting
-	05637N04749(police) - robbery
-	05854N04962(police) - dui
-	06048N05131(police) - negligent manslaughter
-	06214N05295(police) - dui
-	06299N05339(sheriff) - trafficking, evidence theft
-	06464N05500(sheriff) - rape of 13 yo f
-	06589N05590(police) - dui
-	06925N05904(police) - oppression
-	07169N06087(police) - murder
-	07590N06404(police) - assault
-	07670N06482(police) - murder
-	07752N06561(police) - burglary
-	07797N06606(sheriff) - false reports
-	08048N06746(police) - weapons violations
-	08215N06825(sheriff) - assault
-	08364N06915(sheriff) - sexual exploitation of a child
-	08402N06940(police) - trafficking, drug related weapons violations
-	08403N06941(police) - trafficking, drug related weapons violations
-	08406N06943(sheriff) - assault
-	08632N02234(police) - dui
-	08750N07179(police) - rape of 16 yo f
-	08828N07250(police) - rape
-	08907N07313(police) - evidence theft
-	08930N07334(police) - evidence theft
-	09127N07506(police) - rape of 10 yo m
-	09197N07563(police) - child porn
-	09199N07565(police) - forged prescriptions
+	01242N00075(fort smith police) - sexual intimidation
+	01525N01493(baxter sheriff) - intimidation
+	01559N01604(fort smith police) - assault
+	02025N01651(fort smith police) - dui
+	02684N02234(little rock police) - armed robbery
+	02763N02302(west memphis police) - theft
+	03435N02884(west memphis police) - child abuse
+	03436N02885(west memphis police) - dui
+	03515N02957(searcy police) - rape of 16 yo f
+	03527N02969(as university police) - disorderly conduct
+	03612N03047(helena police) - trafficking
+	03613N03048(helena police) - trafficking
+	03614N03049(helena police) - trafficking
+	03615N03050(marvell police) - trafficking
+	03616N03051(phillips sheriff) - trafficking
+	03821N03224(little rock police) - assault
+	03933N03313(greene sheriff) - theft
+	04243N03606(crawford sheriff) - assault
+	04437N03792(helena police) - drug related weapons violations
+	04449N03800(fayetteville police) - public intoxication
+	04835N04125(lowell police) - assault
+	04951N04215(rogers police) - rape of 13 yo f
+	05064N04299(hempstead sheriff) - rape
+	05102N04330(austin police) - rape
+	05257N04448(fayetteville police) - child sex crimes
+	05335N04501(crossett police) - trafficking, counterfeiting
+	05637N04749(as university police) - robbery
+	05854N04962(west memphis police) - dui
+	06048N05131(bella vista police) - negligent manslaughter
+	06214N05295(conway police) - dui
+	06299N05339(woodruff sheriff) - trafficking, evidence theft
+	06464N05500(cross sheriff) - rape of 13 yo f
+	06589N05590(little rock police) - dui
+	06925N05904(ozark police) - oppression
+	07169N06087(little rock police) - murder
+	07590N06404(little rock police) - assault
+	07670N06482(alexander police) - murder
+	07752N06561(pine bluff police) - burglary
+	07797N06606(johnson sheriff) - false reports
+	08048N06746(malvern police) - weapons violations
+	08215N06825(garland sheriff) - assault
+	08364N06915(garland sheriff) - sexual exploitation of a child
+	08402N06940(little rock police) - trafficking, drug related weapons violations
+	08403N06941(little rock police) - trafficking, drug related weapons violations
+	08406N06943(saline sheriff) - assault
+	08632N02234(little rock police) - dui
+	08750N07179(fort smith police) - rape of 16 yo f
+	08828N07250(tuckerman police) - rape
+	08907N07313(lead hill police) - evidence theft
+	08930N07334(tuckerman police) - evidence theft
+	09127N07506(benton police) - rape of 10 yo m
+	09197N07563(walnut ridge police) - child porn
+	09199N07565(walnut ridge police) - forged prescriptions
 	09249N07612(state police) - burglary, evidence theft
-	09250N07613(police) - rape
-	09320N07676(police) - intimidation
-	09338N07698(police) - narcotics violations, evidence theft
-	09339N07699(police) - narcotics violations, evidence theft
-	09405N07740(police) - solicitation of a 9 yo f
-	09459N07786(chief) - assault, false reports
-	09747N08050(sheriff) - rape
-	10329N08527(police) - nonviolent family offense
+	09250N07613(pine bluff police) - rape
+	09320N07676(prairie grove police) - intimidation
+	09338N07698(trumann police) - narcotics violations, evidence theft
+	09339N07699(trumann police) - narcotics violations, evidence theft
+	09405N07740(guy police) - solicitation of a 9 yo f
+	09459N07786(bull shoals chief) - assault, false reports
+	09747N08050(washington sheriff) - rape
+	10329N08527(rogers police) - nonviolent family offense
 	
 		
 California
@@ -522,50 +519,50 @@ California
 	Manuel Ramos(police) - beat homeless man to death, walked free
 	Jay Cicinelli(police) - beat homeless man to death, walked free
 	Joseph Wolfe(police) - beat homeless man to death, walked free
-	00118N02015(police) - rape, agg assault
-	00180N02101(sheriff) - agg assault
+	00118N02015(san francisco police) - rape, agg assault
+	00180N02101(san bernardino sheriff) - agg assault
 	00190N01460(police) - agg assault
 	00731N00645(police) - agg assault
-	00748N01460(police) - agg sex assault on 5 yo f
-	00820N00320(police) - agg assault
-	00826N00361(police) - agg assault
-	00857N00589(police) - agg assault
-	00962N01292(police) - agg assault on 16 yo m
+	00748N01460(san diego police) - agg sex assault on 5 yo f
+	00820N00320(beaumont police) - agg assault
+	00826N00361(los angeles police) - agg assault
+	00857N00589(daly city police) - agg assault
+	00962N01292(los angeles police) - agg assault on 16 yo m
 	01423N01044(chp) - agg assault
-	01425N01053(school) - agg assault
-	01608N01824(police) - agg assault
-	02043N01737(sheriff) - agg assault on 8 yo m
-	03286N02748(sheriff) - agg assault
-	03566N03004(police) - agg assault
-	04125N03494(police) - agg assault
-	04337N03690(police) - agg assault
-	04513N03847(sheriff) - agg assault
-	04763N04058(sheriff) - agg assault
-	04816N04095(police) - agg assault
-	04847N04133(police) - agg assault
-	05070N04305(sheriff) - rape, agg assault
-	05162N04381(police) - agg assault
-	05203N04418(police) - agg assault
-	05346N04525(sheriff) - rape, agg assault
-	05376N04558(police) - agg assault
-	05442N04596(police) - agg assault on 7 yo m
-	05739N04857(sheriff) - agg assault
-	06273N05315(sheriff) - agg assault
-	06338N05382(police) - agg assault
-	06630N05630(sheriff) - agg assault
-	06692N05688(police) - agg assault
-	06755N05742(police) - agg assault
-	06815N05793(police) - agg assault
-	06819N05794(police) - agg assault
-	07469N06304(police) - agg assault
-	07538N06358(sheriff) - agg assault
-	07776N06242(sheriff) - agg assault
-	08197N06841(police) - agg assault
-	08448N02389(police) - agg sexual assault
-	08822N07245(police) - manslaughter, agg assault
-	08882N07293(sheriff) - agg assault
-	09107N07488(sheriff) - agg assault ui meth
-	09146N07524(police) - rape, agg assault
+	01425N01053(los angeles school) - agg assault
+	01608N01824(maywood police) - agg assault
+	02043N01737(los angeles sheriff) - agg assault on 8 yo m
+	03286N02748(los angeles sheriff) - agg assault
+	03566N03004(los angeles police) - agg assault
+	04125N03494(citrus heights police) - agg assault
+	04337N03690(long beach police) - agg assault
+	04513N03847(san diego sheriff) - agg assault
+	04763N04058(san bernardino sheriff) - agg assault
+	04816N04095(san francisco police) - agg assault
+	04847N04133(richmond police) - agg assault
+	05070N04305(los angeles sheriff) - rape, agg assault
+	05162N04381(oxnard police) - agg assault
+	05203N04418(shafter police) - agg assault
+	05346N04525(san benito sheriff) - rape, agg assault
+	05376N04558(sacramento police) - agg assault
+	05442N04596(suisun city police) - agg assault on 7 yo m
+	05739N04857(orange county sheriff) - agg assault
+	06273N05315(riverside sheriff) - agg assault
+	06338N05382(modesto police) - agg assault
+	06630N05630(kern sheriff) - agg assault
+	06692N05688(san rafael police) - agg assault
+	06755N05742(los banos police) - agg assault
+	06815N05793(westminster police) - agg assault
+	06819N05794(long beach police) - agg assault
+	07469N06304(los angeles police) - agg assault
+	07538N06358(los angeles sheriff) - agg assault
+	07776N06242(los angeles sheriff) - agg assault
+	08197N06841(clovis police) - agg assault
+	08448N02389(seaside police) - agg sexual assault
+	08822N07245(los angeles police) - manslaughter, agg assault
+	08882N07293(los angeles sheriff) - agg assault
+	09107N07488(santa clara sheriff) - agg assault ui meth
+	09146N07524(los angeles police) - rape, agg assault
 	
 Colorado
 	James Ashby(police) - stalking, murder
@@ -699,7 +696,7 @@ Florida
 	Zachary Wester(police) - planting evidence, racketeering, false imprisonment
 	Andrew Graham(police) - perjury
 	Jason Casteel(police) - perjury
-	00072N01652(police) - agg assault
+	00072N01652(opa locka police) - agg assault
 	
 Georgia
 	290 police arrested for dui in the last 5 years
@@ -796,7 +793,7 @@ Indiana
 	Derek Bogenschutz(sheriff) - used child crimes profile to stalk
 	Chad Armenta(police) - stalking, harassment
 	Harlis Hoover(chief) - fraud
-	00032N01565(sheriff) - agg assault on 11yo girl
+	00032N01565(hamilton sheriff) - agg assault on 11yo girl
 
 Iowa
 	Mike Tobin(police) - sexual exploitation/sol of minor
@@ -866,7 +863,7 @@ Kentucky
 	Benjamin Walden(police) - rape, sodomy, retaliation, witness tampering
 	Jose Soto(juvenile corrections) - smuggling
 	Ty Whitaker(police) - terrorist threats
-	00019N00435 (police) - agg assault
+	00019N00435 (newport police) - agg assault
 	
 	* The state police said its investigation found their officers did not violate standards of conduct
 	
@@ -943,7 +940,7 @@ Maine
 	10909N09041(thomaston police) - dui
 	11885N09884(thomaston police) - destroying evidence
 	13264N11057(marine patrol) - dui, assault
-	12439N10363(lincoln sheriff) - rape of 15, 14, and 6 yo f
+	12439N10363(licoln sheriff) - rape of 15, 14, and 6 yo f
 	05949N05046(fryeburg police) - intimidation of spouse
 	00986N01462(bangor police) - destruction of property
 	07285N06165(bangor police) - dui
@@ -1150,7 +1147,7 @@ Ohio
 	John Castillo(police) - drug trafficking
 	Joel Mefford(police) - drug trafficking
 	David Pearson(police) - negligent homicide
-	00034N00585(police) - agg assault
+	00034N00585(cincinatti police) - agg assault
 	
 Oklahoma
 	Steven Cugini(police) - raped 13 month old
@@ -1240,8 +1237,8 @@ Texas
 	Bau Tran(police) - murder
 	Gerald Goines(police) - fake warrant, murder
 	Aaron Dean(police) - murder
-	00040N00961(police) - agg assault
-	00057N01985(sheriff) - agg assault on 8 yo girl
+	00040N00961(austin police) - agg assault
+	00057N01985(el paso sheriff) - agg assault on 8 yo girl
 	
 Utah
 	Joseph Corbett(police) - manslaughter
