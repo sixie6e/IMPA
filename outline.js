@@ -940,7 +940,7 @@ Maine
 	10909N09041(thomaston police) - dui
 	11885N09884(thomaston police) - destroying evidence
 	13264N11057(marine patrol) - dui, assault
-	12439N10363(licoln sheriff) - rape of 15, 14, and 6 yo f
+	12439N10363(lincoln sheriff) - rape of 15, 14, and 6 yo f
 	05949N05046(fryeburg police) - intimidation of spouse
 	00986N01462(bangor police) - destruction of property
 	07285N06165(bangor police) - dui
@@ -1172,6 +1172,8 @@ Oklahoma
 	Bob Colbert(sheriff) - extortion
 	Jeffrey Gragg(sheriff) - extortion
 	Nicholas ONeal(sheriff) - dui
+	David Poole(tulsa sheriff) - assault, child endangerment, false reports
+	Daniel Gulley(tulsa sheriff) assault, child endangerment, false reports
 	
 Oregon
 	Joshua West(police) - dv strangulation
