@@ -89,81 +89,81 @@ Alabama
 	William Clemons(corrections) - smuggling
 	Jonathan Perry Works(police) - rape, sodomy
 	Brian Edward Walker(police) - rape, sodomy
-	01744N00153(sheriff) - agg assault
-	04139N03559(police) - agg assault
-	05381N04553(sheriff) - agg assault
-	06058N05152(police) - agg assault
-	07102N06042(police) - agg assault
-	08251N04643(police) - agg assault
-	09792N08090(police) - agg sex assault
-	12043N10019(police) - agg assault
-	12235N10179(police) - agg assault
-	13302N11094(sheriff) - agg assault
-	15620N13011(police) - agg assault
-	16560N13673(police) - agg assault
-	16715N13797(police) - agg assault
-	21220N17228(police) - agg assault
-	01171N00802(chief) - intimidation
-	07755N06564(police) - intimidation
-	09675N07990(police) - intimidation
-	10994N09121(police) - intimidation
-	11726N09779(police) - hit and run
-	01471N01276(police) - hit and run
-	05764N04881(police) - sexual assault
-	09219N07583(police) - sexual assault
-	13740N11490(police) - sexual violence against unrelated child
-	00798N00144(sheriff) - narcotics violations
-	00547N02192(police) - planting evidence, trafficking
-	13141N10954(police) - narcotics violations
-	04245N03608(police) - forged prescriptions
-	19813N16143(police) - planting evidence
-	01383N00814(police) - narcotics violations
-	01100N02144(police) - rape, narcotics violations
-	09825N08118(police) - narcotics violations
-	01424N01045(police) - forged prescriptions
-	04326N03679(police) - shakedowns
-	04327N03680(police) - shakedowns
-	14384N11997(police) - shakedowns
-	05047N04272(police) - narcotics violations
-	09463N07790(sheriff) - trafficking
+	01744N00153(dale sheriff) - agg assault
+	04139N03559(birmingham police) - agg assault
+	05381N04553(greene sheriff) - agg assault
+	06058N05152(leighton police) - agg assault
+	07102N06042(birmingham police) - agg assault
+	08251N04643(madison police) - agg assault
+	09792N08090(tuscaloosa police) - agg sex assault
+	12043N10019(birmingham police) - agg assault
+	12235N10179(prichard police) - agg assault
+	13302N11094(morgan sheriff) - agg assault
+	15620N13011(mobile police) - agg assault
+	16560N13673(birmingham police) - agg assault
+	16715N13797(birmingham police) - agg assault
+	21220N17228(citronelle police) - agg assault
+	01171N00802(butler chief deputy) - intimidation
+	07755N06564(montgomery police) - intimidation
+	09675N07990(montgomery police) - intimidation
+	10994N09121(montgomery police) - intimidation
+	11726N09779(montgomery police) - hit and run
+	01471N01276(mobile police) - hit and run
+	05764N04881(andalusia police) - sexual assault
+	09219N07583(andalusia police) - sexual assault
+	13740N11490(ashford police) - sexual violence against, prostitution of unrelated f child
+	00798N00144(butler sheriff) - narcotics violations
+	00547N02192(montgomery police) - planting evidence, trafficking
+	13141N10954(montgomery police) - narcotics violations
+	04245N03608(huntsville police) - forged prescriptions
+	19813N16143(huntsville police) - planting evidence
+	01383N00814(moulton police) - narcotics violations
+	01100N02144(birmingham police) - rape, narcotics violations
+	09825N08118(birmingham police) - narcotics violations
+	01424N01045(fayette police) - forged prescriptions
+	04326N03679(mobile police) - shakedowns
+	04327N03680(mobile police) - shakedowns
+	14384N11997(dothan police) - shakedowns
+	05047N04272(russellville police) - narcotics violations
+	09463N07790(russell sheriff) - trafficking
 	04109N03479(police) - narcotics violations
-	07377N06222(chief) - narcotics violations, theft from evidence room
-	11577N09658(sheriff) - sexual violence, narcotics violations
-	08668N07132(police) - narcotics violations
-	08515N07031(police) - trafficking
-	07546N06363(sheriff) - trafficking
-	12753N07380(police) - narcotics violations, agg assault
-	10162N08384(sheriff) - trafficking
-	11487N09573(police) - narcotics violations, theft from evidence room
+	07377N06222(flomaton chief) - narcotics violations, theft from evidence room
+	11577N09658(bibb sheriff) - sexual violence, narcotics violations
+	08668N07132(decatur police) - narcotics violations
+	08515N07031(prichard police) - trafficking
+	07546N06363(mobile sheriff) - trafficking
+	12753N07380(tallassee police) - narcotics violations, agg assault
+	10162N08384(winston sheriff) - trafficking
+	11487N09573(cherokee police) - narcotics violations, theft from evidence room
 	13793N11523(police) - narcotics violations
 	14781N12293(chief) - narcotics violations, theft from evidence room
 	20051N16336(sheriff) - trafficking weapons/narcotics
-	20058N16343(police) - trafficking
-	01240N00055(police) - rape
-	00465N01881(police) - rape of 16 yo m
+	20058N16343(eufala police) - trafficking
+	01240N00055(millbrook police) - rape
+	00465N01881(montgomery police) - rape of 16 yo m
 	11345N09448(dps) - rape
-	00918N00950(police) - rape of 10 yo f
-	04927N04194(police) - rape
-	10039N08251(police) - rape
-	14588N12150(police) - rape of 14 yo f
-	07514N06335(police) - rape of 14 yo f & unknown age f
-	02696N02241(police) - rape of 15 yo f
-	02934N02437(police) - rape
-	12629N10531(sheriff) - rape of 16 yo f
-	04527N03859(police) - rape of 15 yo f
-	07108N06048(police) - child sex crimes
-	05178N04404(campus) - rape of 14 yo f
-	07060N06005(police) - rape of 11 yo f
-	16174N07223(police) - rape
-	11420N09514(police) - rape of 6 yo f
-	14046N11728(police) - rape
-	15445N12293(police) - child sex crimes
-	15712N13079(police) - rape
-	15872N13200(police) - rape
-	15873N13201(police) - rape
-	16111N13368(police) - rape of 15 yo f
-	19476N15883(police) - child sex crimes
-	20606N16793(police) - rape of 9 yo f
+	00918N00950(chickasaw police) - rape of 10 yo f
+	04927N04194(birmingham police) - rape
+	10039N08251(birmingham police) - rape
+	14588N12150(birmingham police) - rape of 14 yo f
+	07514N06335(tuskegee police) - rape of 14 yo f & unknown age f
+	02696N02241(selma police) - rape of 15 yo f
+	02934N02437(tuscaloosa police) - rape
+	12629N10531(madison sheriff) - rape of 16 yo f
+	04527N03859(tuskegee university police) - rape of 15 yo f
+	07108N06048(madison police) - child sex crimes
+	05178N04404(university of al police) - rape of 14 yo f
+	07060N06005(troy police) - rape of 11 yo f
+	16174N07223(prichard police) - rape
+	11420N09514(bear creek police) - rape of 6 yo f
+	14046N11728(phenix city police) - rape
+	15445N12293(lipscomb police chief) - child sex crimes
+	15712N13079(lafayette police) - rape
+	15872N13200(fairfield police) - rape
+	15873N13201(fairfield police) - rape
+	16111N13368(hartford police) - rape of 15 yo f
+	19476N15883(chilton sheriff) - child sex crimes
+	20606N16793(kinston police) - rape of 9 yo f
 
 Alaska
 	Joseph Miller(state police) - assault, let dog bite for more than a minute
@@ -195,34 +195,34 @@ Alaska
 	Steven Manuel(corrections) - smuggling
 	Stewart Blakeslee(corrections) - child pornography
 	Daryl D Rice(police) - poaching
-	11938N09930(police) - agg assault
-	16060N13330(police) - agg assault
-	17568N14431(police) - agg assault
-	00290N00357(police) - rape of 12 yo f
-	00016N00873(police) - rape of 16 yo f
-	02999N02495(police) - impersonation
-	04889N04166(police) - rape
-	16449N13611(police) - rape of 14 yo f
-	16592N13699(police) - dui
-	16809N13875(police) - assault
-	08200N06838(police) - oppression
+	11938N09930(emmonak police) - agg assault
+	16060N13330(dillingham police) - agg assault
+	17568N14431(juneau police) - agg assault
+	00290N00357(anchorage police) - rape of 12 yo f
+	00016N00873(anchorage police) - rape of 16 yo f
+	02999N02495(anchorage police) - impersonation
+	04889N04166(anchorage police) - rape(numerous)
+	16449N13611(anchorage police) - rape of 14 yo f
+	16592N13699(anchorage police) - dui
+	16809N13875(anchorage police) - assault
+	08200N06838(anchorage police) - oppression
 	19245N15691(state police) - dui
-	06746N05733(polcie) - prostitution
-	08477N07000(police) - alcohol related weapons charges
+	06746N05733(airport police) - prostitution
+	08477N07000(bethel police) - alcohol related weapons charges
 	02389N01158(state police) - alcohol related weapons charges
-	11239N09350(police) - oppression, sexual assault
-	11604N09679(police) - assault
-	13984N11677(police) - assault
-	08913N07319(police) - rape of 16 yo f
+	11239N09350(bethel police) - oppression, sexual assault
+	11604N09679(bethel police) - assault
+	13984N11677(bethel police) - assault
+	08913N07319(togiak police) - rape of 16 yo f
 	20073N16356(state police) - rape of 16 yo f
 	20074N16357(state police) - forged prescriptions
-	15253N12695(police) - larceny
-	20075N16358(police) - obstruction
-	06165N05242(police) - rape of 10 yo f
+	15253N12695(fairbanks police) - larceny
+	20075N16358(north pole police) - obstruction
+	06165N05242(juneau police) - rape of 10 yo f
 	14407N12015(state police) - rape of 16 yo f, pornography
 	15429N12849(state police) - dv
-	05887N05000(police) - assault on 2 yo f
-	09091N07469(police) - online solicitation of 12 yo f
+	05887N05000(ketchikan police) - assault on 2 yo f
+	09091N07469(kobuk police) - online solicitation of 12 yo f
 		
 Arizona
 	Richard Chrisman(police) - murder
@@ -388,6 +388,7 @@ Arkansas
 	Coleman Brackney(police) - murder
 	Larry P Norman(state police) - negligent homicide
 	Jerri Beyard(police) - animal cruelty
+	Jon Crowder(police) - assault of handcuffed person
 	Michael Davis(sheriff) - negligent homimcide
 	Joseph Harris(police) - agg assault
 	Zachary King(sheriff) - agg assault
@@ -425,6 +426,77 @@ Arkansas
 	14797N12303(police) - agg assault
 	01523N01488(ahp) - hit and run, dui
 	08781N07209(sheriff) - hit and run, dui
+	00029N00829(police) - rape of 16 yo f
+	00030N00938(police) - child pornography
+	00031N01495(police) - larceny
+	00365N00513(police) - assault
+	00375N01002(police) - rape
+	00439N01419(state police) - manslaughter
+	00855N00583(police) - assault
+	01091N02053(ahp) - dui
+	01242N00075(police) - sexual intimidation
+	01525N01493(sheriff) - intimidation
+	01559N01604(police) - assault
+	02025N01651(police) - dui
+	02684N02234(police) - armed robbery
+	02763N02302(police) - theft
+	03435N02884(police) - child abuse
+	03436N02885(police) - dui
+	03515N02957(police) - rape of 16 yo f
+	03527N02969(police) - disorderly conduct
+	03612N03047(police) - trafficking
+	03613N03048(police) - trafficking
+	03614N03049(police) - trafficking
+	03615N03050(police) - trafficking
+	03616N03051(sheriff) - trafficking
+	03821N03224(police) - assault
+	03933N03313(sheriff) - theft
+	04243N03606(sheriff) - assault
+	04437N03792(police) - drug related weapons violations
+	04449N03800(police) - public intoxication
+	04835N04125(police) - assault
+	04951N04215(police) - rape of 13 yo f
+	05064N04299(sheriff) - rape
+	05102N04330(police) - rape
+	05257N04448(police) - child sex crimes
+	05335N04501(police) - trafficking, counterfeiting
+	05637N04749(police) - robbery
+	05854N04962(police) - dui
+	06048N05131(police) - negligent manslaughter
+	06214N05295(police) - dui
+	06299N05339(sheriff) - trafficking, evidence theft
+	06464N05500(sheriff) - rape of 13 yo f
+	06589N05590(police) - dui
+	06925N05904(police) - oppression
+	07169N06087(police) - murder
+	07590N06404(police) - assault
+	07670N06482(police) - murder
+	07752N06561(police) - burglary
+	07797N06606(sheriff) - false reports
+	08048N06746(police) - weapons violations
+	08215N06825(sheriff) - assault
+	08364N06915(sheriff) - sexual exploitation of a child
+	08402N06940(police) - trafficking, drug related weapons violations
+	08403N06941(police) - trafficking, drug related weapons violations
+	08406N06943(sheriff) - assault
+	08632N02234(police) - dui
+	08750N07179(police) - rape of 16 yo f
+	08828N07250(police) - rape
+	08907N07313(police) - evidence theft
+	08930N07334(police) - evidence theft
+	09127N07506(police) - rape of 10 yo m
+	09197N07563(police) - child porn
+	09199N07565(police) - forged prescriptions
+	09249N07612(state police) - burglary, evidence theft
+	09250N07613(police) - rape
+	09320N07676(police) - intimidation
+	09338N07698(police) - narcotics violations, evidence theft
+	09339N07699(police) - narcotics violations, evidence theft
+	09405N07740(police) - solicitation of a 9 yo f
+	09459N07786(chief) - assault, false reports
+	09747N08050(sheriff) - rape
+	10329N08527(police) - nonviolent family offense
+	
 		
 California
 	John Swearengin(sheriff) - vehicular homicide
@@ -840,7 +912,7 @@ Maine
 	Glenn Lang(sa) - beat handcuffed man
 	Tyler Maloon(state police) - covered for Glenn Lang
 	Daniel Murray(state police) - impaired w/ minor driving
-	Jeff Boudreau(sheriff) - tried to convince pretrial person to skip bail
+	Jeff Boudreau(sheriff) - let trumpster that racked slide back and aimed gun at someone go, false arrest, tried to convince pretrial person to skip bail
 	David Coflesky(state police) - car theft, dui
 	Bryan Creamer(state police) - does not properly investigate
 	Robin Parker(stater police) - dui
@@ -852,40 +924,40 @@ Maine
 	Andrew Demers(chief of state police) - child sex crimes
 	Tom McKenney(game warden) - let man go that intentionally went off road to hit nesting turtles
 	Joseph Barnes(chief) - theft
-	02293N01945(police) - dui
-	06593N05595(police) - assault
-	01766N00522(police) - dui
-	00436N01408(police) - assault
-	04186N03385(police) - assault, public intox
-	05374N04539(police) - assault
-	14004N11692(police) - assault
-	10747N08896(sheriff) - assault
-	12050N10026(police) - sexual violence 14 yo f
-	09004N07397(police) - assault
-	13655N11417(police) - dui
-	15736N13101(police) - assault
-	07660N06472(police) - assault
+	02293N01945(auburn police) - dui
+	06593N05595(lewiston police) - assault, trespass
+	01766N00522(caribou police) - dui
+	00436N01408(portland police) - assault
+	04186N03385(portland police) - assault, public intox
+	05374N04539(portland police) - assault
+	14004N11692(portland police) - assault
+	10747N08896(cumberland sheriff) - assault
+	12050N10026(brunswick police) - sexual violence 14 yo f
+	09004N07397(farmington police) - assault
+	13655N11417(umaine police) - dui
+	15736N13101(carrabassett police) - assault
+	07660N06472(ellsworthpolice) - assault
 	16065N13335(state police) - assault on 12 yo f
-	07934N06686(police) - assault on 16 yo f
-	07935N06687(police) - assault on 15 yo f
-	10909N09041(police) - dui
-	11885N09884(police) - destroying evidence
+	07934N06686(clinton police) - assault on 16 yo f
+	07935N06687(clinton police) - assault on 15 yo f
+	10909N09041(thomaston police) - dui
+	11885N09884(thomaston police) - destroying evidence
 	13264N11057(marine patrol) - dui, assault
-	12439N10363(sheriff) - rape of 15, 14, and 6 yo f
-	05949N05046(police) - intimidation of spouse
-	00986N01462(police) - destruction of property
-	07285N06165(police) - dui
-	08582N07085(police) - dui
-	12974N10819(police) - evidence theft
-	16306N13495(sheriff) - agg assault
-	14941N12421(police) - assault
+	12439N10363(lincoln sheriff) - rape of 15, 14, and 6 yo f
+	05949N05046(fryeburg police) - intimidation of spouse
+	00986N01462(bangor police) - destruction of property
+	07285N06165(bangor police) - dui
+	08582N07085(brewer police) - dui
+	12974N10819(old town police) - evidence theft
+	16306N13495(sagadahoc sheriff) - agg assault
+	14941N12421(skowhegan police) - assault
 	01889N00362(state police) - weapons charges
-	21488N17461(chief) - wildlife crime
-	02276N01699(police) - dui
-	03477N02921(police) - assault
-	04841N04131(police) - intimidation of spouse
-	09571N07873(police) - assault
-	11078N09220(police) - dui	
+	21488N17461(passamaquoddy chief) - wildlife crime
+	02276N01699(kennebunk police) - dui
+	03477N02921(kittery police) - assault
+	04841N04131(eliot police) - intimidation of spouse
+	09571N07873(kennebunkport police) - assault
+	11078N09220(saco police) - dui	
 	
 Maryland
 	Robert Warrington(police) - attempted murder
@@ -1270,7 +1342,7 @@ Wyoming
 	Frank Noeson(corrections) - distribution of child pornography
 	Logan Alley(police) - posession of controlled substance
 	Jon Ramsay(police) - excessive force, unlawful entry
-	Craig Burns(police) - excessive force, unlawful entry
+	Craig Burns(polic) - excessive force, unlawful entry
 	Samuel keller(chief) - dv
 	Robert Garry(corrections) - possession w/ intent
 	Jason Gillott(sheriff) - excessive force
