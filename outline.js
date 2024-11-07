@@ -1,7 +1,10 @@
-// This will be continually updated as the project progresses.
-// State -> Society/Facility -> Violent/Non -> Death/Injury -> Financial
 // sixie6e@distherapy 2024
-// The state with the most is not the worst. I am populating this list alphabetically by state and then by crime.
+// This will be continually updated as the project progresses, which is almost daily.
+// The state with the current most is not the 'worst'. I am populating this list from the README.md sources.
+// I will then be sifting through them to cancel out redundant lines matching numbers to names.
+// This list is absolutely disgusting. I have to take breaks when reading reports.
+// Anyone that flies the Blue Stripe Bandits' gang flag is a severe social threat.
+// Guard your loved ones. In addition to this list, police kill 10,000+ family pets ANNUALLY.
 
 Alabama
 	Cameroun Tremble(police) - animal cruelty
@@ -587,6 +590,8 @@ California
 	Manuel Ramos(police) - beat homeless man to death, walked free
 	Jay Cicinelli(police) - beat homeless man to death, walked free
 	Joseph Wolfe(police) - beat homeless man to death, walked free
+	Salvador Reynaga Jr(seaside police) - sexual assault x33
+	Jeff Stenroos(school police) - faked a shooting
 	00118N02015(san francisco police) - rape, agg assault
 	00180N02101(san bernardino sheriff) - agg assault
 	00190N01460(police) - agg assault
@@ -725,8 +730,53 @@ California
 	02630N02093(orange county sheriff) - theft of prescriptions
 	02706N02251(chp) - murder
 	02798N02792(bakersfield police) - prostitution x3
-	02873N02389(seaside police) - rape of 17 yo f
-	02874N02390(woodland police) - dui	
+	02873N02389(seaside police) - rape of 17 yo f x5
+	02874N02390(woodland police) - dui
+	02409N01455(merced police) - dui
+	02425N01828(los angeles police) - dui
+	02437N02062(bakersfield police) - dui
+	02443N02121(chp) - dui
+	02456N00018(newport beach police) - dui
+	02462N00109(winters police) - dui
+	02477N00236(palo alto police) - dui
+	02521N00753(modesto police) - dui
+	02532N00930(fresno police) - dui
+	02579N01487(modesto police) - dui
+	02590N01647(stockton police) - dui
+	02601N01755(anaheim police) - dui, narcotics charges
+	02615N01836(lake sheriff) - dui
+	02621N01931(bakersfield police) - dui
+	02622N01940(fresno police) - dui
+	02627N02072(vacaville police) - dui
+	02679N02229(stockton police) - trafficking
+	02691N02240(kern sheriff) - larceny
+	02702N02247(san francisco police) - larceny
+	02744N02283(orange county sheriff) - assault
+	02807N02327(doj) - trafficking, shakedowns, evidence theft
+	02871N02387(tulare police) - dui
+	02876N02392(danville police) - evidence theft
+	02877N02393(palm springs police) - assault
+	02898N02412(san diego police) - rape x5
+	02935N02438(modesto police) - trafficking, shakedowns
+	02970N02472(eureka police) - narcotics theft
+	03000N02496(san bernardino sheriff)- rape of 16 yo f
+	03028N02517(stanislaus sheriff) - murder
+	03029N02518(long beach police) - rape of 15 yo f
+	03034N02523(san diego police) - dui
+	03036N02525(san ramon police) - trafficking, shakedowns, evidence theft
+	03054N02542(los angeles police) - larceny
+	03060N02548(san diego police) - dui
+	03061N02549(san diego police) - assault
+	03062N02550(san diego police) - intimidation
+	03063N02551(san diego police) - burglary
+	03071N02558(san jose police) - dui
+	03076N02563(san bernardino sheriff) - rape of 17 yo f
+	03081N02566(chp) - dui
+	03097N02574(san leandro police) - trafficking
+	03104N02581(sacramento police) - false reports
+	
+	
+	
 	
 Colorado
 	James Ashby(police) - stalking, murder
@@ -1065,7 +1115,7 @@ Maine
 	Chandler Cole(police) - agg forgery, falsifying evidence
 	James Walter Best Jr(police) - child sex crimes
 	Zahra Munye Abu(police) - assault
-	Stephen Easley Jr(police) - dv
+	Stephen Easley Jr(police) - agg dv
 	Jeffrey Bishop(police) - drug trafficking
 	Robert Ireland(corrections) - sexual assault, smuggling
 	Jeffrey Linscott(state police) - fentanyl trafficking
@@ -1076,7 +1126,7 @@ Maine
 	Jeff Boudreau(sheriff) - let trumpster that racked slide back and aimed gun at someone go, false arrest, tried to convince pretrial person to skip bail
 	David Coflesky(state police) - car theft, dui
 	Bryan Creamer(state police) - does not properly investigate
-	Robin Parker(stater police) - dui
+	Robin Parker(state police) - dui
 	Daniel Ross(sheriff) - sexual assault, dv
 	Brian Smith(sheriff) - dv
 	Taylor Reynolds(police) - assault
@@ -1085,6 +1135,21 @@ Maine
 	Andrew Demers(chief of state police) - child sex crimes
 	Tom McKenney(game warden) - let man go that intentionally went off road to hit nesting turtles
 	Joseph Barnes(chief) - theft
+	Corrado Ceccarelli(police) - dv
+	Garrett Brosnan(police) - online solicitation of 13 yo f
+	Andrew Belisle(police) - rape of 14 yo f
+	Bradley Scovil(sheriff) - bribery, corruption, fraud
+	Derrick Doucette(sheriff) - bribery, corruption, fraud
+	Kayla Alves(ada) - evidence tampering
+	Kevin Lemay(police) - destroying evidence
+	James McLamb(sheriff) - destroying evidence, conspiracy
+	Samuel Davidson(corrections) - dui
+	Steve Goozey(police) - rape of f under 12
+	Christopher Crout(police) - assault
+	Roger Lanoie(corrections) - suspended license, crashed ptv
+	Todd Goodwin(police) - dv
+	Edward Hastings IV(police) - killed cow moose
+	Brandon Bezio(marine patrol) - dui
 	02293N01945(auburn police) - dui
 	06593N05595(lewiston police) - assault, trespass
 	01766N00522(caribou police) - dui
@@ -1253,6 +1318,7 @@ New Hampshire
 	Bryan Croft(police) - assault, witness tampering
 	Anna Doherty(police) - dui
 	Penny McIntyre(corrections) - sex with inmate
+	Aaron Goodwin(police) - racially motivated assault
 	
 New Jersey
 	Jovanny Crespo(police) - murder
@@ -1450,7 +1516,39 @@ Vermont
 	Jakob Oliver(police) - dv
 	David Orvis(corrections) - smuggling
 	Ryan Wood(state police) - assault
-	Zachary trocki(state police) - assault
+	Zachary Trocki(state police) - assault
+	Michael Lowe(vergennes chief) - dui, oxy, meth, embezzlement, prescription fraud
+	00395N01087(springfield police) - impersonation
+	02664N02216(hinesberg police) - assault
+	02747N02286(barre police) - burglary w/ violence
+	03368N02829(winooski police) - dui
+	05382N04552(essex police) - assault
+	06690N05678(rutland police) - false reports, sex related
+	07502N06327(state police) - oppression
+	07663N06475(bennington sheriff) - assault
+	08281N06869(state police) - rape of 14 yo f
+	08587N02829(winooski police) - agg assault
+	09003N07396(burlington police) - dui
+	09430N07796(colchester police) - dui
+	09490N07817(bennington sheriff) - trafficking, counterfeiting
+	10153N08376(colchester police) - trafficking, evidence theft
+	10446N08618(woodstock police) - agg assault
+	10529N08694(rutland police) - dui
+	10560N08722(south burlington police) - dui
+	10680N08834(burlington police) - child abuse
+	10940N09069(burlington police) - agg assault on 74 yo f
+	10990N09117(windsor sheriff) - agg assault
+	11279N09388(williston police) - dui
+	11306N09412(burlington police) - assault
+	11408N09504(state police) - dui
+	13520N11296(burlington police) - false reports
+	13593N11360(royalton police) - shakedowns, evidence theft
+	14401N12010(barre police) - prostitution
+	16168N13410(windsor sheriff) - rape of 9, 13 yo f
+	16875N09069(burlington police) - dui w fatality
+	16979N13992(st albans police) - assault
+	18568N15193(state police) - agg assault
+	
 
 Virginia
 	Adam D Torres(police) - murder
@@ -1522,7 +1620,98 @@ Wisconsin
 	Nathan Peskie(dci) - shot unarmed man in the back
 	Kyle Strands(police) - dui w/ child injury
 	Greg Swanson(police) - dui w death of infant
-	
+	00011N00883(sheboygan falls) - assault
+	00138N01443(milwaukee police) - disorderly conduct w/ violence
+	00156N00147(south milwaukee police) - rape of 12 yo f
+	00193N02107(milwaukee police) - child abuse, dui, destruction of property
+	00203N01448(franklin police) - dui
+	00208N00946(milwaukee police) - rape
+	00382N01069(milwaukee police) - assault
+	00384N01079(beloit police) - disorderly conduct w/ violence
+	00385N01080(milwaukee sheriff) - disorderly conduct w/ violence
+	00397N01101(milwaukee sheriff) - hit and run
+	00401N01124(milwaukee police) - rape x3
+	00435N01400(freedom police) - intimidation
+	00479N01822(milwaukee police) - assault
+	00512N02106(milwaukee police) - bribery
+	00513N02117(milwaukee police) - trafficking
+	00255N00081(milwaukee police) - agg assault, civ
+	01125N01465(milwaukee police) - agg assault, civ
+	00554N00116(milwaukee police) - agg assault, civ
+	00555N01235(milwaukee police) - agg assault, civ
+	00556N01882(milwaukee police) - agg assault, civ
+	01126N01125(milwaukee police) - agg assault, civ
+	00631N00274(milwaukee police) - assault
+	00644N00745(milwaukee police) - murder
+	00679N01608(dane sheriff) - child pornography
+	00702N00274(milwaukee police) - assault
+	00834N00411(minocqua police) - child pornography
+	00926N00997(milwaukee police) - rape
+	00948N01200(milwaukee police) - rape of 16 yo m
+	01041N01747(kenosha sheriff) - rape
+	01073N01946(monroe sheriff) - larceny
+	01127N01932(milwaukee police) - obstruction
+	01231N00012(milwaukee police) - sex crimes
+	01237N00030(lisbon police) - oppression
+	01245N00083(milwaukee police) - impersonation
+	01270N00237(bloomer police) - disorderly conduct w/ violence
+	01305N00424(milwaukee police) - fraud
+	01342N00636(evansville police) - liquor law violations
+	01411N00931(milwaukee police) - assault x2
+	01431N01093(milwaukee police) - fraud
+	01435N01119(eau claire police) - assault
+	01485N01339(milwaukee sheriff) - prostitution
+	01531N01508(milwaukee police) - agg assault
+	01959N00988(marathon sheriff) - dui
+	01972N01114(wausau police) - rape
+	02048N01762(new lisbon police) - obstruction
+	02088N02165(prescott police) - false reports
+	02092N02212(greenfield police) - atm/credit card fruad
+	02176N00371(milwaukee sheriff) - dui
+	02203N00458(milwaukee police) - dui
+	02303N02158(st croix sheriff) - dui
+	02340N00430(manitowoc police) - dui
+	02387N01082(milwaukee sheriff) - dui
+	02485N00371(milwaukee sheriff) - dui
+	02489N00387(milwaukee police) - dui
+	02548N01136(milwaukee police chief) - dui
+	02560N00720(juneau sheriff) - dui
+	02626N02065(sauk sheriff) - dui
+	02637N02157(grand rapids police) - dui
+	02645N01395(milwaukee detective) - alcohol related weapons violations
+	02654N01291(madison detective) - dui
+	02659N01525(milwaukee police) - dui
+	02698N02243(superior police) - assault
+	02736N02279(la crosse sheriff) - negligent homicide 16 yo m
+	02933N02436(milwaukee police) - impersonation
+	03105N02582(milwaukee sheriff) - hit and run
+	03201N02670(caledonia police) - assault w/ weapon
+	03285N02747(wisconsin dells police) - dui
+	03441N02890(milwaukee police) - rape of 19 yo f
+	03452N02899(dane sheriff) - disorderly conduct w/ violence
+	03617N03052(milwaukee police) - dui
+	03620N03055(milwaukee police) - assault
+	03625N03058(milwaukee police) - dui
+	03626N03059(milwaukee police) - dui
+	03630N03060(milwaukee police) - dui
+	03631N03061(milwaukee police) - dui
+	03633N03063(milwaukee police) - disorderly conduct w/ violence
+	03637N03067(milwaukee police) - dui
+	03638N03068(milwaukee police) - dui
+	03639N03069(milwaukee police) - dui
+	03640N03070(milwaukee police) - dui
+	03641N03071(milwaukee police) - dui
+	03642N03072(milwaukee police) - alohol related weapons violations
+	03643N03073(milwaukee police) - dui
+	03644N03074(milwaukee police) - dui
+	03647N03075(milwaukee police) - dui
+	03651N03079(milwaukee police) - dui
+	03689N03099(milwaukee police) - dui
+	03691N03101(milwaukee police) - dui
+	03648N03076(milwaukee police) - assault
+	03662N03107(milwaukee police) - assault
+	03683N03093(milwaukee police) - disorderly conduct w/ violence
+	03690N03100(milwaukee police) - agg sexual assault
 Wyoming
 	Michael Hughes(police) - agg assault
 	Gabriel Testerman(state police) - sexual assault
@@ -1538,7 +1727,7 @@ Wyoming
 	Frank Noeson(corrections) - distribution of child pornography
 	Logan Alley(police) - posession of controlled substance
 	Jon Ramsay(police) - excessive force, unlawful entry
-	Craig Burns(polic) - excessive force, unlawful entry
+	Craig Burns(police) - excessive force, unlawful entry
 	Samuel keller(chief) - dv
 	Robert Garry(corrections) - possession w/ intent
 	Jason Gillott(sheriff) - excessive force
@@ -1546,7 +1735,18 @@ Wyoming
 	Clint Shepherd(corrections) - sex w/ inmate
 	James Sutton(corrections) - distribution of child pornography
 	Steven Kaczmarek(corrections) - weapons
-	
-	
-	
+	01379N01772(campbell captain) - dui
+	04361N03712(whp) - profit motivated weapons charges
+	04416N03776(gillette police) - narcotics violations
+	07603N06418(powell police) - rape
+	11583N09664(green river police) - murder of 2 yo m
+	12956N10801(casper police) - assault on 14 yo f
+	12957N10802(casper police) - assault on 14 yo f
+	12995N10827(converse sheriff) - trafficking
+	13050N10873(whp) - intimidation
+	13073N10873(whp) - vpo, destruction of property
+	14265N11899(riverton police) - shoplifting w/ violence
+	14714N12244(cheyenne police) - disorderly conduct w/ violence
+	16752N13829(jackson police) - assault
+	21215N03712(whp) - narcotics violations
 	
