@@ -1574,6 +1574,8 @@ Washington
 	
 	
 West Virginia
+	Jack Ice(chief) - assaulted cyclist
+	Aaron Roop(chief) - violence w/ weapons
 	Brandon Tagayun(police) - murder
 	Travis Snuffer(chief) - animal cruelty
 	Marcus Dudley(police) - abused, killed k9 partner
@@ -1600,7 +1602,97 @@ West Virginia
 	RA Evick(state police) - distribution of child pornography
 	Chase Waugh(police) - destruction of property
 	Todd Hannah(police) - agg assault, false arrest, turned off bwc
-	
+	Matthew A Leavitt(police) - beat man with slapjack, harassed his wife, 20+ illegal searches & arrests, all racially motivated, kept african american male database on his computer
+	Jerry Bowman(chief deputy) - falsifying ballots
+	Robert E Shirley(chief deputy) - deprivation of rights, beat prisoner, false reports about it
+	00107N00543(mcmechen police) - rape of 16 yo f
+	00424N01344(weirton police) - dui
+	00539N01485(charleston police) - assault
+	00570N00980(marion sheriff) - intimidation
+	00661N01171(mount hope police) - rape, burglary, extortion
+	00726N00543(mcmechen police) - incest, child abuse
+	01299N00402(belle police) - assault
+	01321N00516(charleston police) - assault
+	01823N01744(greenbrier sheriff) - assault
+	02449N02188(wheeling police) - dui
+	02842N02361(mason sheriff) - vpo, destruction of property
+	02883N02399(princeton police) - sexual assault of 17 yo m, bribery
+	03687N03097(mcdowell sheriff) - agg assault, narcotics
+	03725N03133(mason sheriff) - assault
+	03813N03217(shinnston police) - burglary, trafficking, shakedowns
+	03814N03218(shinnston police) - counterfeiting
+	03815N03219(wheeling police) - rape x2
+	03872N03253(princeton police) - evidence theft
+	04171N03528(pocahontas sheriff) - violence w/ weapons
+	04755N04051(charleston police) - online solicitation of a child
+	04926N04193(hurricane police) - hit and run
+	05170N04398(charleston police) - fraud
+	05199N04422(martinsburg police) - assault
+	05222N03133(mason sheriff) - atm/credit card fraud
+	05342N04529(dunbar police) - assault
+	05638N04755(charkleston police) - negligent manslaughter
+	05697N04792(charleston police) - fraud
+	05698N04791(charleston police) - fraud
+	05699N04790(charleston police) - fraud
+	05707N04846(glasgow police) - trafficking
+	05931N05035(wood sheriff) - narcotics violations
+	06349N05392(bluefield police) - agg assault
+	06622N05636(charleston police) - intimidation
+	06734N05722(new martinsville police) - intimidation
+	06760N05747(concord university police) - rape of 15 yo f
+	07216N06115(mason sheriff) - violence w/ weapons
+	07591N06405(charleston police) - dui
+	07836N06639(shinnston police) - shakedowns, narcotics violations
+	07894N06658(shinnston police) - larceny
+	07912N06674(mason sheriff) - atm/credit card fraud
+	08005N06729(ripley police) - child sex crimes
+	08186N06851(williamson police) - dui
+	08371N05636(charleston police) - assault
+	08534N05035(wood sheriff) - assault
+	08598N07098(clay sheriff) - wiretapping
+	08636N07115(glasgow police) - trafficking
+	08719N07156(beckley police) - assault
+	09168N07543(richwood police) - burglary, trafficking, evidence theft
+	09841N08127(harpers ferry police) - dui
+	09877N08157(princeton police) - assault
+	10268N08470(oak hill police) - intimidation
+	10286N08488(welch police) - sexual intimidation
+	10332N08530(moundsville police) - rape of 15 yo f
+	10549N08711(wheeling police) - assault
+	11263N09373(mount hope police) - assault
+	11286N09393(paden city police) - assault
+	11703N09759(hancock sheriff) - dui
+	11994N09976(farmington police) - rape, bribery
+	12183N10138(mount hope police) - intimidation
+	12332N10269(raleigh sheriff) - narcotics violations
+	12456N10375(hancock sheriff) - obstruction
+	12651N10553(berkeley sheriff) - online solicitation of a child
+	12715N10608(spencer police) - evidence theft, narcotics violations
+	13008N10839(berkeley sheriff) - fraud
+	13263N11056(berkeley sheriff) - dui
+	13390N11183(nitro police) - violence w/ weapons
+	13527N11303(bluefield police) - dui
+	13693N11450(princeton police) - assault
+	13765N11507(nitro police) - assault
+	14053N11735(mason sheriff) - dui
+	14144N11803(charleston police) - negligent manslaughter, assault
+	14350N11973(mullens police) - child pornography
+	14853N12351(wheeling police) - agg assault
+	14880N12374(charleston police) - agg assault on 2, 5 yo m
+	15288N12726(martinsburg police) - sexual assault
+	15405N12826(charleston police) - assault
+	15468N12880(pratt police) - dui
+	15608N13000(state police) - assault on 16 yo m
+	15725N13091(bethlehem police) - intimidation
+	15894N13218(beckley police) - assault
+	16455N13617(ripley police) - sexual assault, intimidation of 16 yo f
+	16472N13631(pocahontas sheriff) - rape of 16, 15 yo f(numerous counts)
+	16588N13695(harrison sheriff) - planting evidence, evidence theft, false reports
+	16589N13696(harrison sheriff) - false reports
+	19406N15828(mercer sheriff) - trafficking
+	19451N15862(summersville police) - sexual assault 17 yo f
+	19714N16059(kermit police) - violence w/ weapons against children
+	20363N11450(princeton police) - child abuse
 	
 Wisconsin
 	Thomas Grady(police) - murder
@@ -1620,6 +1712,8 @@ Wisconsin
 	Nathan Peskie(dci) - shot unarmed man in the back
 	Kyle Strands(police) - dui w/ child injury
 	Greg Swanson(police) - dui w death of infant
+	Doug Pettit(oregon police chief) - tax evasion
+	Brad Young(waupun police) - 59 burglaries
 	00011N00883(sheboygan falls) - assault
 	00138N01443(milwaukee police) - disorderly conduct w/ violence
 	00156N00147(south milwaukee police) - rape of 12 yo f
@@ -1712,6 +1806,173 @@ Wisconsin
 	03662N03107(milwaukee police) - assault
 	03683N03093(milwaukee police) - disorderly conduct w/ violence
 	03690N03100(milwaukee police) - agg sexual assault
+	03693N03103(milwaukee police) - dui
+	03696N03106(milwaukee police) - dui
+	03697N03107(milwaukee polcie) - dui
+	03699N03109(milwaukee police) - dui
+	03731N03138(superior police) - larceny
+	03734N03141(mukwonago police) - false reports
+	03795N03200(wheeler police) - rape of 16, 17 yo m
+	03802N03206(milwaukee police) - alcohol related weapons violations
+	03826N03229(milwaukee police) - profit related weapons violations
+	03895N03276(milwaukee police) - dui
+	03934N03314(brookfield police) - sexual oppression
+	04107N03477(milwaukee police) - narcotics violations
+	04265N03551(waukesha sheriff) - rape of 6 yo f, 8 yo m
+	04338N03691(outgamie sheriff) - rape of 16 yo f
+	04342N03695(milwaukee police) - larceny
+	04476N03823(milwaukee police) - assault
+	04643N03945(milwaukee police) - disorderly conduct w/ violence
+	04818N04097(fond du lac police) - dui
+	04881N04158(milwaukee police) - larceny
+	04882N04159(milwaukee police) - theft from vehicle
+	04883N04160(milwaukee police) - narcotics related larceny
+	04944N04210(pewaukee police) - profit motivated, victim is another officer
+	04948N04213(saukville police) - arson
+	05051N04276(superior police) - agg assault
+	05456N04620(minocqua police) - alcohol related weapons violations
+	05458N04622(saukville police) - dui
+	05618N04736(ashwaubenon dps) - disorderly conduct w/ violence
+	05763N04879(fond du lac police) - larceny
+	06002N05102(rock sheriff) - child abuse 4 yo f
+	06027N05116(manitowoc police) - disorderly conduct w/ violence
+	06258N05341(geneva police) - oppression
+	06321N05371(milwaukee police) - violence related weapons violations
+	06353N05396(milwaukee police) - assault
+	06364N05406(milwaukee police) - assault
+	06371N05416(milwaukee sheriff)- sexual aasault on 7, 14, 15 yo f, child pornography
+	06446N05476(ozaukee sheriff) - larceny
+	06467N05487(black river falls) diorederly conduct w/ violence
+	06493N05512(birchwood police) - rape
+	06568N05575(pratteville police) - narcotics violations
+	06583N05584(milwaukee police) - obstruction
+	06600N05615(racine police) - rape of 13 yo f
+	06683N05673(marion police) - negligent manslaughter, counterfeiting
+	06691N05679(wisconsin doj) - shakedowns, narcotics violations
+	06708N05698(milwaukee police) - trafficking
+	06709N05699(milwaukee police) - trafficking
+	06857N05824(rock sheriff) - rape of 18 yo f
+	06917N05878(langlade sheriff) - rape of 15, 16, 17, 18, yo f
+	06970N05924(delavan police) - obstruction
+	07064N06009(horicon police) - alcohol related weapons violations
+	07286N06166(milwaukee police) - rape of m by instrumentation x9, sexual oppression
+	07295N06167(milwaukee police) - sexual oppression, failure to intervene
+	07297N06168(milwaukee police) - sexual oppression, failure to intervene
+	07298N06169(milwaukee police) - sexual oppression, failure to intervene
+	07416N06258(portage police) - dui
+	07517N06337(stanley police) -rape
+	07575N06391(west allis police) - rape
+	07617N06432(milwaukee police) - theft from vehicle
+	07665N06477(milwaukee police) - evidence theft
+	07811N06615(milwaukee police) - assault
+	08065N06754(milwaukee police) - disorderly conduct w/ violence
+	08164N06798(milwaukee police) - narcotics violations
+	08175N06800(waukesha sheriff) - dui
+	08231N06819(marinette police) - fraud
+	08460N06986(wisconsin dells police) - dui
+	08471N06996(wauwatosa police) - evidence theft
+	08503N07021(mount horeb police) - rape of 14 yo m
+	08580N07083(milwaukee police) - intimidation
+	08589N07091(waupun police) - burglary
+	08765N07193(greenfield police) - oppression
+	08794N07220(milwaukee police) - oppression
+	08867N07281(la crosse police) - narcotics violations
+	08914N07320(milwaukee police) - oppression, assault
+	09086N03141(mukwonago police) - robbery
+	09248N07611(barron sheriff) - assault
+	09255N07617(la crosse police) - disorderly conduct w/ violence
+	09269N07629(oak creek police) - dui
+	09271N07631(amery police) - dui
+	09417N07751(genoa police) - embezzlement
+	09428N07763(waukesha police) - shakedowns, evidence theft
+	09444N07773(kronenwetter police) - prostitution
+	09555N07868(milwaukee police) - dui
+	09662N07975(new richmond police) - assault
+	09731N08038(dane sheriff) - sexual violence
+	09740N08044(campbell police chief) - NO INFORMATION
+	09793N08091(milwaukee sheriff) - dui
+	09874N08155(waukesha sheriff) - disorderly conduct w/ violence
+	09934N08202(janesville police) - assault
+	09972N08225(rothschild police) - rape
+	10253N08457(waukesha sheriff) - dui
+	10288N08490(state police) - dui
+	10620N08780(dunn sheriff) - dui
+	10621N08781(two rivers police) - dui
+	11050N09175(brown sheriff) - embezzlement
+	11123N09242(green lake sheriff) - rape of 16 yo f
+	11323N09427(sauk prairie police) - narcotics violations
+	11380N09481(madison police) - theft from vehicle
+	11453N09541(milwaukee police) - rape of 14 yo f
+	11510N09594(burlington police) - dui
+	11526N09609(delavan police) - agg assault
+	11561N09643(capitol police) - evidence theft
+	11887N09886(kenosha police) - obstruction
+	11914N09910(milwaukee police) - intimidation
+	11975N09959(milwaukee police) - rape of 15, 16 yo f
+	12088N10058(la crosse police) - dui
+	12215N10164(janesville police) - dui
+	12216N10165(janesville police) - dui
+	12397N10323(milwaukee police) - dui
+	12484N10400(manitowoc police) - dui
+	12490N10405(milwaukee police) - rape of m
+	12521N10436(brown deer police) - agg assault
+	12573N10479(milwaukee police) - weapons violations
+	12634N10536(clear lake police) - assault
+	12660N10405(milwaukee police) - raped, killed prostitute
+	12709N10602(milwaukee police) - dui
+	12711N10604(milwaukee police) - dui
+	12714N10607(kenosha police) - agg assault
+	12744N10634(dane sheriff) - larceny/fraud
+	12876N10749(state police) - child pornography
+	13009N10840(milwaukee police) - dui
+	13021N07320(milwaukee police) - agg assault
+	13106N10923(shorewood police) - obstruction
+	13503N11281(madison police) - dui
+	13561N11336(pierce sheriff) - larceny
+	13713N11465(milwaukee police) - disorderly conduct w/ sexual violence
+	13754N11497(menominee police) - online solicitation of a child
+	13889N11595(rome police) - rape of 4 yo f
+	14035N11717(marquette university police) - dui
+	14201N07975(new richmond police) - vpo
+	14236N11875(milwaukee police) - dui
+	14237N11875(milwaukee police) - dui
+	14306N11936(waukesha sheriff) - NO INFORMATION
+	14450N12056(racine police) - child abuse
+	14602N12161(milwaukee sheriff) - dui
+	14763N12281(dane sheriff) - evidence theft
+	14845N12343(milwaukee police) - assault
+	14940N12420(burlington police) - rape
+	14994N12470(pierce sheriff) - rape of 12 yo f
+	15312N12747(milwaukee police) - assault
+	15313N12748(st croix sheriff) - dui
+	15432N12852(milwaukee police) - assault
+	15443N12857(kenosha police) - dui w/ injury
+	15444N12858(racine police) - dui w/ injury
+	15667N13053(rock sheriff) - assault
+	16041N13313(oneida sheriff) - rape
+	16042N13314(oneida sheriff) - evidence theft
+	16079N13343(milwaukee sheriff) - intimidation of 12 yo f
+	16269N13460(state police) - rape of 15 yo f
+	16532N13650(mayville police) - counterfeiting, narcotics
+	16533N13651(mayville police) - sexual assault 17 yo f
+	16591N13698(milwaukee police) - assault
+	16616N13721(ashland police) - theft of vehicle
+	16892N13931(milwaukee police) - rape
+	16924N13950(richland police chief) - sexual assault, hit and run, dui, evidence theft
+	17106N14086(madison police) - rape of 15 yo f
+	17037N14038(monroe sheriff) - assault
+	17350N14259(racine police) - dui
+	17385N14274(jefferson sheriff) - burglary w/ violence
+	17886N09541(milwaukee police) - rape of 14 yo f
+	19081N15586(racine sheriff) - dui
+	19254N15699(butler police) - shakedowns, narcotics
+	19393N15819(wisconsin rapids police) online solicitation of a child
+	19429N15848(bayfield police) - dui
+	19746N16085(racine sheriff) - rape, oppression
+	19836N16164(sturtevant police) - dui
+	20150N01946(monroe sheriff) - larceny x5
+	22953N13651(mayville police) - sexual oppression
+	
 Wyoming
 	Michael Hughes(police) - agg assault
 	Gabriel Testerman(state police) - sexual assault
