@@ -115,31 +115,31 @@ Alabama
 	05764N04881(andalusia police) - sexual assault
 	09219N07583(andalusia police) - sexual assault
 	13740N11490(ashford police) - sexual violence against, prostitution of unrelated f child
-	00798N00144(butler sheriff) - narcotics violations
+	00798N00144(butler sheriff) - narcotics charges
 	00547N02192(montgomery police) - planting evidence, trafficking
-	13141N10954(montgomery police) - narcotics violations
+	13141N10954(montgomery police) - narcotics charges
 	04245N03608(huntsville police) - forged prescriptions
 	19813N16143(huntsville police) - planting evidence
-	01383N00814(moulton police) - narcotics violations
-	01100N02144(birmingham police) - rape, narcotics violations
-	09825N08118(birmingham police) - narcotics violations
+	01383N00814(moulton police) - narcotics charges
+	01100N02144(birmingham police) - rape, narcotics charges
+	09825N08118(birmingham police) - narcotics charges
 	01424N01045(fayette police) - forged prescriptions
 	04326N03679(mobile police) - shakedowns
 	04327N03680(mobile police) - shakedowns
 	14384N11997(dothan police) - shakedowns
-	05047N04272(russellville police) - narcotics violations
+	05047N04272(russellville police) - narcotics charges
 	09463N07790(russell sheriff) - trafficking
-	04109N03479(prattville police) - narcotics violations
-	07377N06222(flomaton chief) - narcotics violations, theft from evidence room
-	11577N09658(bibb sheriff) - sexual violence, narcotics violations
-	08668N07132(decatur police) - narcotics violations
+	04109N03479(prattville police) - narcotics charges
+	07377N06222(flomaton chief) - narcotics charges, theft from evidence room
+	11577N09658(bibb sheriff) - sexual violence, narcotics charges
+	08668N07132(decatur police) - narcotics charges
 	08515N07031(prichard police) - trafficking
 	07546N06363(mobile sheriff) - trafficking
-	12753N07380(tallassee police) - narcotics violations, agg assault
+	12753N07380(tallassee police) - narcotics charges, agg assault
 	10162N08384(winston sheriff) - trafficking
-	11487N09573(cherokee police) - narcotics violations, theft from evidence room
-	13793N11523(eufala police) - narcotics violations
-	14781N12293(lipscomb chief) - narcotics violations, theft from evidence room
+	11487N09573(cherokee police) - narcotics charges, theft from evidence room
+	13793N11523(eufala police) - narcotics charges
+	14781N12293(lipscomb chief) - narcotics charges, theft from evidence room
 	20051N16336(wilcox sheriff) - trafficking weapons/narcotics
 	20058N16343(eufala police) - trafficking
 	01240N00055(millbrook police) - rape
@@ -352,7 +352,7 @@ Arizona
 	04922N04190(tucson police) - embezzlement
 	16868N13915(pima sheriff) - shoplifting
 	19510N15907(pima sheriff) - dui
-	00951N01216(tucson police) - narcotics violations
+	00951N01216(tucson police) - narcotics charges
 	02420N01678(tucson police) - dui
 	03736N03151(tucson police) - dui
 	15354N12785(tucson police) - rape
@@ -372,13 +372,13 @@ Arizona
 	08415N06952(maricopa police) - larceny
 	05033N04269(nogales police) - rape of 16 yo f
 	05350N04433(nogales police) - rape of 17 yo f
-	11931N09925(nogales police) - narcotics violations
+	11931N09925(nogales police) - narcotics charges
 	12869N10745(nogales police) - rape of 16 and 19 yo f, burglary
 	13374N11166(nogales police) - dui
 	16567N13680(santa cruz da) - obstruction
 	01659N02189(dps) - rape
-	10567N08729(prescott police) - narcotics violations
-	19719N16061(yavapai sheriff) - narcotics, weapons violations
+	10567N08729(prescott police) - narcotics charges
+	19719N16061(yavapai sheriff) - narcotics, weapons charges
 	03688N03098(yuma police) - sex crimes, bribery
 	04749N04045(yuma police) - evidence theft
 	08773N07201(yuma police) - online solicitation of a child
@@ -454,7 +454,7 @@ Arkansas
 	03821N03224(little rock police) - assault
 	03933N03313(greene sheriff) - theft
 	04243N03606(crawford sheriff) - assault
-	04437N03792(helena police) - drug related weapons violations
+	04437N03792(helena police) - drug related weapons charges
 	04449N03800(fayetteville police) - public intoxication
 	04835N04125(lowell police) - assault
 	04951N04215(rogers police) - rape of 13 yo f
@@ -475,11 +475,11 @@ Arkansas
 	07670N06482(alexander police) - murder
 	07752N06561(pine bluff police) - burglary
 	07797N06606(johnson sheriff) - false reports
-	08048N06746(malvern police) - weapons violations
+	08048N06746(malvern police) - weapons charges
 	08215N06825(garland sheriff) - assault
 	08364N06915(garland sheriff) - sexual exploitation of a child
-	08402N06940(little rock police) - trafficking, drug related weapons violations
-	08403N06941(little rock police) - trafficking, drug related weapons violations
+	08402N06940(little rock police) - trafficking, drug related weapons charges
+	08403N06941(little rock police) - trafficking, drug related weapons charges
 	08406N06943(saline sheriff) - assault
 	08632N02234(little rock police) - dui
 	08750N07179(fort smith police) - rape of 16 yo f
@@ -492,14 +492,14 @@ Arkansas
 	09249N07612(state police) - burglary, evidence theft
 	09250N07613(pine bluff police) - rape
 	09320N07676(prairie grove police) - intimidation
-	09338N07698(trumann police) - narcotics violations, evidence theft
-	09339N07699(trumann police) - narcotics violations, evidence theft
+	09338N07698(trumann police) - narcotics charges, evidence theft
+	09339N07699(trumann police) - narcotics charges, evidence theft
 	09405N07740(guy police) - solicitation of a 9 yo f
 	09459N07786(bull shoals chief) - assault, false reports
 	09747N08050(washington sheriff) - rape
 	10329N08527(rogers police) - nonviolent family offense
 	10522N08688(lake city police) - shoplifting
-	11083N09203(dumas police) - trafficking, weapons violations
+	11083N09203(dumas police) - trafficking, weapons charges
 	11105N09207(haskell police) - child pornography
 	11136N09255(lonoke sheriff) - dui
 	11172N09288(fort smith police) - prostitution
@@ -516,7 +516,7 @@ Arkansas
 	12077N10048(hot springs police) - dui
 	12160N10119(pulaski sheriff) - rape
 	12302N10242(state police) - sex crimes
-	12433N10357(bradford police) - drug equipment violation
+	12433N10357(bradford police) - drug equipment charge
 	12625N10527(johnson sheriff) - rape
 	12795N10682(helena police) - kidnapping
 	12808N10690(dallas sheriff) - public intoxication
@@ -529,9 +529,9 @@ Arkansas
 	13815N11536(flippen police) - embezzlement
 	13919N11618(arkansas sheriff) - extortion
 	13945N11642(benton sheriff) - dui
-	13986N11679(bella vista police) - narcotics violations
+	13986N11679(bella vista police) - narcotics charges
 	13994N11505(white sheriff) - assault, assault
-	14010N11698(little rock police) - weapons violations
+	14010N11698(little rock police) - weapons charges
 	14235N11874(garland sheriff) - embezzlement
 	14612N12165(faulkner sheriff) - rape
 	14784N12296(england police) - rape of a minor f
@@ -561,7 +561,7 @@ Arkansas
 	19443N15859(faulkner sheriff) - rape of 14 yo f
 	19505N15904(fayetteville police) - rapes, burglaries
 	19541N15924(marianna police) - rape of 14 yo f by instrumentation
-	19856N16181(keiser police) - burglary, narcotics violations
+	19856N16181(keiser police) - burglary, narcotics charges
 	19997N13124(little rock police) - sexual intimidation
 	20088N16367(sebastian constable) - weapons, drugs
 	21839N11948(west memphis police) - assault
@@ -672,7 +672,7 @@ California
 	00811N00269(san leandro police) - sexual assault
 	00831N00393(san diego sheriff) - dui
 	00838N00474(desert hot springs police) - rape of 7, 13 yo f
-	00841N00492(berkeley police) - weapons violations
+	00841N00492(berkeley police) - weapons charges
 	00843N00501(riverside police) - fraud
 	00854N00567(modesto police) - bought liquor for 17 yo f
 	00856N00584(lakeport police) - intimidation
@@ -711,7 +711,7 @@ California
 	01941N00790(sacramento sheriff) - dui
 	01957N00978(los angeles police) - larceny
 	01960N00990(placer sheriff) - rape of 16, 17 yo f
-	01965N01048(narcotics bureau) - narcotics violations
+	01965N01048(narcotics bureau) - narcotics charges
 	01974N01140(san bernardino sheriff) - rape x4
 	02026N01667(orange county sheriff) - sexual violence x5
 	02184N00292(oceanside police) - dui
@@ -1488,7 +1488,7 @@ Utah
 	02881N02397(south ogden police) - rape of 14 yo f
 	02904N02414(salt lake sheriff) - atm/credit card fraud
 	03228N02694(unified police) - atm/credit card fraud
-	03372N02833(draper police) - narcotics violations
+	03372N02833(draper police) - narcotics charges
 	03474N02918(west valley police) - online solicitation of a child
 	03611N03046(perry police) - bribery
 	04177N03534(hurricane police) - rape
@@ -1559,9 +1559,160 @@ Virginia
 	Albin Pearson(police) - murder
 	Richard Daniel Johnson(police) - vehicular homicide
 	Darren H Roberts(state police) - kidnapping, sexual assault, dv
+	00024N00165(prince william police) - assault
+	00055N01802(arlington police) - online solicitation of 13 yo f
+	00079N00657(newport news) - alcohol related weapons charges
+	00258N00103(virginia beach police) - assault, vpo
+	00303N00428(gm university police) - rape of 17 yo m
+	00310N00463(coeburn police) - destruction of property
+	00357N00879(state police) - dui
+	00361N00954(portsmouth police) - larceny
+	00396N01094(marine patrol) - embezzlement
+	00469N01691(rockingham sheriff) - dui
+	00511N02099(richmond police) - gambling operation
+	00565N00195(caroline sheriff) - rape of 17 yo f
+	00566N01807(caroline sheriff) - rape of 16, 17 yo f
+	00636N00545(richmond police) - dui
+	00683N01690(chesapeake police) - dui
+	00783N00029(portsmouth police) - dui
+	00791N00093(fairfax police) - dui
+	00794N00108(prince william police) - rape, kidnapping
+	00822N00329(petersburg police) - negligent manslaughter x2
+	00860N00612(petersburg police) - trafficking
+	00943N01154(portsmouth police) - NO INFORMATION
+	01061N01887(virginia police) - extortion
+	01109N00013(henry sheriff) - trafficking, intimidation
+	01110N00297(henry sheriff) - trafficking
+	01111N01640(henry sheriff) - profit motivated weapons charges
+	01112N01222(henry sheriff) - embezzlement
+	01113N01220(henry sheriff) - trafficking
+	01114N01569(henry sheriff) - trafficking
+	01115N00805(henry sheriff) - trafficking, embezzlement
+	01116N00401(henry sheriff) - evidence theft
+	01117N02042(henry sheriff) - trafficking
+	01118N01052(henry sheriff) - trafficking
+	01119N01032(henry sheriff) - evidence theft
+	01120N02132(henry sheriff) - evidence theft
+	01121N00245(henry sheriff) - profit motivated weapons charges
+	01241N00062(hampton police) - child sex crimes
+	01276N00299(danville sheriff) - dui
+	01328N00560(newport news police) - dui
+	01398N00877(norfolk police) - larceny
+	01533N01532(st paul police) - burglary, narcotics charges
+	01573N01631(damascus police) - trafficking
+	01731N00026(richmond sheriff) - trafficking
+	01793N01151(portsmouth police) - assault x2
+	01828N01929(fairfax police) - agg assault
+	01869N00200(caroloine sheriff) - larceny
+	01939N00780(norfolk sheriff) - intimidation
+	01943N00866(loudon sheriff) - embezzlement
+	02032N01677(fairfax sheriff) - child pornography, sexual assault on 4 yo f
+	02113N01796(chilhowie police) - rape of 17 yo f, trafficking
+	02115N00529(chilhowie police) - rape of 17 yo f
+	02116N01695(chilhowie police) - trafficking
+	02219N00735(norfolk police) - dui
+	02263N01467(roanoke police) - dui
+	02274N01682(state police) - dui
+	02285N01803(portsmouth police) - dui
+	02321N00092(alexandria chief) - dui
+	02335N00410(henrico police) - dui
+	02349N00608(roanoke detective) - dui
+	02405N01369(roanoke police) - dui
+	02433N02000(smithfield police) - dui
+	02447N02166(virginia beach police) - dui
+	02453N01572(virginia beach police) - dui
+	02486N00372(marion police) - dui
+	02487N00431(chilhowie police) - dui
+	02488N00382(norfolk detective) - dui
+	02518N00732(danville sheriff) - dui
+	02588N01633(virginia beach police) - dui
+	02604N01768(henrico police) - dui
+	02722N02265(norfolk police) - fraud
+	02746N02285(onley police) - dui
+	02752N02291(alexandria police) - dui
+	02780N02313(suffolk police) - intimidation
+	02803N02795(accomack sheriff) - evidence theft
+	02843N02362(newport news police) - rape of 2 yo f
+	02913N02422(bedford sheriff) - agg assault
+	02918N02427(prince william police) - assault
+	03008N02501(alexandria police) - fraud
+	03045N02533(rocky mount police) - theft
+	03110N02587(damascus police) - agg assault
+	03116N02593(franklin sheriff) - murder, agg assault
+	03135N02611(norfolk police) - assault
+	03136N02612(richmond sheriff) - trafficking
+	03180N02651(norfolk police) - trafficking
+	03182N02653(portsmouth police) - child pornography
+	03318N02775(richmond police) - embezzlement
+	03344N02808(henrico police) - child pornography
+	03347N02811(chesapeake police) - evidence theft
+	03413N02870(middlesex sheriff) - embezzlement
+	03462N02906(fairfax police) - embezzlement
+	03490N02932(prince william sheriff) - child pornography
+	03520N02962(loudon sheriff) - bribery
+	03534N02976(fairfax police) - assault
+	03543N00545(richmond police) - dui
+	03553N02992(aquia harbour police) - rape of 8 yo m
+	03590N03089(bedford sheriff) - rape of 16 yo f
+	03632N03062(fairfax police) - dui
+	03663N03112(vc university police) - child pornography
+	03695N03105(portsmouth police) - dui
+	03772N03182(portsmouth police) - assault
+	03773N03183(poquoson police) - rape of 13 yo f
+	03777N02727(richmond police) - rape of 15 yo m
+	03794N03199(bristol police) - intimidation
+	03801N03205(virginia beach police) - rape of 13 yo f
+	03811N03215(state police capt) - rape of 6 yo f
+	03832N03235(virgina beach police) - evidence theft
+	03868N03250(halifax sheriff) - counterfeiting
+	03924N03304(henrico police) - larceny
+	03938N03318(pulaski police) - trafficking
+	03953N03332(charlottesville police) - embezzlement
+	04006N03394(newport news police) - embezzlement
+	04060N03441(chesterfield police) - violence related weapons charges
+	04071N03451(metro airport police) - online solicitation of a child
+	04131N03500(vc university police) - online solicitation of a child
+	04188N03543(james police) - violence related weapons charges
+	04190N03545(hopewell police) - rape
+	04202N03565(albemarle police) - rape of relative
+	04213N03576(danville police) - assault on minor
+	04244N03607(newport news police) - assault
+	04270N03631(harrisonburg police) - assault
+	04523N03734(newport news police) - rape, kidnapping
+	04568N03892(portsmouth police) - rape of 16 yo f
+	04651N03964(newport news police) - dui
+	04730N04013(newport news police) - rape of 18 yo f
+	04752N04048(newport news police) - NO INFORMATION
+	04982N04228(state police) - child sex crimes
+	04992N04244(virginia beach police) - fraud
+	05003N04249(blacksburg police) - rape
+	05038N04289(northumberland sheriff) - rape of 15 yo f
+	05053N04278(richmond police) - false reports
+	05104N04332(richmond police) - assault
+	05112N04339(louisa police) - embezzlement
+	05119N04354(roanoke police) - agg assault on 17 yo m
+	05194N04410(danville police) - assault
+	05202N04417(newport news police) - assault
+	05207N04425(fairfax police) - murder/neg homicide
+	05233N04395(virginia beach police) - agg assault x2
+	05261N04443(chesterfield sheriff) - violence related weapons charges
+	05310N04483(page sheriff) - rape, intimidation, embezzlement
+	05364N04518(isle of wight sheriff) - child pornography
+	05371N04536(fairfax police) - NO INFORMATION
+	05401N04562(dunfries police) - rape of 12 yo m
+	05459N04623(newport news police) - assault
+	05651N04778(fairfax sheriff) - rape
+	05831N04927(berryville police) - rape of 15 yo f
+	05832N04928(clarke sheriff) - indecent exposure
+	05905N00965(norfolk police) - obstruction
+	05906N04991(norfolk police) - false reports
+	05908N04992(norfolk police) - false reports
+	05993N05108(chesapeake police) - online solicitation of a child
+	06071N05164(isle of wight sheriff) - rape of 13 yo f
+	
 	
 Washington
-	Karl Thompson(police) - murder
+	Karl Thompson(police) - murder, false reports
 	Mathias Bachmeier(sheriff) - murder
 	Pat Whalen(police) - manslaughter
 	WF Stephenson(police) - manslaughter
@@ -1571,7 +1722,166 @@ Washington
 	Daniel Auderer(police) - joked about Kandula
 	Burton Hill(police) - sexist and racial slurs
 	Robert Anderson(police) - beat handcuffed person
-	
+	00001N00469(king sheriff) - rape, vpo
+	00266N00174(kennewick police) - agg assault
+	00429N01372(seattle police) - dui
+	00880N00730(tacoma police) - rape of 9 yo m, 4, 8 yo f
+	00963N01297(des moines police) - assault
+	01252N00112(spokane detective) - dui
+	01266N00202(seattle police) - assault
+	01332N00582(yakima sheriff) - dui
+	01332N00582(spokane detective) - agg assault
+	01516N01444(spokane police) - agg assault
+	01632N01992(state police) - rape
+	01760N00344(walla walla police) - rape of 15 yo f
+	01804N01315(seattle police) - intimidation
+	01911N00576(ocean shores police) - assault on 17 yo f
+	01963N01006(okanogan police) - dui
+	02085N02156(federal way police) - rape of 17 yo f
+	02183N00261(pacific police) - dui
+	02401N01323(yakima opolice) - dui
+	02459N00035(tacoma police) - dui
+	02471N00207(kitsap sheriff) - dui
+	02481N00339(state police) - dui
+	02538N01008(spokane sheriff) - dui
+	02777N02311(spokane police) - obstruction
+	02864N02380(king sheriff detective) - evidence theft, false reports
+	02944N02447(spokane sheriff) - dui
+	02957N02460(seattle police) - assault on 17 yo m
+	02982N01372(seattle police) - dui
+	03002N02498(snohomish police) - assault
+	03247N02714(seattle police) - assault
+	03521N02963(dupont police) - dui
+	03545N01372(seattle police) - agg assault
+	03600N03038(seattle police) - assault
+	03636N03066(seattle police) - dui
+	03861N03243(seattle police) - shakedowns, evidence theft
+	03979N03354(pierce sheriff) - assault
+	04045N03426(lakewood police) - dui
+	04141N03503(mountlake terrace police) - false reports
+	04233N03596(forks police) - rape of 12 yo f
+	04241N03604(yakima police) - robbery, intimidation
+	04516N03850(everett police) - murder
+	04585N03956(lakewood police) - wire fraud, counterfeiting
+	04620N03925(west richland police) - assault x2
+	04633N03936(king sheriff) - assault
+	04742N04038(seattle police) - dui
+	04814N04093(lacey police) - false reports, narcotics charges
+	04834N04124(east wenatchee police) - assault
+	04863N04151(quincy police) - assault
+	04950N04196(medina police) - sexual oppression
+	04963N04220(snohomish sheriff) - assault
+	04989N04243(king sheriff) - assault on 15 yo f	
+	05062N04297(ferry sheriff) - agg assault on 16 yo f
+	05067N04302(port orchard police) - arson
+	05078N04311(medical lake police) - rape
+	05148N04364(tukwila police) - agg assault
+	05293N04476(spokane police) - dui
+	05345N04526(pierce sheriff) - rape
+	05581N04712(seattle police) - agg assault
+	05582N04735(seattle police) - weapons charges
+	05631N04743(state police) - assault
+	05999N05088(seattle police) - assault
+	06173N05234(puyallup police) - assault
+	06187N05261(bingen-white salmon police) - rape of 0 yo infant
+	06195N05269(ephrata police) - stolen property
+	06218N05298(nisqually police) - dui
+	06277N05318(yakima sheriff) - rape
+	06504N05523(tacoma police) - rape of 5 yo f
+	06646N05606(marysville police) - neg manslaughter 7 yo f
+	06793N05773(edmonds police) - rape
+	06852N05821(seattle police) - assault, vpo
+	07157N06078(king sheriff) - false reports re: violence
+	07277N06158(benton sheriff) - assault
+	07318N06179(anacortes police) - child abuse
+	07461N06295(vancouver police) - obstruction
+	07630N06445(seattle police) - assault
+	07710N06520(state police) - dui
+	07779N06587(seattle police) - dui
+	07780N06588(seattle police) - dui
+	07985N06706(seattle police) - assault
+	08078N06758(spokane police) - false reports
+	08357N06908(snohomish sheriff) - prostitution
+	08359N06910(monroe police) - rape of 14 yo f
+	08382N06924(auburn police) - assault
+	08494N07013(seattle detective) - sexual intimidation
+	08536N07044(king sheriff) - evidence theft
+	08569N07075(snohomish sheriff) - burglary
+	08727N07164(lewis sheriff) - dui
+	08796N07222(colville police) - rape
+	09009N07402(nisqually police) - assault
+	09115N07495(lewis sheriff, morton police) - dui
+	09118N07497(state police) - rape of relative
+	09125N07504(belleveue police) - dui
+	09400N07735(mountlake terrace police) - dui
+	09409N07744(linden police) - child pornography, sexual assault on 16 yo f
+	09452N07780(spokane police) - dui
+	09514N07840(colville police) - rape of 11 yo f
+	09530N07855(pasco police) - prostitution
+	09615N07934(king sheriff) - trafficking, evidence theft
+	09661N07974(seattle police) - rape of 7 yo f
+	09796N08093(king sheriff) - narcotics charges
+	10418N08596(bothell detective) - rape of 17 yo f
+	10421N08599(king sheriff) - intimidation
+	10514N08681(yakima police) - agg assault on 12 yo m
+	10576N08736(algona police) - embezzlement
+	10668N08823(grand sheriff) - assault
+	10699N08851(pasco police) - rape of relative
+	10758N08907(state police) - destroying evidence
+	10982N09109(spokane police) - burglary
+	11151N09268(swinomish police) - wire fraud
+	11222N09335(everett police) - dui
+	11338N09442(spokane police) - rape
+	11398N03243(seattle police) - assault
+	11556N09638(tacoma police) - larceny
+	11624N09693(vancouver police) - assault
+	11634N09702(spokane police) - obstruction
+	11865N09876(seattle police) - rape of 10, 4 yo f
+	11904N09902(wapato police) - rape
+	11950N09941(tukwila police) - assault, deprivation of rights
+	11992N09974(snohomish sheriff) - agg assault
+	11998N09979(pierce sheriff) - rape
+	12231N10175(oak harbor police) - child pornography, sexual assault on 13 yo f
+	12466N10384(seattle police) - rape 46, 35 yo f, 51 yo m
+	12647N10549(bellingham police) - assault
+	12782N10671(skagit sheriff) - agg assault
+	12814N10695(state police) - oppression
+	12872N10747(seattle police) - narcotics charges
+	13139N10952(seattle police) - trafficking
+	13163N10976(pasco police) - rape of relative
+	13402N11195(lincoln sheriff) - negligent manslaughter
+	13458N11243(spokane police) - assault
+	13460N11245(spokane police) - obstruction
+	13508N11286(granger police) - intimidation
+	13544N11320(walla walla police) - vpo
+	13692N11449(seattle police) - larceny
+	13836N11553(spokane police) - assault
+	13848N11563(kalispel police) - sexual assault
+	14087N11765(spokane detective) - dui
+	14128N11794(poulsbo police) - evidence theft
+	14177N11830(bellingham police) - agg assault, assault
+	14179N11831(bellingham police) - agg assault, trespass
+	14464N12070(bellevue police) - assault
+	14500N12102(king sheriff) - assault
+	14508N12108(seattle police) - assault
+	14710N12242(bellevue police) - rape, agg assault, vpo
+	15039N12508(lakewood police) - dui
+	15074N12540(pierce sheriff) - agg assault, dui
+	15124N12576(pullman police) - rape
+	15183N12629(colville police) - agg assault, assault
+	15571N12970(hoh public safety) - rape of 15 yo f
+	15606N12999(skagit sheriff) - wire fraud
+	15965N13254(seattle police) - assault on 17 yo m
+	16538N13656(east wenatchee police) - pocket-picking
+	16556N13670(renton policee) - rape
+	17009N14015(spokane police) - rape
+	17019N14023(seattle police) - prostitution
+	17036N14037(ferndale police) - agg assault on 64 yo f
+	18410N01006(okanogan sheriff) - dui
+	19278N15719(kennewick police) - assault
+	19401N15827(pacific sheriff) - child abuse, bribery
+	19441N15858(spokane airport police) - rape, incest 9, 6 yo f
+	19502N15901(washougal police) - assault	
 	
 West Virginia
 	Jack Ice(chief) - assaulted cyclist
@@ -1635,14 +1945,14 @@ West Virginia
 	05698N04791(charleston police) - fraud
 	05699N04790(charleston police) - fraud
 	05707N04846(glasgow police) - trafficking
-	05931N05035(wood sheriff) - narcotics violations
+	05931N05035(wood sheriff) - narcotics charges
 	06349N05392(bluefield police) - agg assault
 	06622N05636(charleston police) - intimidation
 	06734N05722(new martinsville police) - intimidation
 	06760N05747(concord university police) - rape of 15 yo f
 	07216N06115(mason sheriff) - violence w/ weapons
 	07591N06405(charleston police) - dui
-	07836N06639(shinnston police) - shakedowns, narcotics violations
+	07836N06639(shinnston police) - shakedowns, narcotics charges
 	07894N06658(shinnston police) - larceny
 	07912N06674(mason sheriff) - atm/credit card fraud
 	08005N06729(ripley police) - child sex crimes
@@ -1664,10 +1974,10 @@ West Virginia
 	11703N09759(hancock sheriff) - dui
 	11994N09976(farmington police) - rape, bribery
 	12183N10138(mount hope police) - intimidation
-	12332N10269(raleigh sheriff) - narcotics violations
+	12332N10269(raleigh sheriff) - narcotics charges
 	12456N10375(hancock sheriff) - obstruction
 	12651N10553(berkeley sheriff) - online solicitation of a child
-	12715N10608(spencer police) - evidence theft, narcotics violations
+	12715N10608(spencer police) - evidence theft, narcotics charges
 	13008N10839(berkeley sheriff) - fraud
 	13263N11056(berkeley sheriff) - dui
 	13390N11183(nitro police) - violence w/ weapons
@@ -1750,7 +2060,7 @@ Wisconsin
 	01245N00083(milwaukee police) - impersonation
 	01270N00237(bloomer police) - disorderly conduct w/ violence
 	01305N00424(milwaukee police) - fraud
-	01342N00636(evansville police) - liquor law violations
+	01342N00636(evansville police) - liquor law charges
 	01411N00931(milwaukee police) - assault x2
 	01431N01093(milwaukee police) - fraud
 	01435N01119(eau claire police) - assault
@@ -1772,7 +2082,7 @@ Wisconsin
 	02560N00720(juneau sheriff) - dui
 	02626N02065(sauk sheriff) - dui
 	02637N02157(grand rapids police) - dui
-	02645N01395(milwaukee detective) - alcohol related weapons violations
+	02645N01395(milwaukee detective) - alcohol related weapons charges
 	02654N01291(madison detective) - dui
 	02659N01525(milwaukee police) - dui
 	02698N02243(superior police) - assault
@@ -1795,7 +2105,7 @@ Wisconsin
 	03639N03069(milwaukee police) - dui
 	03640N03070(milwaukee police) - dui
 	03641N03071(milwaukee police) - dui
-	03642N03072(milwaukee police) - alohol related weapons violations
+	03642N03072(milwaukee police) - alohol related weapons charges
 	03643N03073(milwaukee police) - dui
 	03644N03074(milwaukee police) - dui
 	03647N03075(milwaukee police) - dui
@@ -1813,11 +2123,11 @@ Wisconsin
 	03731N03138(superior police) - larceny
 	03734N03141(mukwonago police) - false reports
 	03795N03200(wheeler police) - rape of 16, 17 yo m
-	03802N03206(milwaukee police) - alcohol related weapons violations
-	03826N03229(milwaukee police) - profit related weapons violations
+	03802N03206(milwaukee police) - alcohol related weapons charges
+	03826N03229(milwaukee police) - profit related weapons charges
 	03895N03276(milwaukee police) - dui
 	03934N03314(brookfield police) - sexual oppression
-	04107N03477(milwaukee police) - narcotics violations
+	04107N03477(milwaukee police) - narcotics charges
 	04265N03551(waukesha sheriff) - rape of 6 yo f, 8 yo m
 	04338N03691(outgamie sheriff) - rape of 16 yo f
 	04342N03695(milwaukee police) - larceny
@@ -1830,31 +2140,31 @@ Wisconsin
 	04944N04210(pewaukee police) - profit motivated, victim is another officer
 	04948N04213(saukville police) - arson
 	05051N04276(superior police) - agg assault
-	05456N04620(minocqua police) - alcohol related weapons violations
+	05456N04620(minocqua police) - alcohol related weapons charges
 	05458N04622(saukville police) - dui
 	05618N04736(ashwaubenon dps) - disorderly conduct w/ violence
 	05763N04879(fond du lac police) - larceny
 	06002N05102(rock sheriff) - child abuse 4 yo f
 	06027N05116(manitowoc police) - disorderly conduct w/ violence
 	06258N05341(geneva police) - oppression
-	06321N05371(milwaukee police) - violence related weapons violations
+	06321N05371(milwaukee police) - violence related weapons charges
 	06353N05396(milwaukee police) - assault
 	06364N05406(milwaukee police) - assault
 	06371N05416(milwaukee sheriff)- sexual aasault on 7, 14, 15 yo f, child pornography
 	06446N05476(ozaukee sheriff) - larceny
 	06467N05487(black river falls) diorederly conduct w/ violence
 	06493N05512(birchwood police) - rape
-	06568N05575(pratteville police) - narcotics violations
+	06568N05575(pratteville police) - narcotics charges
 	06583N05584(milwaukee police) - obstruction
 	06600N05615(racine police) - rape of 13 yo f
 	06683N05673(marion police) - negligent manslaughter, counterfeiting
-	06691N05679(wisconsin doj) - shakedowns, narcotics violations
+	06691N05679(wisconsin doj) - shakedowns, narcotics charges
 	06708N05698(milwaukee police) - trafficking
 	06709N05699(milwaukee police) - trafficking
 	06857N05824(rock sheriff) - rape of 18 yo f
 	06917N05878(langlade sheriff) - rape of 15, 16, 17, 18, yo f
 	06970N05924(delavan police) - obstruction
-	07064N06009(horicon police) - alcohol related weapons violations
+	07064N06009(horicon police) - alcohol related weapons charges
 	07286N06166(milwaukee police) - rape of m by instrumentation x9, sexual oppression
 	07295N06167(milwaukee police) - sexual oppression, failure to intervene
 	07297N06168(milwaukee police) - sexual oppression, failure to intervene
@@ -1866,7 +2176,7 @@ Wisconsin
 	07665N06477(milwaukee police) - evidence theft
 	07811N06615(milwaukee police) - assault
 	08065N06754(milwaukee police) - disorderly conduct w/ violence
-	08164N06798(milwaukee police) - narcotics violations
+	08164N06798(milwaukee police) - narcotics charges
 	08175N06800(waukesha sheriff) - dui
 	08231N06819(marinette police) - fraud
 	08460N06986(wisconsin dells police) - dui
@@ -1876,7 +2186,7 @@ Wisconsin
 	08589N07091(waupun police) - burglary
 	08765N07193(greenfield police) - oppression
 	08794N07220(milwaukee police) - oppression
-	08867N07281(la crosse police) - narcotics violations
+	08867N07281(la crosse police) - narcotics charges
 	08914N07320(milwaukee police) - oppression, assault
 	09086N03141(mukwonago police) - robbery
 	09248N07611(barron sheriff) - assault
@@ -1900,7 +2210,7 @@ Wisconsin
 	10621N08781(two rivers police) - dui
 	11050N09175(brown sheriff) - embezzlement
 	11123N09242(green lake sheriff) - rape of 16 yo f
-	11323N09427(sauk prairie police) - narcotics violations
+	11323N09427(sauk prairie police) - narcotics charges
 	11380N09481(madison police) - theft from vehicle
 	11453N09541(milwaukee police) - rape of 14 yo f
 	11510N09594(burlington police) - dui
@@ -1916,7 +2226,7 @@ Wisconsin
 	12484N10400(manitowoc police) - dui
 	12490N10405(milwaukee police) - rape of m
 	12521N10436(brown deer police) - agg assault
-	12573N10479(milwaukee police) - weapons violations
+	12573N10479(milwaukee police) - weapons charges
 	12634N10536(clear lake police) - assault
 	12660N10405(milwaukee police) - raped, killed prostitute
 	12709N10602(milwaukee police) - dui
@@ -1998,7 +2308,7 @@ Wyoming
 	Steven Kaczmarek(corrections) - weapons
 	01379N01772(campbell captain) - dui
 	04361N03712(whp) - profit motivated weapons charges
-	04416N03776(gillette police) - narcotics violations
+	04416N03776(gillette police) - narcotics charges
 	07603N06418(powell police) - rape
 	11583N09664(green river police) - murder of 2 yo m
 	12956N10801(casper police) - assault on 14 yo f
@@ -2009,5 +2319,5 @@ Wyoming
 	14265N11899(riverton police) - shoplifting w/ violence
 	14714N12244(cheyenne police) - disorderly conduct w/ violence
 	16752N13829(jackson police) - assault
-	21215N03712(whp) - narcotics violations
+	21215N03712(whp) - narcotics charges
 	
