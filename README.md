@@ -18,11 +18,15 @@ Sources and methodology:
 	
 	I hope you are starting to see the pattern of how police bulletin board media outlets try to obfuscate and misrepresent information for those police, which works exceptionally well for people that do not read articles but instead share the headline. "Charged in assault" sounds much less severe than "charged with sexual abuse and extortion".
 
-2. The Henry A. Wallace Police Crime Database:
+2. The NDI(National Decertification Index):
+
+	In the opening paragraph of the NDI About page: "Inclusion in the database does not necessarily preclude any individual from appointment as an officer." This devalues certification.
+
+3. The Henry A. Wallace Police Crime Database:
 
 	This is tedious because it gives no officer names. I cross reference with date/offense/location to make sure that I don't already have that officer listed by name. There will be redundancy. I do my best to be thorough. If you find errors, bring it to my attention as soon as possible.
 
-3. ResearchGate style platforms. Example:
+4. ResearchGate style platforms. Example:
 
 	Courtney G. Lee, More than Just Collateral Damage: Pet Shootings by Police, 17 U.N.H. L. Rev. 171 (2018) Abstract excerpt: "The Department of Justice estimates that American police officers shoot 10,000 pet dogs in the line of duty each year. It is impossible to ascertain a reliable number, however, because most law enforcement agencies do not maintain accurate records of animal killings."
 	
@@ -30,9 +34,9 @@ Sources and methodology:
 		
 	I also do not have data of the blue stripe bandits that torture, maim, and/or kill wildlife. Only the most egregious and with video evidence usually get attention. You know how police love saying, "Crime is actually higher than it appears because of the things that don't get reported/charged"? Same applies. See: Maine police beat porcupines to death for snapchat.
 	
-4. Other OSINT such as court documents(the ones I don't have to pay the already luxurious living state employees to read), disciplinary reports such as (https://www.honolulupd.org/wp-content/uploads/2023/01/HPD-2022-Legislative-Report.pdf), social media videos that get no mainstream media attention, and DOJ press releases.
+5. Other OSINT such as court documents(the ones I don't have to pay the already luxurious living state employees to read), disciplinary reports such as (https://www.honolulupd.org/wp-content/uploads/2023/01/HPD-2022-Legislative-Report.pdf), social media videos that get no mainstream media attention, and DOJ press releases.
 
-5. My personal experiences with law enforcement. Examples:
+6. My personal experiences with law enforcement. Examples:
 
 	Taylor Reynolds(maine police) jumped me for not using a sidewalk ON A STREET WITH NO SIDEWALK and telling him "fuck you" for demanding I do so (https://www.tiktok.com/@sixie6e/video/7178950341675814190)
 	
