@@ -6,6 +6,19 @@
 // Anyone that flies the Blue Stripe Bandits' gang flag is a severe social threat.
 // Guard your loved ones. In addition to this list, police kill 10,000+ family pets ANNUALLY.
 
+// The top 10 corporations that severely profit from daily police behaviors and their 'industry'(our social strife):
+
+// BlackRock Fund Advisors - 14.55% - $17,497,196
+// Fidelity Management - 14.26% - $17,155,751
+// The Vanguard Group - 10.40% - $12,504,785
+// River Road Asset Management - 5.87% - $7,063,452
+// Mason Capital Management - 3.68% - $4,425,459
+// SSgA Funds Management - 3.60% - $4,324,146
+// Jacobs Levy Equity Management - 1.68% - $2,022,755
+// Geode Capital Management - 1.58% - $1,899,522
+// LSV Asset Management - 1.40% - $1,686,148
+// Ranger Global Real Estate Advisors - 1.25% - $1,500,652
+
 Alabama
 	Cameroun Tremble(police) - animal cruelty
 	Dana Elmore(police) - tased handcuffed man
@@ -1711,6 +1724,9 @@ Virginia
 	06071N05164(isle of wight sheriff) - rape of 13 yo f
 	
 	
+	
+	
+	
 Washington
 	Karl Thompson(police) - murder, false reports
 	Mathias Bachmeier(sheriff) - murder
@@ -2320,4 +2336,3 @@ Wyoming
 	14714N12244(cheyenne police) - disorderly conduct w/ violence
 	16752N13829(jackson police) - assault
 	21215N03712(whp) - narcotics charges
-	
