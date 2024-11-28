@@ -1,5 +1,6 @@
 // sixie6e@distherapy 2024
-// This will be continually updated as the project progresses, which is almost daily.
+// This will be continually updated as the project progresses.
+// I have a nature project requiring my time, so it will be updated regularly, but not daily.
 // The state with the current most is not the 'worst'. I am populating this list from the README.md sources.
 // I will then be sifting through them to cancel out redundant lines matching numbers to names.
 // This list is absolutely disgusting. I have to take breaks when reading reports.
