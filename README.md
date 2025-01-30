@@ -47,3 +47,25 @@ Sources and methodology:
 	Jeff Boudreau(maine k9 sheriff) tried to convince me to leave the country while on bail, and falsely arrested me (https://www.youtube.com/shorts/PyxJnlJV3l8) && (https://www.youtube.com/watch?v=X9evRtQAp-o).
 
 What if the officers weren't convicted? As stated in section 1 about plea bargains, they usually are not. Often witnesses do not want to go against them in court, the victims are minors, they resign and move(often to enlist in another law enforcement agency), and judges are not quick to rule against their militant enforcers. Notice when an officer does something perceived as heroic, it counts for all police but when one beats animals or children to death it counts against only that officer. Keep trying to make excuses for the blue stripe bandits' gang flag, though...
+
+It is difficult to map out the entire American prison 'industry' that generates more revenue than the combined GDP of 133 countries. Remember the US RICO Act:
+
+EXTORTION: Demanding money and punishing you if you do not pay, yet calling it ‘protection’ is extortion which is mafia behavior. Even if they try to justify it with ‘crime’ and wording because you went 65 in a 55. When money and then jail is the method of enforcement it only punishes the poor. Pay to go free in this corporate oligarchical plutocracy. Crimi…I mean citizens either get public defenders who are swamped or paid attorneys that can choose cases and dedicate time required. Regardless, all attorneys are officers of the court. They talk, eat, and gossip together.
+
+GAMBLING: The lottery is self explanatory. You can play the numbers but only the state sanctioned ones where they control the revenue.
+
+ROBBERY: For years running police have stolen more than burglars have. Another reason why those that worship the boot should be incarcerated with them.
+
+MURDER: Police kill people in the street. Weaponless people. For cigarettes and other minor things. #Lyoya #Hammond
+
+TRAFFICKING: The united states is one of the only countries with direct to consumer pharmaceutical advertising. The state doesn’t give a fuck if you do drugs, the state just wants you to do their profiteering drugs. Our lives are corporate laboratories.
+
+WITNESS TAMPERING: Offer someone who is afraid and looking at 10+ years in prison their freedom and some money – some 7 or 8 out of 10 people will throw their dealer under the bus on their drug cases. If there were no incentive, many would never do it, this means that the witnesses are tempted and manipulated into speaking things.
+
+KIDNAPPING: Taking people to a concrete and steel box and only releasing them if they can pay? How is that not kidnapping for ransom? This happens every day because people drove their own vehicles without paying the state first.
+
+FORCED LABOR: The 13th amendment is circumvented by labeling everyone a criminal and sending them to facilities.
+
+The US runs one of the largest organized crime rackets.
+
+We are a species that preaches sanctity of life yet exploits and kills it. If any other species caused the suffering and devastation we do, we would exterminate it.
